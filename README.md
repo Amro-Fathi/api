@@ -1,6 +1,6 @@
 # CINEVERSE Movies JSON
 
-A JSON dataset for the **CINEVERSE** movie website. It contains movie information grouped into `cartoon` and `general` collections, with genre/category lists, trailer video keys, TMDB image paths, keywords, and reviews.
+A JSON dataset for the **CINEVERSE** movie website. It stores movie data under one unified `Movies` object, with merged category arrays, YouTube trailer keys, TMDB image paths, keywords, and reviews.
 
 ## 1. Put the JSON file on GitHub
 
@@ -30,14 +30,14 @@ async function loadMovies() {
     throw new Error(`Could not load movie data: ${response.status}`);
   }
 
-  return await response.json();
+  return response.json();
 }
 
 // Example usage
 loadMovies()
   .then((data) => {
     console.log(data);
-    console.log(data.cartoon.Movies.Top_Rated);
+    console.log(data.Movies.Top_Rated);
   })
   .catch((error) => console.error(error));
 ```
@@ -46,63 +46,54 @@ Call `loadMovies()` once when your site starts, then reuse the returned `data` r
 
 ## 3. JSON structure
 
-The main structure is:
+All category arrays are grouped under one `Movies` object. The former `cartoon` and `general` collections have been merged.
 
 ```text
 movies.json
-├── cartoon
-│   └── Movies
-│       ├── Top_Rated
-│       ├── Action
-│       ├── Adventure
-│       ├── Animation
-│       ├── Comedy
-│       ├── Family
-│       ├── Fantasy
-│       └── Science Fiction
-└── general
-    └── Movies
-        ├── Top_Rated
-        ├── Action
-        ├── Comedy
-        ├── Crime
-        ├── Documentary
-        ├── Drama
-        ├── Adventure
-        └── Science Fiction
+└── Movies
+    ├── Top_Rated
+    ├── Action
+    ├── Adventure
+    ├── Animation
+    ├── Comedy
+    ├── Crime
+    ├── Documentary
+    ├── Drama
+    ├── Family
+    ├── Fantasy
+    └── Science Fiction
 ```
 
-Each category is an **array of movie objects**. A movie can appear in more than one category, so repeated movie IDs across categories are expected.
+Each category is an **array of movie objects**. A movie can appear in more than one category, so repeated movie IDs across different categories are expected. The current dataset contains 192 category entries across 11 categories, representing 168 unique movie IDs.
 
 ## 4. Access movies by category
 
 ```js
-// Top-rated animated movies
-const cartoonTopRated = data.cartoon.Movies.Top_Rated;
+// Top-rated movies
+const topRatedMovies = data.Movies.Top_Rated;
 
-// General action movies
-const generalAction = data.general.Movies.Action;
+// Action movies
+const actionMovies = data.Movies.Action;
 
 // Category names containing spaces use bracket notation
-const cartoonSciFi = data.cartoon.Movies["Science Fiction"];
-const generalSciFi = data.general.Movies["Science Fiction"];
+const scienceFictionMovies = data.Movies["Science Fiction"];
 
 // Render a category
-cartoonTopRated.forEach((movie) => {
+ topRatedMovies.forEach((movie) => {
   console.log(movie.title, movie.vote_average);
 });
 ```
 
-To combine the two collections' movies for searching, flatten the category arrays and deduplicate by movie ID:
+To create one list of unique movies from all categories, deduplicate by TMDB movie ID:
 
 ```js
-function getUniqueMovies(collection) {
-  const allMovies = Object.values(collection.Movies).flat();
+function getUniqueMovies(moviesByCategory) {
+  const allMovies = Object.values(moviesByCategory).flat();
   return [...new Map(allMovies.map((movie) => [movie.id, movie])).values()];
 }
 
-const allCartoonMovies = getUniqueMovies(data.cartoon);
-const allGeneralMovies = getUniqueMovies(data.general);
+const allMovies = getUniqueMovies(data.Movies);
+console.log(allMovies);
 ```
 
 ## 5. Useful movie fields
@@ -124,11 +115,11 @@ const allGeneralMovies = getUniqueMovies(data.general);
 | `keywords.keywords` | Array of keyword objects with `id` and `name` |
 | `reviews` | Array of review objects |
 
-Some values may be empty or `null`, so guard against missing data before displaying it.
+Some values may be empty or `null`, so guard against missing data before displaying them.
 
 ## 6. Display reviews
 
-`reviews` is already an array. Each review contains fields such as `author`, `content`, and `created_at`.
+`reviews` is already an array. Each review can contain fields such as `author`, `content`, and `created_at`.
 
 ```js
 function renderReviews(movie) {
@@ -138,7 +129,7 @@ function renderReviews(movie) {
   });
 }
 
-const movie = data.cartoon.Movies.Top_Rated[0];
+const movie = data.Movies.Top_Rated[0];
 renderReviews(movie);
 ```
 
@@ -153,7 +144,9 @@ function getTrailerEmbedUrl(movie) {
     : null;
 }
 
+const movie = data.Movies.Top_Rated[0];
 const trailerUrl = getTrailerEmbedUrl(movie);
+
 if (trailerUrl) {
   console.log(trailerUrl);
 }
@@ -183,7 +176,8 @@ function getImageUrl(filePath, size = "w500") {
   return filePath ? `${TMDB_IMAGE_BASE}${size}${filePath}` : null;
 }
 
-const posterPath = movie.images.posters[0]?.file_path;
+const movie = data.Movies.Top_Rated[0];
+const posterPath = movie.images?.posters?.[0]?.file_path;
 const posterUrl = getImageUrl(posterPath, "w500");
 
 if (posterUrl) {
@@ -197,7 +191,7 @@ Common size choices include `w342` or `w500` for posters and `w780` or `w1280` f
 
 ```js
 // Find a movie by its TMDB ID
-const foundMovie = allCartoonMovies.find((movie) => movie.id === 166428);
+const foundMovie = allMovies.find((movie) => movie.id === 166428);
 
 // Search by title (case-insensitive)
 function searchMovies(movies, query) {
@@ -207,7 +201,7 @@ function searchMovies(movies, query) {
   );
 }
 
-const results = searchMovies(allGeneralMovies, "batman");
+const results = searchMovies(allMovies, "batman");
 ```
 
 ## Notes
