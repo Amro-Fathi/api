@@ -1,0 +1,302 @@
+{
+ "category": "Drama",
+ "slug": "drama",
+ "count": 15,
+ "movies": [
+  {
+   "id": 530915,
+   "imdb_id": "tt8579674",
+   "title": "1917",
+   "year": 2019,
+   "release_date": "2019-12-25",
+   "vote_average": 8.0,
+   "vote_count": 13993,
+   "genres": [
+    "War",
+    "Drama",
+    "History"
+   ],
+   "poster_path": "/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
+   "backdrop_path": "/tJgmraUAmVlJPlq72yC76tKDyC4.jpg",
+   "logo_path": "/wwSU87KF5cqBLI4ani5vOnYIErh.png",
+   "tagline": "Time is the enemy.",
+   "trailer_youtube_id": "PyiNNRnZZnA",
+   "runtime": 119
+  },
+  {
+   "id": 272,
+   "imdb_id": "tt0372784",
+   "title": "Batman Begins",
+   "year": 2005,
+   "release_date": "2005-06-10",
+   "vote_average": 7.7,
+   "vote_count": 23312,
+   "genres": [
+    "Drama",
+    "Crime",
+    "Action"
+   ],
+   "poster_path": "/sPX89Td70IDDjVr85jdSBb4rWGr.jpg",
+   "backdrop_path": "/9IIBboV7MCT0bTxzXHmWK1Hq558.jpg",
+   "logo_path": "/kmqIeEVaVfbBCgV9WFPuLUl84uW.png",
+   "tagline": "Evil fears the knight.",
+   "trailer_youtube_id": "ejd9hefxp_E",
+   "runtime": 140
+  },
+  {
+   "id": 1560520,
+   "imdb_id": "tt32333324",
+   "title": "Batman: Knightfall Part 1: Knightfall",
+   "year": 2026,
+   "release_date": "2026-06-23",
+   "vote_average": 9.1,
+   "vote_count": 438,
+   "genres": [
+    "Animation",
+    "Action",
+    "Adventure",
+    "Drama"
+   ],
+   "poster_path": "/360qdtu2hLnqMu8SVHMywn420w1.jpg",
+   "backdrop_path": "/caBIySpwuFi2i7ynvHIlnxJLOdN.jpg",
+   "logo_path": "/yH9NHHGZx4H5Zt7dZtCJqbUdViN.png",
+   "tagline": null,
+   "trailer_youtube_id": "TAvWHT6wVu0",
+   "runtime": 79
+  },
+  {
+   "id": 228150,
+   "imdb_id": "tt2713180",
+   "title": "Fury",
+   "year": 2014,
+   "release_date": "2014-10-15",
+   "vote_average": 7.5,
+   "vote_count": 13303,
+   "genres": [
+    "War",
+    "Drama",
+    "Action"
+   ],
+   "poster_path": "/pfte7wdMobMF4CVHuOxyu6oqeeA.jpg",
+   "backdrop_path": "/95ckrV6wQgbffurAVmETQ5YKASL.jpg",
+   "logo_path": "/kEcGWpNcsdwgVuI3BiGtk27uvQF.png",
+   "tagline": "War never ends quietly.",
+   "trailer_youtube_id": "OkfwwwDlyds",
+   "runtime": 135
+  },
+  {
+   "id": 98,
+   "imdb_id": "tt0172495",
+   "title": "Gladiator",
+   "year": 2000,
+   "release_date": "2000-05-04",
+   "vote_average": 8.2,
+   "vote_count": 21632,
+   "genres": [
+    "Action",
+    "Drama",
+    "Adventure"
+   ],
+   "poster_path": "/aDb548BOkFfI4nFm0kx8A3Ezh7H.jpg",
+   "backdrop_path": "/Ar7QuJ7sJEiC0oP3I8fKBKIQD9u.jpg",
+   "logo_path": "/liF6t2gp6C5JTCvfF3biCCqFDx9.png",
+   "tagline": "What we do in life echoes in eternity.",
+   "trailer_youtube_id": "64DXB0R4bIA",
+   "runtime": 155
+  },
+  {
+   "id": 6479,
+   "imdb_id": "tt0480249",
+   "title": "I Am Legend",
+   "year": 2007,
+   "release_date": "2007-12-12",
+   "vote_average": 7.2,
+   "vote_count": 17410,
+   "genres": [
+    "Drama",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "poster_path": "/iPDkaSdKk2jRLTM65UOEoKtsIZ8.jpg",
+   "backdrop_path": "/ePgD1cwmklyrFBjl6z96IuixuSY.jpg",
+   "logo_path": "/5ffl0wnYvirnyEDut48ClJazV6z.png",
+   "tagline": "The last man on Earth is not alone.",
+   "trailer_youtube_id": "IvCjMq0wD4I",
+   "runtime": 101
+  },
+  {
+   "id": 475557,
+   "imdb_id": "tt7286456",
+   "title": "Joker",
+   "year": 2019,
+   "release_date": "2019-10-01",
+   "vote_average": 8.1,
+   "vote_count": 28467,
+   "genres": [
+    "Crime",
+    "Thriller",
+    "Drama"
+   ],
+   "poster_path": "/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+   "backdrop_path": "/rlay2M5QYvi6igbGcFjq8jxeusY.jpg",
+   "logo_path": "/uACD19MjHdpLBlzmFSztlwsW5Q6.png",
+   "tagline": "Put on a happy face.",
+   "trailer_youtube_id": "FqT--nybwkU",
+   "runtime": 122
+  },
+  {
+   "id": 872585,
+   "imdb_id": "tt15398776",
+   "title": "Oppenheimer",
+   "year": 2023,
+   "release_date": "2023-07-19",
+   "vote_average": 8.0,
+   "vote_count": 12661,
+   "genres": [
+    "Drama",
+    "History"
+   ],
+   "poster_path": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+   "backdrop_path": "/cUIqZd6jJCbO94Txt1CkTs7MSeP.jpg",
+   "logo_path": "/b07VisHvZb0WzUpA8VB77wfMXwg.png",
+   "tagline": "The world forever changes.",
+   "trailer_youtube_id": "O_hKC3gRvzw",
+   "runtime": 181
+  },
+  {
+   "id": 1375441,
+   "imdb_id": "tt34206385",
+   "title": "Primetime",
+   "year": 2026,
+   "release_date": "2026-09-23",
+   "vote_average": 6.8,
+   "vote_count": 103,
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "poster_path": "/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+   "backdrop_path": "/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
+   "logo_path": "/hBLQZmtZQ0DsCdsihNrGKeUnPL1.png",
+   "tagline": "Are you ready to make television history?",
+   "trailer_youtube_id": "dYKzYM5tnbo",
+   "runtime": 110
+  },
+  {
+   "id": 11324,
+   "imdb_id": "tt1130884",
+   "title": "Shutter Island",
+   "year": 2010,
+   "release_date": "2010-02-14",
+   "vote_average": 8.2,
+   "vote_count": 26560,
+   "genres": [
+    "Drama",
+    "Thriller",
+    "Mystery"
+   ],
+   "poster_path": "/nrmXQ0zcZUL8jFLrakWc90IR8z9.jpg",
+   "backdrop_path": "/rbZvGN1A1QyZuoKzhCw8QPmf2q0.jpg",
+   "logo_path": "/hRtb8ju7S4xNP3s6RtDqyR1wn8j.png",
+   "tagline": "Someone is missing.",
+   "trailer_youtube_id": "x9lGthLqe3E",
+   "runtime": 138
+  },
+  {
+   "id": 302946,
+   "imdb_id": "tt2140479",
+   "title": "The Accountant",
+   "year": 2016,
+   "release_date": "2016-10-13",
+   "vote_average": 7.1,
+   "vote_count": 7642,
+   "genres": [
+    "Crime",
+    "Thriller",
+    "Drama"
+   ],
+   "poster_path": "/fceheXB5fC4WrLVuWJ6OZv9FXYr.jpg",
+   "backdrop_path": "/dTGECn8He16tZeBHQTLf6rVydE8.jpg",
+   "logo_path": "/uqsuusdP3JsvbSrylm7RqlHuqB2.png",
+   "tagline": "Calculate your choices.",
+   "trailer_youtube_id": "ebSKxEl5YU4",
+   "runtime": 128
+  },
+  {
+   "id": 549509,
+   "imdb_id": "tt8999762",
+   "title": "The Brutalist",
+   "year": 2024,
+   "release_date": "2024-12-20",
+   "vote_average": 6.9,
+   "vote_count": 1851,
+   "genres": [
+    "Drama"
+   ],
+   "poster_path": "/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg",
+   "backdrop_path": "/hmZnqijPaaACjenDkrbWcCmcADI.jpg",
+   "logo_path": "/t5mbFmw6IH69nqi2Xdt0zSaikeG.png",
+   "tagline": "Welcome to America.",
+   "trailer_youtube_id": "-mYZ78EgZMo",
+   "runtime": 215
+  },
+  {
+   "id": 1284465,
+   "imdb_id": "tt32273171",
+   "title": "The Death of Robin Hood",
+   "year": 2026,
+   "release_date": "2026-06-18",
+   "vote_average": 6.7,
+   "vote_count": 521,
+   "genres": [
+    "Adventure",
+    "Drama",
+    "Action"
+   ],
+   "poster_path": "/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
+   "backdrop_path": "/lh3BDkmWJh998n4fQcHYcVi7dpm.jpg",
+   "logo_path": "/iwZMP3Vbqgj6QHAOAzz9VjRJfNN.png",
+   "tagline": "He was no hero.",
+   "trailer_youtube_id": "A1UKNvmb1Go",
+   "runtime": 123
+  },
+  {
+   "id": 205587,
+   "imdb_id": "tt1872194",
+   "title": "The Judge",
+   "year": 2014,
+   "release_date": "2014-10-08",
+   "vote_average": 7.3,
+   "vote_count": 4580,
+   "genres": [
+    "Drama"
+   ],
+   "poster_path": "/3K93GWotLXe4FqpErri0xkpLaD5.jpg",
+   "backdrop_path": "/sPantp0oQ9idos7Jdwko2r6ZOIa.jpg",
+   "logo_path": "/anPUcSUkSlwP7bw7oi6kDRRyfjE.png",
+   "tagline": "Defend your Honor.",
+   "trailer_youtube_id": "ZBvK6ni97W8",
+   "runtime": 141
+  },
+  {
+   "id": 1433583,
+   "imdb_id": "tt10794054",
+   "title": "The Weight",
+   "year": 2026,
+   "release_date": "2026-09-16",
+   "vote_average": 6.8,
+   "vote_count": 39,
+   "genres": [
+    "Drama",
+    "Thriller",
+    "Crime"
+   ],
+   "poster_path": "/2fAU3Gx2cFoYFKAE5wtJFyXOFc4.jpg",
+   "backdrop_path": "/zKizFK3adjtpXut1dW6bRaxwhd.jpg",
+   "logo_path": "/goGNzpf7rm2chxzcbLiLg5LDqmI.png",
+   "tagline": "A tale of good and evil.",
+   "trailer_youtube_id": "7YpuMymmiJ8",
+   "runtime": 112
+  }
+ ]
+}

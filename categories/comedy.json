@@ -1,0 +1,504 @@
+{
+ "category": "Comedy",
+ "slug": "comedy",
+ "count": 25,
+ "movies": [
+  {
+   "id": 14160,
+   "imdb_id": "tt1049413",
+   "title": "Up",
+   "year": 2009,
+   "release_date": "2009-05-28",
+   "vote_average": 8.0,
+   "vote_count": 22236,
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family",
+    "Adventure"
+   ],
+   "poster_path": "/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg",
+   "backdrop_path": "/hGGC9gKo7CFE3fW07RA587e5kol.jpg",
+   "logo_path": "/xi23eSwoibr5XeuZWBkTIBcA8O2.png",
+   "tagline": "Change is in the air.",
+   "trailer_youtube_id": "1cEO0-gD3C0",
+   "runtime": 96
+  },
+  {
+   "id": 22794,
+   "imdb_id": "tt0844471",
+   "title": "Cloudy with a Chance of Meatballs",
+   "year": 2009,
+   "release_date": "2009-09-17",
+   "vote_average": 6.7,
+   "vote_count": 6669,
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+   ],
+   "poster_path": "/qhOhIKf7QEyQ5dMrRUqs5eTX1Oq.jpg",
+   "backdrop_path": "/doNIj6jX27hhfcbD6GEb22ydLSF.jpg",
+   "logo_path": "/shJ42Q15iN1NlTaKbK1G49hLPzW.png",
+   "tagline": "Prepare to get served.",
+   "trailer_youtube_id": "uL_8wtHSs80",
+   "runtime": 90
+  },
+  {
+   "id": 953,
+   "imdb_id": "tt0351283",
+   "title": "Madagascar",
+   "year": 2005,
+   "release_date": "2005-05-25",
+   "vote_average": 6.9,
+   "vote_count": 12071,
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Comedy",
+    "Family"
+   ],
+   "poster_path": "/zMpJY5CJKUufG9OTw0In4eAFqPX.jpg",
+   "backdrop_path": "/tPaurpIUskVji5vwV0dhy9pq4Vs.jpg",
+   "logo_path": "/4WxLPaAiWA2bCEW76XRwt09hmBJ.png",
+   "tagline": "They weren't born in the wild... They were shipped there.",
+   "trailer_youtube_id": "NI6visYQWpA",
+   "runtime": 86
+  },
+  {
+   "id": 7484,
+   "imdb_id": "tt0400717",
+   "title": "Open Season",
+   "year": 2006,
+   "release_date": "2006-09-27",
+   "vote_average": 6.2,
+   "vote_count": 3085,
+   "genres": [
+    "Animation",
+    "Family",
+    "Adventure",
+    "Comedy"
+   ],
+   "poster_path": "/w5Lctmkc1yah215Luxmci4djaiW.jpg",
+   "backdrop_path": "/wttDKH1WRXGpebDVzrqnVSdh15u.jpg",
+   "logo_path": "/79z4mrf0Y2uwMnijznBqHhL9KnM.png",
+   "tagline": "One fur all. All fur one.",
+   "trailer_youtube_id": "YHQAL6s3Mk8",
+   "runtime": 86
+  },
+  {
+   "id": 11688,
+   "imdb_id": "tt0120917",
+   "title": "The Emperor's New Groove",
+   "year": 2000,
+   "release_date": "2000-12-15",
+   "vote_average": 7.6,
+   "vote_count": 7494,
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Comedy",
+    "Family",
+    "Fantasy"
+   ],
+   "poster_path": "/wwbgkXQBEKtnyIJapk6gUgWkVw8.jpg",
+   "backdrop_path": "/mZj8EUr6F1x2PWZjKPxaeYd5WRw.jpg",
+   "logo_path": "/6vvISfFfJMGmPtzAq0M0zYBZ3Lb.png",
+   "tagline": "It's all about... ME!",
+   "trailer_youtube_id": "qTY6MhkKPpk",
+   "runtime": 78
+  },
+  {
+   "id": 11836,
+   "imdb_id": "tt0345950",
+   "title": "The SpongeBob SquarePants Movie",
+   "year": 2004,
+   "release_date": "2004-11-19",
+   "vote_average": 7.1,
+   "vote_count": 3319,
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Comedy",
+    "Family",
+    "Fantasy"
+   ],
+   "poster_path": "/1rvzKV1d18EbDVaEd4VDzK3cgnY.jpg",
+   "backdrop_path": "/6ZnHQKcqQ8nmfP6woZu2v5EtXoW.jpg",
+   "logo_path": "/iXoFXsnNGFq2AfEDkGyxGYiTCVs.png",
+   "tagline": "Hero. Legend. Sponge.",
+   "trailer_youtube_id": "8BskVfAkzCI",
+   "runtime": 87
+  },
+  {
+   "id": 1075794,
+   "imdb_id": "tt5755238",
+   "title": "Leo",
+   "year": 2023,
+   "release_date": "2023-11-17",
+   "vote_average": 7.3,
+   "vote_count": 1415,
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+   ],
+   "poster_path": "/gSOVog7ydsaF1YpgAqBqnKYFGY.jpg",
+   "backdrop_path": "/t6fCPUywPqrs4srW6i2LmYYDRys.jpg",
+   "logo_path": "/ZkPpvKEhxaJwZiCr24fJA3O6dj.png",
+   "tagline": "Breaking out this November.",
+   "trailer_youtube_id": "wV1ubnPFdYI",
+   "runtime": 102
+  },
+  {
+   "id": 940551,
+   "imdb_id": "tt6495056",
+   "title": "Migration",
+   "year": 2023,
+   "release_date": "2023-12-06",
+   "vote_average": 7.4,
+   "vote_count": 2333,
+   "genres": [
+    "Family",
+    "Comedy",
+    "Adventure",
+    "Animation"
+   ],
+   "poster_path": "/ldfCF9RhR40mppkzmftxapaHeTo.jpg",
+   "backdrop_path": "/19OjK9QOe37cctpfnHr7CMgXL6A.jpg",
+   "logo_path": "/hxzondI2u5lxZKt0XufCucM2RGs.png",
+   "tagline": "Odd ducks welcome.",
+   "trailer_youtube_id": "sSSgpb89-KM",
+   "runtime": 83
+  },
+  {
+   "id": 748783,
+   "imdb_id": "tt5779228",
+   "title": "The Garfield Movie",
+   "year": 2024,
+   "release_date": "2024-04-30",
+   "vote_average": 6.9,
+   "vote_count": 1517,
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Comedy",
+    "Family"
+   ],
+   "poster_path": "/p6AbOJvMQhBmffd0PIv0u8ghWeY.jpg",
+   "backdrop_path": "/P82NAcEsLIYgQtrtn36tYsj41m.jpg",
+   "logo_path": "/prSRX17NuVYp3QdasekhYTLIPNP.png",
+   "tagline": "Indoor cat. Outdoor adventure.",
+   "trailer_youtube_id": "T5JIv8YgxKw",
+   "runtime": 101
+  },
+  {
+   "id": 609271,
+   "imdb_id": "tt10551654",
+   "title": "Under the Boardwalk",
+   "year": 2023,
+   "release_date": "2023-10-27",
+   "vote_average": 7.3,
+   "vote_count": 135,
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Comedy",
+    "Family",
+    "Romance"
+   ],
+   "poster_path": "/pJzk88QM8USoEY6VWAEQFoubkFd.jpg",
+   "backdrop_path": "/59sQOjOP5ktav9DtxgnXBF2oaja.jpg",
+   "logo_path": "/j62brQenget7cJBbmpCU9mju83A.png",
+   "tagline": null,
+   "trailer_youtube_id": "LKwLC4O6XeI",
+   "runtime": 87
+  },
+  {
+   "id": 813,
+   "imdb_id": "tt0080339",
+   "title": "Airplane!",
+   "year": 1980,
+   "release_date": "1980-06-27",
+   "vote_average": 7.3,
+   "vote_count": 5298,
+   "genres": [
+    "Comedy"
+   ],
+   "poster_path": "/7Q3efxd3AF1vQjlSxnlerSA7RzN.jpg",
+   "backdrop_path": "/wQyvrsNSTzFVEGgarZbFkFyIciy.jpg",
+   "logo_path": "/8ZHSWF6XRgLmybObWNiFbUCOzvx.png",
+   "tagline": "What's slower than a speeding bullet, and able to hit tall buildings at a single bound?",
+   "trailer_youtube_id": "ZhN6DjpI3_s",
+   "runtime": 88
+  },
+  {
+   "id": 310,
+   "imdb_id": "tt0315327",
+   "title": "Bruce Almighty",
+   "year": 2003,
+   "release_date": "2003-05-23",
+   "vote_average": 6.7,
+   "vote_count": 11791,
+   "genres": [
+    "Fantasy",
+    "Comedy"
+   ],
+   "poster_path": "/wqkWrOFtYnZSvIMu8Lsmz7WIvKC.jpg",
+   "backdrop_path": "/m0eJc9CwCy5nowYQdNEaxkHHmj4.jpg",
+   "logo_path": "/n3f0CVxuHKHzSPJFpUCEVpLDIfI.png",
+   "tagline": "In Bruce we trust?",
+   "trailer_youtube_id": "UxpQEMIEJaM",
+   "runtime": 101
+  },
+  {
+   "id": 37495,
+   "imdb_id": "tt1341167",
+   "title": "Four Lions",
+   "year": 2010,
+   "release_date": "2010-05-07",
+   "vote_average": 7.0,
+   "vote_count": 1343,
+   "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+   ],
+   "poster_path": "/x4JzaRPXBs9wiHCe3e3ymXWuwfd.jpg",
+   "backdrop_path": "/bVmDpF2VzVivzH8GVFXfVJeRPd7.jpg",
+   "logo_path": "/usqgUqopMSFzqnoX8KuaKAjiscV.png",
+   "tagline": "We are four Lions.",
+   "trailer_youtube_id": "evpVor8hua4",
+   "runtime": 97
+  },
+  {
+   "id": 9614,
+   "imdb_id": "tt0116483",
+   "title": "Happy Gilmore",
+   "year": 1996,
+   "release_date": "1996-02-16",
+   "vote_average": 6.7,
+   "vote_count": 3498,
+   "genres": [
+    "Comedy"
+   ],
+   "poster_path": "/4RnCeRzvI1xk5tuNWjpDKzSnJDk.jpg",
+   "backdrop_path": "/As7NuiDRM4EO7LlJn2u8JWWsABp.jpg",
+   "logo_path": "/2M85cNazYWdDevCIvEaP275b2rE.png",
+   "tagline": "He doesn't play golf... he destroys it.",
+   "trailer_youtube_id": "SGmbd8xm24o",
+   "runtime": 92
+  },
+  {
+   "id": 8321,
+   "imdb_id": "tt0780536",
+   "title": "In Bruges",
+   "year": 2008,
+   "release_date": "2008-02-08",
+   "vote_average": 7.5,
+   "vote_count": 6016,
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Crime"
+   ],
+   "poster_path": "/vz3Vd6nfq9YZrVvyYx5RHFaYKV3.jpg",
+   "backdrop_path": "/dtGxDOcFssdUUTYBr6M6INXTI1e.jpg",
+   "logo_path": "/vBkX61TknEqdafET6bt7sW00Eng.png",
+   "tagline": "Shoot first. Sightsee later.",
+   "trailer_youtube_id": "bc4lG_BbIEw",
+   "runtime": 108
+  },
+  {
+   "id": 1624,
+   "imdb_id": "tt0119528",
+   "title": "Liar Liar",
+   "year": 1997,
+   "release_date": "1997-03-21",
+   "vote_average": 6.7,
+   "vote_count": 6449,
+   "genres": [
+    "Comedy",
+    "Fantasy"
+   ],
+   "poster_path": "/p1habYSdC7oD3WygQ5lynU5G5rV.jpg",
+   "backdrop_path": "/nuDMG0uTaiWFVD6XfHPruum5JOL.jpg",
+   "logo_path": "/6Du1dZ6LXxdrweJArWOMHglatmw.png",
+   "tagline": "Trust me.",
+   "trailer_youtube_id": "CfadZa96V-s",
+   "runtime": 86
+  },
+  {
+   "id": 762,
+   "imdb_id": "tt0071853",
+   "title": "Monty Python and the Holy Grail",
+   "year": 1975,
+   "release_date": "1975-04-03",
+   "vote_average": 7.8,
+   "vote_count": 6656,
+   "genres": [
+    "Adventure",
+    "Comedy",
+    "Fantasy"
+   ],
+   "poster_path": "/7nTkHjETdGMYK1phHwDbPsrzbYl.jpg",
+   "backdrop_path": "/1KgXxv6tHXOnakqYvMPvFwYKWiw.jpg",
+   "logo_path": "/1aq8fhDEHOEhrmW6OFQjCvbbR5E.png",
+   "tagline": "And now! At Last! Another film completely different from some of the other films which aren't quite the same as this one is.",
+   "trailer_youtube_id": "4b52A3sKz-I",
+   "runtime": 91
+  },
+  {
+   "id": 1542,
+   "imdb_id": "tt0151804",
+   "title": "Office Space",
+   "year": 1999,
+   "release_date": "1999-02-19",
+   "vote_average": 7.4,
+   "vote_count": 3557,
+   "genres": [
+    "Comedy"
+   ],
+   "poster_path": "/iEmTwOkUaLziMQCUZii5wPQBIAO.jpg",
+   "backdrop_path": "/g7o5O6xRWkMiwHXiYMPC690YEL4.jpg",
+   "logo_path": "/kAol2s0iXnPIVVRIMBo58W1Wz1u.png",
+   "tagline": "Work sucks.",
+   "trailer_youtube_id": "3_fG_zLbBeU",
+   "runtime": 90
+  },
+  {
+   "id": 11545,
+   "imdb_id": "tt0128445",
+   "title": "Rushmore",
+   "year": 1998,
+   "release_date": "1998-12-11",
+   "vote_average": 7.4,
+   "vote_count": 2827,
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "poster_path": "/hSJ6swahAuZ8wM96lHDTwQPXUvZ.jpg",
+   "backdrop_path": "/s6OldGv67TfJQtlMR8K2gFiDmbC.jpg",
+   "logo_path": "/qJN68kGAW0YOtTpMPR4gRDxrZDT.png",
+   "tagline": "Love. Expulsion. Revolution.",
+   "trailer_youtube_id": "e7YDw_Nm5Pk",
+   "runtime": 93
+  },
+  {
+   "id": 8363,
+   "imdb_id": "tt0829482",
+   "title": "Superbad",
+   "year": 2007,
+   "release_date": "2007-08-17",
+   "vote_average": 7.3,
+   "vote_count": 8431,
+   "genres": [
+    "Comedy"
+   ],
+   "poster_path": "/ek8e8txUyUwd2BNqj6lFEerJfbq.jpg",
+   "backdrop_path": "/coru98UcFBzJIU7bxZguxaePgu0.jpg",
+   "logo_path": "/7xA4BseFuhtcvfkA02nBgskvNj7.png",
+   "tagline": "Come and get some!",
+   "trailer_youtube_id": "WStOAomgtv8",
+   "runtime": 113
+  },
+  {
+   "id": 115,
+   "imdb_id": "tt0118715",
+   "title": "The Big Lebowski",
+   "year": 1998,
+   "release_date": "1998-03-06",
+   "vote_average": 7.8,
+   "vote_count": 12576,
+   "genres": [
+    "Comedy",
+    "Crime"
+   ],
+   "poster_path": "/3bv6WAp6BSxxYvB5ozKFUYuRA8C.jpg",
+   "backdrop_path": "/77ElMccPnTMPouRxSdbJ4nEjf69.jpg",
+   "logo_path": "/9y7SHMO5WvyEWBbfG0TibeWszYX.png",
+   "tagline": "Times like these call for a Big Lebowski.",
+   "trailer_youtube_id": "QA80t0qkQ9M",
+   "runtime": 117
+  },
+  {
+   "id": 120467,
+   "imdb_id": "tt2278388",
+   "title": "The Grand Budapest Hotel",
+   "year": 2014,
+   "release_date": "2014-02-26",
+   "vote_average": 8.0,
+   "vote_count": 16587,
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "poster_path": "/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg",
+   "backdrop_path": "/jK65srQczOKTpW62wPxwwKztGgE.jpg",
+   "logo_path": "/9vBhDzMH8u43ekW2x45cAn2HNlZ.png",
+   "tagline": "A murder case of Madam D. with enormous wealth and the most outrageous events surrounding her sudden death!",
+   "trailer_youtube_id": "oWTbraYkvus",
+   "runtime": 100
+  },
+  {
+   "id": 67913,
+   "imdb_id": "tt1540133",
+   "title": "The Guard",
+   "year": 2011,
+   "release_date": "2011-07-07",
+   "vote_average": 7.0,
+   "vote_count": 1472,
+   "genres": [
+    "Action",
+    "Comedy",
+    "Thriller",
+    "Crime"
+   ],
+   "poster_path": "/dtQiStID0le2EMTmJXupPRybARB.jpg",
+   "backdrop_path": "/aCSsQrr6QoSFFNlBElLWzR3Z51c.jpg",
+   "logo_path": "/fZfiyd00EFT58wlXjhNWGfeF6wW.png",
+   "tagline": "The FBI are about to discover that things work a little differently around here.",
+   "trailer_youtube_id": "iJxBKglv2zw",
+   "runtime": 96
+  },
+  {
+   "id": 290250,
+   "imdb_id": "tt3799694",
+   "title": "The Nice Guys",
+   "year": 2016,
+   "release_date": "2016-05-15",
+   "vote_average": 7.1,
+   "vote_count": 8992,
+   "genres": [
+    "Comedy",
+    "Crime",
+    "Action"
+   ],
+   "poster_path": "/clq4So9spa9cXk3MZy2iMdqkxP2.jpg",
+   "backdrop_path": "/yxYUN3fBPJdTNdXC1l8L24XFPhX.jpg",
+   "logo_path": "/iQlsiEKqEiNu2NovoY2tVstLGbi.png",
+   "tagline": "They're not that nice.",
+   "trailer_youtube_id": "bhKS_QDtOUc",
+   "runtime": 116
+  },
+  {
+   "id": 10663,
+   "imdb_id": "tt0120484",
+   "title": "The Waterboy",
+   "year": 1998,
+   "release_date": "1998-11-06",
+   "vote_average": 6.1,
+   "vote_count": 2114,
+   "genres": [
+    "Comedy"
+   ],
+   "poster_path": "/miT42qWYC4D0n2mXNzJ9VfhheWW.jpg",
+   "backdrop_path": "/bWfmsPRKJ9Skkh7pUOdoThR9zqO.jpg",
+   "logo_path": "/4VHaYCQxLxlVdOoK210V9hU13od.png",
+   "tagline": "You can mess with him. But don't mess with his water.",
+   "trailer_youtube_id": "vVLvkqfTRVQ",
+   "runtime": 90
+  }
+ ]
+}

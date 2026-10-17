@@ -1,0 +1,543 @@
+{
+ "category": "Adventure",
+ "slug": "adventure",
+ "count": 26,
+ "movies": [
+  {
+   "id": 166428,
+   "imdb_id": "tt2386490",
+   "title": "How to Train Your Dragon: The Hidden World",
+   "year": 2019,
+   "release_date": "2019-01-03",
+   "vote_average": 7.8,
+   "vote_count": 7317,
+   "genres": [
+    "Animation",
+    "Family",
+    "Adventure"
+   ],
+   "poster_path": "/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg",
+   "backdrop_path": "/h3KN24PrOheHVYs9ypuOIdFBEpX.jpg",
+   "logo_path": "/xtEU2VCn3j3zBKSI74qCEs6CUYf.png",
+   "tagline": "Fly on your own. Find your way home.",
+   "trailer_youtube_id": "Rokcx3qFsww",
+   "runtime": 104
+  },
+  {
+   "id": 539681,
+   "imdb_id": "tt8912936",
+   "title": "DC League of Super-Pets",
+   "year": 2022,
+   "release_date": "2022-07-27",
+   "vote_average": 7.1,
+   "vote_count": 1787,
+   "genres": [
+    "Family",
+    "Comedy",
+    "Adventure",
+    "Animation",
+    "Science Fiction",
+    "Action"
+   ],
+   "poster_path": "/qpPMewlugFaejXjz4YNDnpTniFX.jpg",
+   "backdrop_path": "/xfNHRI2f5kHGvogxLd0C5sB90L7.jpg",
+   "logo_path": "/g68RCSiJr7gzd4z6wcug3OJ8Xgt.png",
+   "tagline": "Sit, stay, save the world.",
+   "trailer_youtube_id": "pz19zrbYwH8",
+   "runtime": 105
+  },
+  {
+   "id": 116711,
+   "imdb_id": "tt0848537",
+   "title": "Epic",
+   "year": 2013,
+   "release_date": "2013-05-15",
+   "vote_average": 6.6,
+   "vote_count": 3026,
+   "genres": [
+    "Animation",
+    "Adventure",
+    "Family",
+    "Fantasy"
+   ],
+   "poster_path": "/81cSsWzjTfR3cJSqnTiHwy1eyPK.jpg",
+   "backdrop_path": "/zFyuN8vF2XNSzxIdACES0IyNrhK.jpg",
+   "logo_path": "/f5OOxOPupEktguZ4Emk86zdT62k.png",
+   "tagline": "Discover a world beyond your imagination.",
+   "trailer_youtube_id": "_KqNCnd8AN4",
+   "runtime": 102
+  },
+  {
+   "id": 127380,
+   "imdb_id": "tt2277860",
+   "title": "Finding Dory",
+   "year": 2016,
+   "release_date": "2016-06-16",
+   "vote_average": 7.0,
+   "vote_count": 12896,
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Family"
+   ],
+   "poster_path": "/3UVe8NL1E2ZdUZ9EDlKGJY5UzE.jpg",
+   "backdrop_path": "/wijltj1toRcicHlCn8Cpsp4yPXe.jpg",
+   "logo_path": "/sguLSByYIpYIgN5uedU6gh0dflX.png",
+   "tagline": "An unforgettable journey she probably won't remember.",
+   "trailer_youtube_id": "NQu-153MnGQ",
+   "runtime": 97
+  },
+  {
+   "id": 12,
+   "imdb_id": "tt0266543",
+   "title": "Finding Nemo",
+   "year": 2003,
+   "release_date": "2003-05-30",
+   "vote_average": 7.8,
+   "vote_count": 21072,
+   "genres": [
+    "Animation",
+    "Family",
+    "Adventure"
+   ],
+   "poster_path": "/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg",
+   "backdrop_path": "/eCynaAOgYYiw5yN5lBwz3IxqvaW.jpg",
+   "logo_path": "/gRweHvOoM7hKg3q8iExsXzAhsBv.png",
+   "tagline": "There are 3.7 trillion fish in the ocean. They're looking for one.",
+   "trailer_youtube_id": "HdfQW6dAX9Y",
+   "runtime": 100
+  },
+  {
+   "id": 315162,
+   "imdb_id": "tt3915174",
+   "title": "Puss in Boots: The Last Wish",
+   "year": 2022,
+   "release_date": "2022-12-07",
+   "vote_average": 8.2,
+   "vote_count": 9286,
+   "genres": [
+    "Animation",
+    "Adventure",
+    "Fantasy",
+    "Comedy",
+    "Family"
+   ],
+   "poster_path": "/kuf6dutpsT0vSVehic3EZIqkOBt.jpg",
+   "backdrop_path": "/jr8tSoJGj33XLgFBy6lmZhpGQNu.jpg",
+   "logo_path": "/j6x6l51OWbqN5Vsc7o6fLoqaHJR.png",
+   "tagline": "Say hola to his little friends.",
+   "trailer_youtube_id": "z-E5pTQVW8w",
+   "runtime": 103
+  },
+  {
+   "id": 1175942,
+   "imdb_id": "tt30017619",
+   "title": "The Bad Guys 2",
+   "year": 2025,
+   "release_date": "2025-07-24",
+   "vote_average": 7.6,
+   "vote_count": 917,
+   "genres": [
+    "Family",
+    "Comedy",
+    "Crime",
+    "Adventure",
+    "Animation",
+    "Action"
+   ],
+   "poster_path": "/26oSPnq0ct59l07QOXZKyzsiRtN.jpg",
+   "backdrop_path": "/jvpkBenB6hv19WWYVlaiow8zklq.jpg",
+   "logo_path": "/83GkJm2rUc0BL2n0ZTHl8RLRE47.png",
+   "tagline": "Back in badness.",
+   "trailer_youtube_id": "mifoxGj-N7A",
+   "runtime": 104
+  },
+  {
+   "id": 228326,
+   "imdb_id": "tt2262227",
+   "title": "The Book of Life",
+   "year": 2014,
+   "release_date": "2014-10-01",
+   "vote_average": 7.5,
+   "vote_count": 3028,
+   "genres": [
+    "Animation",
+    "Family",
+    "Fantasy"
+   ],
+   "poster_path": "/aotTZos5KswgCryEzx2rlOjFsm1.jpg",
+   "backdrop_path": "/b0XkgWgCBurkCZdNXp7kEZdgxEi.jpg",
+   "logo_path": "/7bUYGOyVbGXxNQ292cjwYh003vW.png",
+   "tagline": "Two worlds. One love.",
+   "trailer_youtube_id": "yo7WT7zZifY",
+   "runtime": 95
+  },
+  {
+   "id": 9806,
+   "imdb_id": "tt0317705",
+   "title": "The Incredibles",
+   "year": 2004,
+   "release_date": "2004-10-27",
+   "vote_average": 7.7,
+   "vote_count": 19394,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Animation",
+    "Family"
+   ],
+   "poster_path": "/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
+   "backdrop_path": "/lxwzY9vNwjDgxWKt3zZ6zcU6rEJ.jpg",
+   "logo_path": "/3HPRaJU7yuBsG13wFrW3Znxo5R0.png",
+   "tagline": "Super strength can’t carry a family.",
+   "trailer_youtube_id": "sHBLVaIEwj4",
+   "runtime": 115
+  },
+  {
+   "id": 560057,
+   "imdb_id": "tt9288046",
+   "title": "The Sea Beast",
+   "year": 2022,
+   "release_date": "2022-06-24",
+   "vote_average": 7.3,
+   "vote_count": 1794,
+   "genres": [
+    "Animation",
+    "Adventure",
+    "Action",
+    "Family",
+    "Fantasy"
+   ],
+   "poster_path": "/9Zfv4Ap1e8eKOYnZPtYaWhLkk0d.jpg",
+   "backdrop_path": "/wUwizGzbTk5CTiKBnE4Pq1MONwD.jpg",
+   "logo_path": "/wdq2OamO6AW5BlUb13ek3cTrStb.png",
+   "tagline": "Hit the high seas.",
+   "trailer_youtube_id": "A1NsOwdgQKY",
+   "runtime": 115
+  },
+  {
+   "id": 1084244,
+   "imdb_id": "tt29355505",
+   "title": "Toy Story 5",
+   "year": 2026,
+   "release_date": "2026-06-17",
+   "vote_average": 8.3,
+   "vote_count": 2547,
+   "genres": [
+    "Animation",
+    "Family",
+    "Comedy",
+    "Adventure"
+   ],
+   "poster_path": "/4D5k1Cs9hA0REwXN6w5Lxxlhba5.jpg",
+   "backdrop_path": "/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+   "logo_path": "/dpQ5yGNLRjEPh0mpX5iEYjqGEIJ.png",
+   "tagline": "It's on.",
+   "trailer_youtube_id": "xo_Cwmdcu2Y",
+   "runtime": 102
+  },
+  {
+   "id": 36557,
+   "imdb_id": "tt0381061",
+   "title": "Casino Royale",
+   "year": 2006,
+   "release_date": "2006-11-14",
+   "vote_average": 7.6,
+   "vote_count": 12078,
+   "genres": [
+    "Adventure",
+    "Action",
+    "Thriller"
+   ],
+   "poster_path": "/lMrxYKKhd4lqRzwUHAy5gcx9PSO.jpg",
+   "backdrop_path": "/klJMCIblHLFwCuGjKz7tyOpekIC.jpg",
+   "logo_path": "/pxvf5usDNAzPEc9j0yluQA2I2Ud.png",
+   "tagline": "Everyone has a past. Every legend has a beginning.",
+   "trailer_youtube_id": "p7D4U5YsZlM",
+   "runtime": 144
+  },
+  {
+   "id": 293660,
+   "imdb_id": "tt1431045",
+   "title": "Deadpool",
+   "year": 2016,
+   "release_date": "2016-02-09",
+   "vote_average": 7.6,
+   "vote_count": 33421,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Comedy"
+   ],
+   "poster_path": "/3E53WEZJqP6aM84D8CckXx4pIHw.jpg",
+   "backdrop_path": "/rFj9IKlL75B2pXhZA60jkNWvxeW.jpg",
+   "logo_path": "/piuamNKC09lepRcjrWx9GfEa8hN.png",
+   "tagline": "Feel the love.",
+   "trailer_youtube_id": "l27q7VnWgis",
+   "runtime": 108
+  },
+  {
+   "id": 693134,
+   "imdb_id": "tt15239678",
+   "title": "Dune: Part Two",
+   "year": 2024,
+   "release_date": "2024-02-27",
+   "vote_average": 8.1,
+   "vote_count": 8713,
+   "genres": [
+    "Science Fiction",
+    "Adventure"
+   ],
+   "poster_path": "/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg",
+   "backdrop_path": "/eZ239CUp1d6OryZEBPnO2n87gMG.jpg",
+   "logo_path": "/eYvF1LhPKuoBxOAmWjFTAK7EPWl.png",
+   "tagline": "Long live the fighters.",
+   "trailer_youtube_id": "RT3zGuKkf7M",
+   "runtime": 167
+  },
+  {
+   "id": 1087192,
+   "imdb_id": "tt26743210",
+   "title": "How to Train Your Dragon",
+   "year": 2025,
+   "release_date": "2025-06-06",
+   "vote_average": 7.9,
+   "vote_count": 3172,
+   "genres": [
+    "Fantasy",
+    "Family",
+    "Action",
+    "Adventure"
+   ],
+   "poster_path": "/53dsJ3oEnBhTBVMigWJ9tkA5bzJ.jpg",
+   "backdrop_path": "/8J6UlIFcU7eZfq9iCLbgc8Auklg.jpg",
+   "logo_path": "/mhPb94aGQUaDFINeUMYg1gAXPVO.png",
+   "tagline": "The legend is real.",
+   "trailer_youtube_id": "5M4pRfJKx9w",
+   "runtime": 125
+  },
+  {
+   "id": 602,
+   "imdb_id": "tt0116629",
+   "title": "Independence Day",
+   "year": 1996,
+   "release_date": "1996-07-02",
+   "vote_average": 6.9,
+   "vote_count": 10793,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+   ],
+   "poster_path": "/p0BPQGSPoSa8Ml0DAf2mB2kCU0R.jpg",
+   "backdrop_path": "/kFI1oF6KVnLEbUT7yLIbKXeyvu.jpg",
+   "logo_path": "/mwoCHwBuWrEd9RLPrktHV33esnT.png",
+   "tagline": "The question of whether or not we are alone in the universe has been answered.",
+   "trailer_youtube_id": "qHH7VxJJ2k8",
+   "runtime": 145
+  },
+  {
+   "id": 1495,
+   "imdb_id": "tt0320661",
+   "title": "Kingdom of Heaven",
+   "year": 2005,
+   "release_date": "2005-05-03",
+   "vote_average": 7.1,
+   "vote_count": 5288,
+   "genres": [
+    "Drama",
+    "Action",
+    "Adventure",
+    "History",
+    "War"
+   ],
+   "poster_path": "/2NaFdWy9hkM35vZB1hkqsnTcms8.jpg",
+   "backdrop_path": "/7hzUwyswxZStJ3wnbctqIwt2E1q.jpg",
+   "logo_path": "/nuT8zzIAKVOt5zMMVV2j5jzLlRt.png",
+   "tagline": "Be without fear in the face of your enemies. Safeguard the helpless, and do no wrong",
+   "trailer_youtube_id": "6Z2wGCZ2fSM",
+   "runtime": 144
+  },
+  {
+   "id": 427641,
+   "imdb_id": "tt2231461",
+   "title": "Rampage",
+   "year": 2018,
+   "release_date": "2018-04-11",
+   "vote_average": 6.5,
+   "vote_count": 7763,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+   ],
+   "poster_path": "/MGADip4thVSErP34FAAfzFBTZ5.jpg",
+   "backdrop_path": "/vm8mhrjk5nQ562UQ0KbUzi0yOHr.jpg",
+   "logo_path": "/dH2s8I5EdC1NjiSvTPZpPsqqxi4.png",
+   "tagline": "Big meets bigger.",
+   "trailer_youtube_id": "hVUDS6defgM",
+   "runtime": 107
+  },
+  {
+   "id": 1423191,
+   "imdb_id": "tt35538033",
+   "title": "Resident Evil",
+   "year": 2026,
+   "release_date": "2026-09-16",
+   "vote_average": 7.3,
+   "vote_count": 839,
+   "genres": [
+    "Horror",
+    "Science Fiction",
+    "Adventure"
+   ],
+   "poster_path": "/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+   "backdrop_path": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+   "logo_path": "/9ulobOWQViT7UQt2iYzb5tEVgm9.png",
+   "tagline": "A new era of evil.",
+   "trailer_youtube_id": "DXkFZ7RZFTs",
+   "runtime": 95
+  },
+  {
+   "id": 559,
+   "imdb_id": "tt0413300",
+   "title": "Spider-Man 3",
+   "year": 2007,
+   "release_date": "2007-05-01",
+   "vote_average": 6.5,
+   "vote_count": 15869,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+   ],
+   "poster_path": "/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg",
+   "backdrop_path": "/FfAU0PUs8AJkMU2VbkVNFtRXR4.jpg",
+   "logo_path": "/qMoKekvYqvnnN3WSMBUrnPXQOgq.png",
+   "tagline": "The greatest battle lies within.",
+   "trailer_youtube_id": "fwClZsyN1QI",
+   "runtime": 139
+  },
+  {
+   "id": 429617,
+   "imdb_id": "tt6320628",
+   "title": "Spider-Man: Far From Home",
+   "year": 2019,
+   "release_date": "2019-06-28",
+   "vote_average": 7.4,
+   "vote_count": 17722,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+   ],
+   "poster_path": "/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg",
+   "backdrop_path": "/wqBW5ltBJu0gs26yCc8shQQV82d.jpg",
+   "logo_path": "/lAEaCmWwqkZSp8lAw6F7CfPkA9N.png",
+   "tagline": "It's time to step up.",
+   "trailer_youtube_id": "6gRuo6YMdCs",
+   "runtime": 129
+  },
+  {
+   "id": 634649,
+   "imdb_id": "tt10872600",
+   "title": "Spider-Man: No Way Home",
+   "year": 2021,
+   "release_date": "2021-12-15",
+   "vote_average": 7.9,
+   "vote_count": 23294,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+   ],
+   "poster_path": "/lf9ipxkVSWRcfYDnkla2ojpsxPz.jpg",
+   "backdrop_path": "/utxfKMtH91Q5uPvFMFDLnxohXHV.jpg",
+   "logo_path": "/9xjIoK8eGVvMdiqwUQbEBUeh9Ej.png",
+   "tagline": "Enter the Multiverse.",
+   "trailer_youtube_id": "QTtUdN2k0Bo",
+   "runtime": 148
+  },
+  {
+   "id": 98566,
+   "imdb_id": "tt1291150",
+   "title": "Teenage Mutant Ninja Turtles",
+   "year": 2014,
+   "release_date": "2014-08-07",
+   "vote_average": 5.9,
+   "vote_count": 7345,
+   "genres": [
+    "Science Fiction",
+    "Action",
+    "Adventure",
+    "Comedy"
+   ],
+   "poster_path": "/azL2ThbJMIkts3ZMt3j1YgBUeDB.jpg",
+   "backdrop_path": "/eezsbzYPbYKjjh6E1XHDBNlLynh.jpg",
+   "logo_path": "/yUnE5BPY8UECTOioYexHng19PWR.png",
+   "tagline": "Mysterious. Dangerous. Reptilious. You've never seen heroes like this.",
+   "trailer_youtube_id": "z88vDU5pLxU",
+   "runtime": 101
+  },
+  {
+   "id": 1084736,
+   "imdb_id": "tt26446278",
+   "title": "The Count of Monte Cristo",
+   "year": 2024,
+   "release_date": "2024-06-28",
+   "vote_average": 7.9,
+   "vote_count": 2152,
+   "genres": [
+    "Adventure",
+    "Action",
+    "Drama"
+   ],
+   "poster_path": "/sAT1P3FGhtJ68anUyJScnMu8t1l.jpg",
+   "backdrop_path": "/bxT8jFcWNuWK5LmVo1oGhAm4dnZ.jpg",
+   "logo_path": "/faVdxu5Pz1L6jR2InhmA7MRSIc5.png",
+   "tagline": "This is not vengeance, this is justice.",
+   "trailer_youtube_id": "aJbGXkz0aDY",
+   "runtime": 178
+  },
+  {
+   "id": 298618,
+   "imdb_id": "tt0439572",
+   "title": "The Flash",
+   "year": 2023,
+   "release_date": "2023-06-13",
+   "vote_average": 6.6,
+   "vote_count": 5308,
+   "genres": [
+    "Action",
+    "Science Fiction",
+    "Adventure"
+   ],
+   "poster_path": "/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",
+   "backdrop_path": "/yF1eOkaYvwiORauRCPWznV9xVvi.jpg",
+   "logo_path": "/9DvA4oKaco5b0DlZOIkEXKAGinj.png",
+   "tagline": "Worlds collide.",
+   "trailer_youtube_id": "8YV2hzjGjJw",
+   "runtime": 144
+  },
+  {
+   "id": 1228710,
+   "imdb_id": "tt30825738",
+   "title": "The Mandalorian and Grogu",
+   "year": 2026,
+   "release_date": "2026-05-20",
+   "vote_average": 7.5,
+   "vote_count": 1819,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+   ],
+   "poster_path": "/uwMKWjcNID0D9jjplsjkQS2OrB4.jpg",
+   "backdrop_path": "/ysLlsAxwgNSxBWHCgTKJrmjxpRQ.jpg",
+   "logo_path": "/xSj9QrjsR8fZnSuEt6e7QZvrqSy.png",
+   "tagline": "If you're searching for new adventure, \"this is the way.\"",
+   "trailer_youtube_id": "M_UfovvDKEw",
+   "runtime": 132
+  }
+ ]
+}

@@ -1,0 +1,226 @@
+{
+ "category": "Documentary",
+ "slug": "documentary",
+ "count": 12,
+ "movies": [
+  {
+   "id": 365997,
+   "imdb_id": "tt2800050",
+   "title": "A Beautiful Planet",
+   "year": 2016,
+   "release_date": "2016-04-16",
+   "vote_average": 7.1,
+   "vote_count": 84,
+   "genres": [
+    "Documentary"
+   ],
+   "poster_path": "/9naxphfpDgtArLPKnf0dJgGo7bS.jpg",
+   "backdrop_path": "/2rIsWqpyyFIS6zJgUGoh1fTQ7Rx.jpg",
+   "logo_path": "/7ELVjT4WDG8zYHTkgAJjRkiShjT.svg",
+   "tagline": "Experience Earth like never before.",
+   "trailer_youtube_id": "Bq8V8aUSlQQ",
+   "runtime": 45
+  },
+  {
+   "id": 11019,
+   "imdb_id": "tt0365109",
+   "title": "Deep Blue",
+   "year": 2003,
+   "release_date": "2003-05-18",
+   "vote_average": 6.9,
+   "vote_count": 91,
+   "genres": [
+    "Documentary"
+   ],
+   "poster_path": "/lzKirFeKspU0PktaX5BfdhSofcT.jpg",
+   "backdrop_path": "/rtdGOcCW1vJYxk6uxk2VUV4Z0Q3.jpg",
+   "logo_path": "/zu1m8msCjNDRkqpID7kBFFPMK4O.png",
+   "tagline": null,
+   "trailer_youtube_id": null,
+   "runtime": 83
+  },
+  {
+   "id": 1451867,
+   "imdb_id": "tt35237771",
+   "title": "Ghost Elephants",
+   "year": 2026,
+   "release_date": "2026-02-27",
+   "vote_average": 7.6,
+   "vote_count": 67,
+   "genres": [
+    "Documentary"
+   ],
+   "poster_path": "/h2zN5Oo89DjwY9Q4F8zto5MlnNb.jpg",
+   "backdrop_path": "/qEqvcwXH5skWfed1rgZq45FL36G.jpg",
+   "logo_path": "/bA5kCmkX5qWz0n6dAmY5XdH6X9i.png",
+   "tagline": "An epic search for a mythical giant.",
+   "trailer_youtube_id": "YoOD-2Wn7ik",
+   "runtime": 99
+  },
+  {
+   "id": 1448497,
+   "imdb_id": "tt33022710",
+   "title": "Ocean with David Attenborough",
+   "year": 2025,
+   "release_date": "2025-05-08",
+   "vote_average": 8.1,
+   "vote_count": 83,
+   "genres": [
+    "Documentary"
+   ],
+   "poster_path": "/oAKzcqUCP3EK7rgAx9Jj8Futv8O.jpg",
+   "backdrop_path": "/2hthvh4L1pHYZ5alepSqIAFYrRv.jpg",
+   "logo_path": "/cNzDV7MIBy1v9yurtGIg3tCvW01.png",
+   "tagline": "If we save the sea, we save our world.",
+   "trailer_youtube_id": "IzG9AwlypaY",
+   "runtime": 85
+  },
+  {
+   "id": 152113,
+   "imdb_id": "tt2240784",
+   "title": "Planet Ocean",
+   "year": 2012,
+   "release_date": "2012-06-18",
+   "vote_average": 7.5,
+   "vote_count": 65,
+   "genres": [
+    "Documentary"
+   ],
+   "poster_path": "/kukf6NNxQF1wLykdC2e0jlVELig.jpg",
+   "backdrop_path": "/nWcKw1FeYKFTnGSosSBYjyFVRdd.jpg",
+   "logo_path": "/YjeI2VetUx1SJFAz0KRwtlE5GG.png",
+   "tagline": null,
+   "trailer_youtube_id": "eH1s9GCqPKo",
+   "runtime": 94
+  },
+  {
+   "id": 927070,
+   "imdb_id": "tt17048330",
+   "title": "Polar Bear",
+   "year": 2022,
+   "release_date": "2022-04-22",
+   "vote_average": 7.2,
+   "vote_count": 65,
+   "genres": [
+    "Documentary",
+    "Family"
+   ],
+   "poster_path": "/nCRUQcbBs6Ix6YaBeCgC9OwE0mt.jpg",
+   "backdrop_path": "/aVSSuDNzgqHVCdAcSSAA1kdhrkK.jpg",
+   "logo_path": "/AwaeXxmGopwazW83zfrPvtkqiUh.png",
+   "tagline": "Join their incredible adventure.",
+   "trailer_youtube_id": "zH3c875odA4",
+   "runtime": 84
+  },
+  {
+   "id": 1452827,
+   "imdb_id": "tt36367119",
+   "title": "Sea Lions of the Galapagos",
+   "year": 2025,
+   "release_date": "2025-04-21",
+   "vote_average": 7.8,
+   "vote_count": 24,
+   "genres": [
+    "Documentary"
+   ],
+   "poster_path": "/mvL8P5lTIlrNdi20xQKZgez1NAP.jpg",
+   "backdrop_path": "/h4xi19UruYzqQUVSwOMQIVArGhs.jpg",
+   "logo_path": "/8PwSs4rjaf04W2pztZG6q3fo9RU.png",
+   "tagline": "A home like no other.",
+   "trailer_youtube_id": "X0nclu9lzaQ",
+   "runtime": 83
+  },
+  {
+   "id": 1251636,
+   "imdb_id": "tt31510396",
+   "title": "The Bloody Hundredth",
+   "year": 2024,
+   "release_date": "2024-03-14",
+   "vote_average": 7.2,
+   "vote_count": 53,
+   "genres": [
+    "War",
+    "Documentary",
+    "History"
+   ],
+   "poster_path": "/5GnpAw5BaQBNqYd4wE1IptYEVKd.jpg",
+   "backdrop_path": "/4m8yq8vEVGVcmOxO39j1Yz8ry1s.jpg",
+   "logo_path": "/tlnUgBgTWWPjmqSK6BOY7046CT.png",
+   "tagline": "The true story of the men who inspired Masters of the Air.",
+   "trailer_youtube_id": "v156yvY0vbg",
+   "runtime": 63
+  },
+  {
+   "id": 1596303,
+   "imdb_id": "tt39150288",
+   "title": "The Last First: Winter K2",
+   "year": 2026,
+   "release_date": "2026-10-02",
+   "vote_average": 6.1,
+   "vote_count": 15,
+   "genres": [
+    "Documentary"
+   ],
+   "poster_path": "/zgjF2iudafdpbRhaskVGRPAUZQf.jpg",
+   "backdrop_path": "/wtzSwtnQ4RsRbV5cc114Nb1q3b0.jpg",
+   "logo_path": "/49sM6ly1mnzClRYiggA9Y3SoOjX.png",
+   "tagline": "Reach the summit or lose everything.",
+   "trailer_youtube_id": "zgGpyr5MFK8",
+   "runtime": 98
+  },
+  {
+   "id": 811703,
+   "imdb_id": "tt14372240",
+   "title": "The Year Earth Changed",
+   "year": 2021,
+   "release_date": "2021-04-15",
+   "vote_average": 7.9,
+   "vote_count": 134,
+   "genres": [
+    "Documentary"
+   ],
+   "poster_path": "/cLwQRXfzPjmpU6I78TCkoHazO0A.jpg",
+   "backdrop_path": "/2P7mnMJGMP5mNRujxki0di8lSmp.jpg",
+   "logo_path": "/iaTQTsh8s6jixQsw2TTR0TBZ85O.png",
+   "tagline": "Mother Nature is making a comeback.",
+   "trailer_youtube_id": "XswV_yqPq28",
+   "runtime": 48
+  },
+  {
+   "id": 1259919,
+   "imdb_id": "tt31852840",
+   "title": "Tigers on the Rise",
+   "year": 2024,
+   "release_date": "2024-04-21",
+   "vote_average": 7.8,
+   "vote_count": 13,
+   "genres": [
+    "Documentary"
+   ],
+   "poster_path": "/feaKvf7R80D4FlXEZei4NnRseAw.jpg",
+   "backdrop_path": "/bA1X1zEJjsS4s59TT87CfFdYKpJ.jpg",
+   "logo_path": "/3f2mLOIVt3jpv3xP0nkyCxgGvmJ.png",
+   "tagline": null,
+   "trailer_youtube_id": "18QMr2-wgtk",
+   "runtime": 78
+  },
+  {
+   "id": 11516,
+   "imdb_id": "tt0301727",
+   "title": "Winged Migration",
+   "year": 2001,
+   "release_date": "2001-12-12",
+   "vote_average": 7.6,
+   "vote_count": 214,
+   "genres": [
+    "Documentary"
+   ],
+   "poster_path": "/qjv7cYLSufwf03So0SuRFU7sRxB.jpg",
+   "backdrop_path": "/c8lCUmgvyxfM3oJzbD9bQf8bV02.jpg",
+   "logo_path": "/sqzFXEQOlPUSBKQegNeUwFkA2yF.png",
+   "tagline": "The amazing odysseys of traveling birds",
+   "trailer_youtube_id": "w_0kMdH0FLA",
+   "runtime": 89
+  }
+ ]
+}

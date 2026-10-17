@@ -1,0 +1,606 @@
+{
+ "category": "Action",
+ "slug": "action",
+ "count": 29,
+ "movies": [
+  {
+   "id": 527774,
+   "imdb_id": "tt5109280",
+   "title": "Raya and the Last Dragon",
+   "year": 2021,
+   "release_date": "2021-03-03",
+   "vote_average": 7.8,
+   "vote_count": 7473,
+   "genres": [
+    "Animation",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Family"
+   ],
+   "poster_path": "/5nVhgCzxKbK47OLIKxCR1syulOn.jpg",
+   "backdrop_path": "/zmX7ObPaRfiCmY6LMalUb1bJDKj.jpg",
+   "logo_path": "/etfk9zR84irhwoCSf9PJrhT1cmP.png",
+   "tagline": "A quest to save her world.",
+   "trailer_youtube_id": "3UFWsEY8Hdc",
+   "runtime": 107
+  },
+  {
+   "id": 569094,
+   "imdb_id": "tt9362722",
+   "title": "Spider-Man: Across the Spider-Verse",
+   "year": 2023,
+   "release_date": "2023-05-31",
+   "vote_average": 8.4,
+   "vote_count": 9382,
+   "genres": [
+    "Animation",
+    "Action",
+    "Adventure",
+    "Science Fiction"
+   ],
+   "poster_path": "/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+   "backdrop_path": "/kVd3a9YeLGkoeR50jGEXM6EqseS.jpg",
+   "logo_path": "/cmE0j3mQQe6xrzLryxGF9rF2KC8.png",
+   "tagline": "It's how you wear the mask that matters.",
+   "trailer_youtube_id": "UjU95JdjfVY",
+   "runtime": 140
+  },
+  {
+   "id": 177572,
+   "imdb_id": "tt2245084",
+   "title": "Big Hero 6",
+   "year": 2014,
+   "release_date": "2014-10-24",
+   "vote_average": 7.7,
+   "vote_count": 16984,
+   "genres": [
+    "Adventure",
+    "Family",
+    "Animation",
+    "Action",
+    "Comedy"
+   ],
+   "poster_path": "/2mxS4wUimwlLmI1xp6QW6NSU361.jpg",
+   "backdrop_path": "/4s2d3xdyqotiVNHTlTlJjrr3q0H.jpg",
+   "logo_path": "/y49pcTmg7SxDV4u0fVz2RJm8nl1.png",
+   "tagline": "Drop everything. Save the world.",
+   "trailer_youtube_id": "8IdMPpKMdcc",
+   "runtime": 102
+  },
+  {
+   "id": 539681,
+   "imdb_id": "tt8912936",
+   "title": "DC League of Super-Pets",
+   "year": 2022,
+   "release_date": "2022-07-27",
+   "vote_average": 7.1,
+   "vote_count": 1787,
+   "genres": [
+    "Family",
+    "Comedy",
+    "Adventure",
+    "Animation",
+    "Science Fiction",
+    "Action"
+   ],
+   "poster_path": "/qpPMewlugFaejXjz4YNDnpTniFX.jpg",
+   "backdrop_path": "/xfNHRI2f5kHGvogxLd0C5sB90L7.jpg",
+   "logo_path": "/g68RCSiJr7gzd4z6wcug3OJ8Xgt.png",
+   "tagline": "Sit, stay, save the world.",
+   "trailer_youtube_id": "pz19zrbYwH8",
+   "runtime": 105
+  },
+  {
+   "id": 98566,
+   "imdb_id": "tt1291150",
+   "title": "Teenage Mutant Ninja Turtles",
+   "year": 2014,
+   "release_date": "2014-08-07",
+   "vote_average": 5.9,
+   "vote_count": 7345,
+   "genres": [
+    "Science Fiction",
+    "Action",
+    "Adventure",
+    "Comedy"
+   ],
+   "poster_path": "/azL2ThbJMIkts3ZMt3j1YgBUeDB.jpg",
+   "backdrop_path": "/eezsbzYPbYKjjh6E1XHDBNlLynh.jpg",
+   "logo_path": "/yUnE5BPY8UECTOioYexHng19PWR.png",
+   "tagline": "Mysterious. Dangerous. Reptilious. You've never seen heroes like this.",
+   "trailer_youtube_id": "z88vDU5pLxU",
+   "runtime": 101
+  },
+  {
+   "id": 9806,
+   "imdb_id": "tt0317705",
+   "title": "The Incredibles",
+   "year": 2004,
+   "release_date": "2004-10-27",
+   "vote_average": 7.7,
+   "vote_count": 19394,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Animation",
+    "Family"
+   ],
+   "poster_path": "/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
+   "backdrop_path": "/lxwzY9vNwjDgxWKt3zZ6zcU6rEJ.jpg",
+   "logo_path": "/3HPRaJU7yuBsG13wFrW3Znxo5R0.png",
+   "tagline": "Super strength can’t carry a family.",
+   "trailer_youtube_id": "sHBLVaIEwj4",
+   "runtime": 115
+  },
+  {
+   "id": 588648,
+   "imdb_id": "tt7093904",
+   "title": "Dragonkeeper",
+   "year": 2024,
+   "release_date": "2024-04-11",
+   "vote_average": 7.6,
+   "vote_count": 233,
+   "genres": [
+    "Animation",
+    "Family",
+    "Action",
+    "Adventure",
+    "Fantasy"
+   ],
+   "poster_path": "/ggZGnJLzO3BTu7ysuuIzou3Oex5.jpg",
+   "backdrop_path": "/h9YlRHAZWOWtGonllmj6JJg1FrE.jpg",
+   "logo_path": "/15acsmzX7oABw0TlT61dUCLo111.png",
+   "tagline": "Everybody just saw a girl.",
+   "trailer_youtube_id": "p39fu7weGBQ",
+   "runtime": 99
+  },
+  {
+   "id": 961323,
+   "imdb_id": "tt19500164",
+   "title": "Nimona",
+   "year": 2023,
+   "release_date": "2023-06-23",
+   "vote_average": 7.9,
+   "vote_count": 1515,
+   "genres": [
+    "Animation",
+    "Family",
+    "Fantasy",
+    "Adventure",
+    "Science Fiction",
+    "Action"
+   ],
+   "poster_path": "/2NQljeavtfl22207D1kxLpa4LS3.jpg",
+   "backdrop_path": "/sidvlo7V8VMyskNKGwua0Tarbol.jpg",
+   "logo_path": "/yMuiqdlSDyipYQDo6zGoGP6yPta.png",
+   "tagline": "A little anti. A little hero.",
+   "trailer_youtube_id": "wW1IMMB8ZDY",
+   "runtime": 99
+  },
+  {
+   "id": 939243,
+   "imdb_id": "tt18259086",
+   "title": "Sonic the Hedgehog 3",
+   "year": 2024,
+   "release_date": "2024-12-19",
+   "vote_average": 7.6,
+   "vote_count": 3497,
+   "genres": [
+    "Action",
+    "Science Fiction",
+    "Comedy",
+    "Family"
+   ],
+   "poster_path": "/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg",
+   "backdrop_path": "/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg",
+   "logo_path": "/6eq5WtD9e4Oh2KzCu14x9hQaFc9.png",
+   "tagline": "New adventure. New rival.",
+   "trailer_youtube_id": "WB0FFBj-Plc",
+   "runtime": 110
+  },
+  {
+   "id": 614930,
+   "imdb_id": "tt8589698",
+   "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+   "year": 2023,
+   "release_date": "2023-07-31",
+   "vote_average": 7.2,
+   "vote_count": 1683,
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Action",
+    "Science Fiction"
+   ],
+   "poster_path": "/gyh0eECE2IqrW8GWl3KoHBfc45j.jpg",
+   "backdrop_path": "/2Cpg8hUn60PK9CW9d5SWf605Ah8.jpg",
+   "logo_path": "/1DfxdgEAdnQylz8DTr3ZGLsaInC.png",
+   "tagline": "Heroes aren't born. They're mutated.",
+   "trailer_youtube_id": "oO3JKEWWDik",
+   "runtime": 100
+  },
+  {
+   "id": 832502,
+   "imdb_id": "tt8637498",
+   "title": "The Monkey King",
+   "year": 2023,
+   "release_date": "2023-07-30",
+   "vote_average": 6.5,
+   "vote_count": 373,
+   "genres": [
+    "Animation",
+    "Fantasy",
+    "Adventure",
+    "Family",
+    "Comedy"
+   ],
+   "poster_path": "/i6ye8ueFhVE5pXatgyRrZ83LBD8.jpg",
+   "backdrop_path": "/jDjmnEuNUfWHg8rbW6u8mylkcO0.jpg",
+   "logo_path": "/yhit94ENEliV14h63Zmr6QPUGpP.png",
+   "tagline": "The legend has arrived",
+   "trailer_youtube_id": "o6KA2DeD34Y",
+   "runtime": 92
+  },
+  {
+   "id": 502356,
+   "imdb_id": "tt6718170",
+   "title": "The Super Mario Bros. Movie",
+   "year": 2023,
+   "release_date": "2023-04-05",
+   "vote_average": 7.6,
+   "vote_count": 11196,
+   "genres": [
+    "Family",
+    "Comedy",
+    "Adventure",
+    "Fantasy",
+    "Animation"
+   ],
+   "poster_path": "/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
+   "backdrop_path": "/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
+   "logo_path": "/sst2kO7ySyAm3z5haWXUszOVWi2.png",
+   "tagline": "Not all heroes wear capes. Some wear overalls.",
+   "trailer_youtube_id": "f4LdtAazviE",
+   "runtime": 93
+  },
+  {
+   "id": 829402,
+   "imdb_id": "tt9471678",
+   "title": "Ultraman: Rising",
+   "year": 2024,
+   "release_date": "2024-06-14",
+   "vote_average": 8.0,
+   "vote_count": 408,
+   "genres": [
+    "Animation",
+    "Science Fiction",
+    "Family",
+    "Action"
+   ],
+   "poster_path": "/j886YEkIUsiImY53px5VHKD4lRa.jpg",
+   "backdrop_path": "/wdUnHg8bOmTkHzkvxSY9sCeqJ6q.jpg",
+   "logo_path": "/fwu3I83a4k65mMgOOtVNJ2P4vl4.png",
+   "tagline": "Big hero. Bigger responsibility.",
+   "trailer_youtube_id": "hOltkgux-3Y",
+   "runtime": 117
+  },
+  {
+   "id": 58857,
+   "imdb_id": "tt1436045",
+   "title": "13 Assassins",
+   "year": 2010,
+   "release_date": "2010-09-25",
+   "vote_average": 7.3,
+   "vote_count": 1329,
+   "genres": [
+    "Adventure",
+    "Drama",
+    "Action"
+   ],
+   "poster_path": "/yUsVsiVXUwClk4vSCx80vrdO6MV.jpg",
+   "backdrop_path": "/nETE6SYAXEzx2BTuBI34vvYVIb0.jpg",
+   "logo_path": "/uNvBsjgfTnYXXC4RIqyTMONSZX6.png",
+   "tagline": "Take up your sword.",
+   "trailer_youtube_id": "Xpm007vne54",
+   "runtime": 141
+  },
+  {
+   "id": 1556321,
+   "imdb_id": "tt42680348",
+   "title": "Death Whisperer: Saming the Werebeast",
+   "year": 2026,
+   "release_date": "2026-09-29",
+   "vote_average": 0.0,
+   "vote_count": 0,
+   "genres": [
+    "Horror",
+    "Thriller",
+    "Action"
+   ],
+   "poster_path": "/lN4YqCIVjDMvlUbmcEO5d060WoL.jpg",
+   "backdrop_path": "/ssg1qGCCRQEkwBNWHItDppBRQE2.jpg",
+   "logo_path": null,
+   "tagline": "Prepare to face the evil within the beast.",
+   "trailer_youtube_id": "BP2_TUBOS6U",
+   "runtime": 111
+  },
+  {
+   "id": 49049,
+   "imdb_id": "tt1343727",
+   "title": "Dredd",
+   "year": 2012,
+   "release_date": "2012-09-07",
+   "vote_average": 6.9,
+   "vote_count": 5761,
+   "genres": [
+    "Action",
+    "Science Fiction"
+   ],
+   "poster_path": "/wLx65gtGVnUFCxceHWGszcruCZj.jpg",
+   "backdrop_path": "/jUqDBi02CDjqrroC3Zl8hroBbSr.jpg",
+   "logo_path": "/fxi93vHDr8W1rbflCcAUQjMjIyU.png",
+   "tagline": "Judgement is coming.",
+   "trailer_youtube_id": "3Sp-2FvUNv0",
+   "runtime": 96
+  },
+  {
+   "id": 754,
+   "imdb_id": "tt0119094",
+   "title": "Face/Off",
+   "year": 1997,
+   "release_date": "1997-06-27",
+   "vote_average": 7.1,
+   "vote_count": 6162,
+   "genres": [
+    "Action",
+    "Crime",
+    "Science Fiction"
+   ],
+   "poster_path": "/69Xzn8UdPbVnmqSChKz2RTpoNfB.jpg",
+   "backdrop_path": "/tsSWHgaFlzzkp3o976juBZbmcs2.jpg",
+   "logo_path": "/zc8IroTeW0pqkXvZe4oSwCZOOvU.png",
+   "tagline": "In order to trap him, he must become him.",
+   "trailer_youtube_id": "3zebJ_NoduE",
+   "runtime": 139
+  },
+  {
+   "id": 353081,
+   "imdb_id": "tt4912910",
+   "title": "Mission: Impossible - Fallout",
+   "year": 2018,
+   "release_date": "2018-07-25",
+   "vote_average": 7.5,
+   "vote_count": 9450,
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "poster_path": "/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg",
+   "backdrop_path": "/5jnoAA74Qwb5w6B9FMvnc20n6Ie.jpg",
+   "logo_path": "/w8Rdtneqi5xi5xNA1mzr5iZbRWv.png",
+   "tagline": "Some missions are not a choice.",
+   "trailer_youtube_id": "-Z1M-I7_dtM",
+   "runtime": 147
+  },
+  {
+   "id": 2109,
+   "imdb_id": "tt0120812",
+   "title": "Rush Hour",
+   "year": 1998,
+   "release_date": "1998-09-18",
+   "vote_average": 7.1,
+   "vote_count": 5954,
+   "genres": [
+    "Action",
+    "Comedy",
+    "Crime"
+   ],
+   "poster_path": "/nwPhAsfnb7f46bZkWLG7IRP5HXr.jpg",
+   "backdrop_path": "/9FrpAtF87VKblKkDEiIZzYgO40K.jpg",
+   "logo_path": "/c7upcLai75mwKvzSdzdaD7K4Cqw.png",
+   "tagline": "The fastest hands in the East meet the biggest mouth in the West.",
+   "trailer_youtube_id": "Vd19E3BBUmA",
+   "runtime": 97
+  },
+  {
+   "id": 37724,
+   "imdb_id": "tt1074638",
+   "title": "Skyfall",
+   "year": 2012,
+   "release_date": "2012-10-24",
+   "vote_average": 7.3,
+   "vote_count": 16473,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Thriller"
+   ],
+   "poster_path": "/d0IVecFQvsGdSbnMAHqiYsNYaJT.jpg",
+   "backdrop_path": "/wkA622CCN2X0uwpgqYEOnUYEDf5.jpg",
+   "logo_path": "/yNdqBPHleev77f0aROegyg5aak5.svg",
+   "tagline": "Think on your sins.",
+   "trailer_youtube_id": "ChExPAcS3-8",
+   "runtime": 143
+  },
+  {
+   "id": 969681,
+   "imdb_id": "tt22084616",
+   "title": "Spider-Man: Brand New Day",
+   "year": 2026,
+   "release_date": "2026-07-29",
+   "vote_average": 8.4,
+   "vote_count": 4717,
+   "genres": [
+    "Science Fiction",
+    "Action",
+    "Adventure"
+   ],
+   "poster_path": "/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+   "backdrop_path": "/f9mM7tDrZ3LlHPQu9I5A6TTxTb9.jpg",
+   "logo_path": "/dGMb0iSnNp7UMAHkKX63Kh6AJvy.png",
+   "tagline": "A brand new day starts now.",
+   "trailer_youtube_id": "CPzqXzpH-p8",
+   "runtime": 145
+  },
+  {
+   "id": 634649,
+   "imdb_id": "tt10872600",
+   "title": "Spider-Man: No Way Home",
+   "year": 2021,
+   "release_date": "2021-12-15",
+   "vote_average": 7.9,
+   "vote_count": 23294,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+   ],
+   "poster_path": "/lf9ipxkVSWRcfYDnkla2ojpsxPz.jpg",
+   "backdrop_path": "/utxfKMtH91Q5uPvFMFDLnxohXHV.jpg",
+   "logo_path": "/9xjIoK8eGVvMdiqwUQbEBUeh9Ej.png",
+   "tagline": "Enter the Multiverse.",
+   "trailer_youtube_id": "QTtUdN2k0Bo",
+   "runtime": 148
+  },
+  {
+   "id": 8681,
+   "imdb_id": "tt0936501",
+   "title": "Taken",
+   "year": 2008,
+   "release_date": "2008-02-18",
+   "vote_average": 7.4,
+   "vote_count": 12473,
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "poster_path": "/ognkaUSNgJe1a2pjB4UNdzEo5jT.jpg",
+   "backdrop_path": "/ysCmtf9Y9fLDChZ88PXId5RbLP1.jpg",
+   "logo_path": "/2p7DR2C97aroye9s4iNH9FEW0qp.png",
+   "tagline": "They took his daughter. He'll take their lives.",
+   "trailer_youtube_id": "ZxKDnpiJaVc",
+   "runtime": 94
+  },
+  {
+   "id": 1930,
+   "imdb_id": "tt0948470",
+   "title": "The Amazing Spider-Man",
+   "year": 2012,
+   "release_date": "2012-06-23",
+   "vote_average": 6.8,
+   "vote_count": 19207,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+   ],
+   "poster_path": "/jexoNYnPd6vVrmygwF6QZmWPFdu.jpg",
+   "backdrop_path": "/bNYJRzkWcLFAf4paErndjQu2kCL.jpg",
+   "logo_path": "/wpjoFEW3fl7NYJNrBW2b1NicW2V.png",
+   "tagline": "The untold story begins.",
+   "trailer_youtube_id": "CxUh9MYf1FE",
+   "runtime": 136
+  },
+  {
+   "id": 102382,
+   "imdb_id": "tt1872181",
+   "title": "The Amazing Spider-Man 2",
+   "year": 2014,
+   "release_date": "2014-04-16",
+   "vote_average": 6.6,
+   "vote_count": 14823,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+   ],
+   "poster_path": "/bU7nTmvmy0h3VUP01v1T2imgH6N.jpg",
+   "backdrop_path": "/k0hlAzTryCYX1O1LyC6P8tAa8s0.jpg",
+   "logo_path": "/8ybXuz5BHVq9kJTEJvB50VJuypH.png",
+   "tagline": "His greatest battle begins.",
+   "trailer_youtube_id": "bW1L8WKamzQ",
+   "runtime": 141
+  },
+  {
+   "id": 155,
+   "imdb_id": "tt0468569",
+   "title": "The Dark Knight",
+   "year": 2008,
+   "release_date": "2008-07-16",
+   "vote_average": 8.5,
+   "vote_count": 36932,
+   "genres": [
+    "Action",
+    "Thriller",
+    "Crime"
+   ],
+   "poster_path": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+   "backdrop_path": "/9FE5eD92WfVCiivM9Pq9GVSrlWk.jpg",
+   "logo_path": "/nO5Uix3Qr4WjOyU1BMPv0okyNWm.png",
+   "tagline": "Welcome to a world without rules.",
+   "trailer_youtube_id": "bS8TNDFBAHE",
+   "runtime": 152
+  },
+  {
+   "id": 1368337,
+   "imdb_id": "tt33764258",
+   "title": "The Odyssey",
+   "year": 2026,
+   "release_date": "2026-07-15",
+   "vote_average": 8.0,
+   "vote_count": 4069,
+   "genres": [
+    "Adventure",
+    "Action",
+    "Fantasy"
+   ],
+   "poster_path": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+   "backdrop_path": "/bulFtfy3oBQtCnAMSi7g6DSSds3.jpg",
+   "logo_path": "/kX6ZX4GL7km04332caiOVapR2lb.png",
+   "tagline": "Defy the gods.",
+   "trailer_youtube_id": "TMtYbo_pJo8",
+   "runtime": 173
+  },
+  {
+   "id": 9802,
+   "imdb_id": "tt0117500",
+   "title": "The Rock",
+   "year": 1996,
+   "release_date": "1996-06-07",
+   "vote_average": 7.2,
+   "vote_count": 5417,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Thriller"
+   ],
+   "poster_path": "/eBcoxveWzzXQrCrwWMGAROcqgpP.jpg",
+   "backdrop_path": "/qDVdTL1KqGmGLGsy7UPA3vksku7.jpg",
+   "logo_path": "/qp7IG6oNEBRkMCCZdbwS0MczLEL.png",
+   "tagline": "Alcatraz. Only one man has ever broken out. Now five million lives depend on two men breaking in.",
+   "trailer_youtube_id": "CGGNOzIU66k",
+   "runtime": 137
+  },
+  {
+   "id": 4108,
+   "imdb_id": "tt0293662",
+   "title": "The Transporter",
+   "year": 2002,
+   "release_date": "2002-10-02",
+   "vote_average": 6.7,
+   "vote_count": 6048,
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ],
+   "poster_path": "/dncJ81z1BahrT3ogLvlxOUC5n4u.jpg",
+   "backdrop_path": "/8dXR9R0NUo4eyS4hnYOsCywmo16.jpg",
+   "logo_path": "/jU5GX2LcB2olrcyKcvURpRkkjY8.png",
+   "tagline": "Rules are made to be broken.",
+   "trailer_youtube_id": "0poXFSvX0_4",
+   "runtime": 92
+  }
+ ]
+}
