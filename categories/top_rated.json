@@ -766,128 +766,7 @@
     "Science Fiction"
    ]
   },
-  {
-   "id": 177572,
-   "imdb_id": "tt2245084",
-   "slug": "big-hero-6-2014",
-   "title": "Big Hero 6",
-   "original_title": "Big Hero 6",
-   "tagline": "Drop everything. Save the world.",
-   "overview": "A special bond develops between plus-sized inflatable robot Baymax, and prodigy Hiro Hamada, who team up with a group of friends to form a band of high-tech heroes.",
-   "year": 2014,
-   "release_date": "2014-10-24",
-   "runtime": 102,
-   "vote_average": 7.7,
-   "genres": [
-    "Adventure",
-    "Family",
-    "Animation",
-    "Action",
-    "Comedy"
-   ],
-   "language": "English",
-   "poster_path": "/2mxS4wUimwlLmI1xp6QW6NSU361.jpg",
-   "backdrop_path": "/4s2d3xdyqotiVNHTlTlJjrr3q0H.jpg",
-   "logo_path": "/y49pcTmg7SxDV4u0fVz2RJm8nl1.png",
-   "trailer_youtube_id": "8IdMPpKMdcc",
-   "trailer_embed_url": "https://www.youtube.com/embed/8IdMPpKMdcc",
-   "categories": [
-    "Top_Rated",
-    "Action"
-   ]
-  },
-  {
-   "id": 539681,
-   "imdb_id": "tt8912936",
-   "slug": "dc-league-of-super-pets-2022",
-   "title": "DC League of Super-Pets",
-   "original_title": "DC League of Super-Pets",
-   "tagline": "Sit, stay, save the world.",
-   "overview": "When Superman and the rest of the Justice League are kidnapped, Krypto the Super-Dog must convince a rag-tag shelter pack - Ace the hound, PB the potbellied pig, Merton the turtle and Chip the squirrel - to master their own newfound powers and help him rescue the superheroes.",
-   "year": 2022,
-   "release_date": "2022-07-27",
-   "runtime": 105,
-   "vote_average": 7.1,
-   "genres": [
-    "Family",
-    "Comedy",
-    "Adventure",
-    "Animation",
-    "Science Fiction",
-    "Action"
-   ],
-   "language": "English",
-   "poster_path": "/qpPMewlugFaejXjz4YNDnpTniFX.jpg",
-   "backdrop_path": "/xfNHRI2f5kHGvogxLd0C5sB90L7.jpg",
-   "logo_path": "/g68RCSiJr7gzd4z6wcug3OJ8Xgt.png",
-   "trailer_youtube_id": "pz19zrbYwH8",
-   "trailer_embed_url": "https://www.youtube.com/embed/pz19zrbYwH8",
-   "categories": [
-    "Top_Rated",
-    "Action",
-    "Adventure"
-   ]
-  },
-  {
-   "id": 98566,
-   "imdb_id": "tt1291150",
-   "slug": "teenage-mutant-ninja-turtles-2014",
-   "title": "Teenage Mutant Ninja Turtles",
-   "original_title": "Teenage Mutant Ninja Turtles",
-   "tagline": "Mysterious. Dangerous. Reptilious. You've never seen heroes like this.",
-   "overview": "When a kingpin threatens New York City, a group of mutated turtle warriors must emerge from the shadows to protect their home.",
-   "year": 2014,
-   "release_date": "2014-08-07",
-   "runtime": 101,
-   "vote_average": 5.9,
-   "genres": [
-    "Science Fiction",
-    "Action",
-    "Adventure",
-    "Comedy"
-   ],
-   "language": "English",
-   "poster_path": "/azL2ThbJMIkts3ZMt3j1YgBUeDB.jpg",
-   "backdrop_path": "/eezsbzYPbYKjjh6E1XHDBNlLynh.jpg",
-   "logo_path": "/yUnE5BPY8UECTOioYexHng19PWR.png",
-   "trailer_youtube_id": "z88vDU5pLxU",
-   "trailer_embed_url": "https://www.youtube.com/embed/z88vDU5pLxU",
-   "categories": [
-    "Top_Rated",
-    "Action",
-    "Adventure"
-   ]
-  },
-  {
-   "id": 9806,
-   "imdb_id": "tt0317705",
-   "slug": "the-incredibles-2004",
-   "title": "The Incredibles",
-   "original_title": "The Incredibles",
-   "tagline": "Super strength can’t carry a family.",
-   "overview": "Bob Parr has given up his superhero days to log in time as an insurance adjuster and raise his three children with his formerly heroic wife in suburbia. But when he receives a mysterious assignment, it's time to get back into costume.",
-   "year": 2004,
-   "release_date": "2004-10-27",
-   "runtime": 115,
-   "vote_average": 7.7,
-   "genres": [
-    "Action",
-    "Adventure",
-    "Animation",
-    "Family"
-   ],
-   "language": "English",
-   "poster_path": "/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
-   "backdrop_path": "/lxwzY9vNwjDgxWKt3zZ6zcU6rEJ.jpg",
-   "logo_path": "/3HPRaJU7yuBsG13wFrW3Znxo5R0.png",
-   "trailer_youtube_id": "sHBLVaIEwj4",
-   "trailer_embed_url": "https://www.youtube.com/embed/sHBLVaIEwj4",
-   "categories": [
-    "Top_Rated",
-    "Action",
-    "Adventure"
-   ]
-  },
+
   {
    "id": 588648,
    "imdb_id": "tt7093904",
@@ -918,37 +797,7 @@
     "Action"
    ]
   },
-  {
-   "id": 961323,
-   "imdb_id": "tt19500164",
-   "slug": "nimona-2023",
-   "title": "Nimona",
-   "original_title": "Nimona",
-   "tagline": "A little anti. A little hero.",
-   "overview": "A knight framed for a tragic crime teams with a scrappy, shape-shifting teen to prove his innocence.",
-   "year": 2023,
-   "release_date": "2023-06-23",
-   "runtime": 99,
-   "vote_average": 7.9,
-   "genres": [
-    "Animation",
-    "Family",
-    "Fantasy",
-    "Adventure",
-    "Science Fiction",
-    "Action"
-   ],
-   "language": "English",
-   "poster_path": "/2NQljeavtfl22207D1kxLpa4LS3.jpg",
-   "backdrop_path": "/sidvlo7V8VMyskNKGwua0Tarbol.jpg",
-   "logo_path": "/yMuiqdlSDyipYQDo6zGoGP6yPta.png",
-   "trailer_youtube_id": "wW1IMMB8ZDY",
-   "trailer_embed_url": "https://www.youtube.com/embed/wW1IMMB8ZDY",
-   "categories": [
-    "Top_Rated",
-    "Action"
-   ]
-  },
+
   {
    "id": 939243,
    "imdb_id": "tt18259086",
@@ -1007,66 +856,7 @@
     "Action"
    ]
   },
-  {
-   "id": 832502,
-   "imdb_id": "tt8637498",
-   "slug": "the-monkey-king-2023",
-   "title": "The Monkey King",
-   "original_title": "The Monkey King",
-   "tagline": "The legend has arrived",
-   "overview": "A stick-wielding monkey teams with a young girl on an epic quest for immortality, battling demons, dragons, gods — and his own ego — along the way.",
-   "year": 2023,
-   "release_date": "2023-07-30",
-   "runtime": 92,
-   "vote_average": 6.5,
-   "genres": [
-    "Animation",
-    "Fantasy",
-    "Adventure",
-    "Family",
-    "Comedy"
-   ],
-   "language": "English",
-   "poster_path": "/i6ye8ueFhVE5pXatgyRrZ83LBD8.jpg",
-   "backdrop_path": "/jDjmnEuNUfWHg8rbW6u8mylkcO0.jpg",
-   "logo_path": "/yhit94ENEliV14h63Zmr6QPUGpP.png",
-   "trailer_youtube_id": "o6KA2DeD34Y",
-   "trailer_embed_url": "https://www.youtube.com/embed/o6KA2DeD34Y",
-   "categories": [
-    "Top_Rated",
-    "Action"
-   ]
-  },
-  {
-   "id": 502356,
-   "imdb_id": "tt6718170",
-   "slug": "the-super-mario-bros-movie-2023",
-   "title": "The Super Mario Bros. Movie",
-   "original_title": "The Super Mario Bros. Movie",
-   "tagline": "Not all heroes wear capes. Some wear overalls.",
-   "overview": "While working underground to fix a water main, Brooklyn plumbers—and brothers—Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.",
-   "year": 2023,
-   "release_date": "2023-04-05",
-   "runtime": 93,
-   "vote_average": 7.6,
-   "genres": [
-    "Family",
-    "Comedy",
-    "Adventure",
-    "Fantasy",
-    "Animation"
-   ],
-   "language": "English",
-   "poster_path": "/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
-   "backdrop_path": "/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
-   "logo_path": "/sst2kO7ySyAm3z5haWXUszOVWi2.png",
-   "trailer_youtube_id": "f4LdtAazviE",
-   "trailer_embed_url": "https://www.youtube.com/embed/f4LdtAazviE",
-   "categories": [
-    "Top_Rated",
-    "Action"
-   ]
-  },
+
   {
    "id": 829402,
    "imdb_id": "tt9471678",
@@ -1179,34 +969,7 @@
     "Action"
    ]
   },
-  {
-   "id": 754,
-   "imdb_id": "tt0119094",
-   "slug": "face-off-1997",
-   "title": "Face/Off",
-   "original_title": "Face/Off",
-   "tagline": "In order to trap him, he must become him.",
-   "overview": "In order to foil a terrorist plot, an FBI agent undergoes facial transplant surgery and assumes the identity of a criminal mastermind. The plan turns sour when the criminal wakes up prematurely and seeks revenge.",
-   "year": 1997,
-   "release_date": "1997-06-27",
-   "runtime": 139,
-   "vote_average": 7.1,
-   "genres": [
-    "Action",
-    "Crime",
-    "Science Fiction"
-   ],
-   "language": "English",
-   "poster_path": "/69Xzn8UdPbVnmqSChKz2RTpoNfB.jpg",
-   "backdrop_path": "/tsSWHgaFlzzkp3o976juBZbmcs2.jpg",
-   "logo_path": "/zc8IroTeW0pqkXvZe4oSwCZOOvU.png",
-   "trailer_youtube_id": "3zebJ_NoduE",
-   "trailer_embed_url": "https://www.youtube.com/embed/3zebJ_NoduE",
-   "categories": [
-    "Top_Rated",
-    "Action"
-   ]
-  },
+
   {
    "id": 353081,
    "imdb_id": "tt4912910",
@@ -1515,35 +1278,6 @@
    ]
   },
   {
-   "id": 116711,
-   "imdb_id": "tt0848537",
-   "slug": "epic-2013",
-   "title": "Epic",
-   "original_title": "Epic",
-   "tagline": "Discover a world beyond your imagination.",
-   "overview": "A teenager finds herself transported to a deep forest setting where a battle between the forces of good and the forces of evil is taking place. She bands together with a rag-tag group characters in order to save their world—and ours.",
-   "year": 2013,
-   "release_date": "2013-05-15",
-   "runtime": 102,
-   "vote_average": 6.6,
-   "genres": [
-    "Animation",
-    "Adventure",
-    "Family",
-    "Fantasy"
-   ],
-   "language": "English",
-   "poster_path": "/81cSsWzjTfR3cJSqnTiHwy1eyPK.jpg",
-   "backdrop_path": "/zFyuN8vF2XNSzxIdACES0IyNrhK.jpg",
-   "logo_path": "/f5OOxOPupEktguZ4Emk86zdT62k.png",
-   "trailer_youtube_id": "_KqNCnd8AN4",
-   "trailer_embed_url": "https://www.youtube.com/embed/_KqNCnd8AN4",
-   "categories": [
-    "Top_Rated",
-    "Adventure"
-   ]
-  },
-  {
    "id": 127380,
    "imdb_id": "tt2277860",
    "slug": "finding-dory-2016",
@@ -1655,34 +1389,6 @@
    "logo_path": "/83GkJm2rUc0BL2n0ZTHl8RLRE47.png",
    "trailer_youtube_id": "mifoxGj-N7A",
    "trailer_embed_url": "https://www.youtube.com/embed/mifoxGj-N7A",
-   "categories": [
-    "Top_Rated",
-    "Adventure"
-   ]
-  },
-  {
-   "id": 228326,
-   "imdb_id": "tt2262227",
-   "slug": "the-book-of-life-2014",
-   "title": "The Book of Life",
-   "original_title": "The Book of Life",
-   "tagline": "Two worlds. One love.",
-   "overview": "The journey of Manolo, a young man who is torn between fulfilling the expectations of his family and following his heart. Before choosing which path to follow, he embarks on an incredible adventure that spans fantastical worlds where he must face his greatest fears.",
-   "year": 2014,
-   "release_date": "2014-10-01",
-   "runtime": 95,
-   "vote_average": 7.5,
-   "genres": [
-    "Animation",
-    "Family",
-    "Fantasy"
-   ],
-   "language": "English",
-   "poster_path": "/aotTZos5KswgCryEzx2rlOjFsm1.jpg",
-   "backdrop_path": "/b0XkgWgCBurkCZdNXp7kEZdgxEi.jpg",
-   "logo_path": "/7bUYGOyVbGXxNQ292cjwYh003vW.png",
-   "trailer_youtube_id": "yo7WT7zZifY",
-   "trailer_embed_url": "https://www.youtube.com/embed/yo7WT7zZifY",
    "categories": [
     "Top_Rated",
     "Adventure"
@@ -2143,95 +1849,7 @@
     "Animation"
    ]
   },
-  {
-   "id": 976573,
-   "imdb_id": "tt15789038",
-   "slug": "elemental-2023",
-   "title": "Elemental",
-   "original_title": "Elemental",
-   "tagline": "Opposites react.",
-   "overview": "In a city where fire, water, land and air residents live together, a fiery young woman and a go-with-the-flow guy will discover something elemental: how much they have in common.",
-   "year": 2023,
-   "release_date": "2023-06-14",
-   "runtime": 102,
-   "vote_average": 7.6,
-   "genres": [
-    "Animation",
-    "Comedy",
-    "Family",
-    "Romance"
-   ],
-   "language": "English",
-   "poster_path": "/gzuZ1ZOJHZuCOfbn5yv7StX0cjs.jpg",
-   "backdrop_path": "/4fLZUr1e65hKPPVw0R3PmKFKxj1.jpg",
-   "logo_path": "/aYT1V9U0LjgCosicUA3oLnFF53x.png",
-   "trailer_youtube_id": "k9YQgsQSGSw",
-   "trailer_embed_url": "https://www.youtube.com/embed/k9YQgsQSGSw",
-   "categories": [
-    "Top_Rated",
-    "Animation"
-   ]
-  },
-  {
-   "id": 150540,
-   "imdb_id": "tt2096673",
-   "slug": "inside-out-2015",
-   "title": "Inside Out",
-   "original_title": "Inside Out",
-   "tagline": "Meet the little voices inside your head.",
-   "overview": "When 11-year-old Riley moves to a new city, her Emotions team up to help her through the transition. Joy, Fear, Anger, Disgust and Sadness work together, but when Joy and Sadness get lost, they must journey through unfamiliar places to get back home.",
-   "year": 2015,
-   "release_date": "2015-06-17",
-   "runtime": 95,
-   "vote_average": 7.9,
-   "genres": [
-    "Animation",
-    "Family",
-    "Adventure",
-    "Drama",
-    "Comedy"
-   ],
-   "language": "English",
-   "poster_path": "/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
-   "backdrop_path": "/jJKZaTBNenlFclQyjrnvzkRmvWE.jpg",
-   "logo_path": "/rm7EZqB4AupYzoj0yPPMpyhsOO0.png",
-   "trailer_youtube_id": "hk7wdwmTuRc",
-   "trailer_embed_url": "https://www.youtube.com/embed/hk7wdwmTuRc",
-   "categories": [
-    "Top_Rated",
-    "Animation"
-   ]
-  },
-  {
-   "id": 508943,
-   "imdb_id": "tt12801262",
-   "slug": "luca-2021",
-   "title": "Luca",
-   "original_title": "Luca",
-   "tagline": "Prepare for an unforgettable trip.",
-   "overview": "Luca and his best friend Alberto experience an unforgettable summer on the Italian Riviera. But all the fun is threatened by a deeply-held secret: they are sea monsters from another world just below the water’s surface.",
-   "year": 2021,
-   "release_date": "2021-06-17",
-   "runtime": 95,
-   "vote_average": 7.8,
-   "genres": [
-    "Animation",
-    "Family",
-    "Fantasy",
-    "Drama",
-    "Comedy"
-   ],
-   "language": "English",
-   "poster_path": "/9x4i9uKGXt8IiiIF5Ey0DIoY738.jpg",
-   "backdrop_path": "/620hnMVLu6RSZW6a5rwO8gqpt0t.jpg",
-   "logo_path": "/1k0lYEyYy60L9yjnzKHHP9b5OIa.png",
-   "trailer_youtube_id": "nxuPDn53AS4",
-   "trailer_embed_url": "https://www.youtube.com/embed/nxuPDn53AS4",
-   "categories": [
-    "Top_Rated",
-    "Animation"
-   ]
-  },
+
   {
    "id": 1315772,
    "imdb_id": "tt32890033",
@@ -2262,35 +1880,7 @@
     "Animation"
    ]
   },
-  {
-   "id": 15512,
-   "imdb_id": "tt0892782",
-   "slug": "monsters-vs-aliens-2009",
-   "title": "Monsters vs Aliens",
-   "original_title": "Monsters vs Aliens",
-   "tagline": "Saving the day the monster way.",
-   "overview": "When Susan Murphy is unwittingly clobbered by a meteor full of outer space gunk on her wedding day, she mysteriously grows to 49-feet-11-inches. The military jumps into action and captures Susan, secreting her away to a covert government compound. She is renamed Ginormica and placed in confinement with a ragtag group of Monsters...",
-   "year": 2009,
-   "release_date": "2009-03-19",
-   "runtime": 94,
-   "vote_average": 6.3,
-   "genres": [
-    "Animation",
-    "Family",
-    "Adventure",
-    "Science Fiction"
-   ],
-   "language": "English",
-   "poster_path": "/hpHarddVj34j53T7NsoUGdKj4mP.jpg",
-   "backdrop_path": "/fbxZeJEcyf76oEQIGmotlclwmiH.jpg",
-   "logo_path": "/bFFhGw5wmUiCkz1T5PzYugnGV37.png",
-   "trailer_youtube_id": "FdUHm-XThnk",
-   "trailer_embed_url": "https://www.youtube.com/embed/FdUHm-XThnk",
-   "categories": [
-    "Top_Rated",
-    "Animation"
-   ]
-  },
+
   {
    "id": 585,
    "imdb_id": "tt0198781",
@@ -2320,64 +1910,7 @@
     "Animation"
    ]
   },
-  {
-   "id": 808,
-   "imdb_id": "tt0126029",
-   "slug": "shrek-2001",
-   "title": "Shrek",
-   "original_title": "Shrek",
-   "tagline": "The greatest fairy tale never told.",
-   "overview": "It ain't easy bein' green -- especially if you're a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot -- a wisecracking donkey.",
-   "year": 2001,
-   "release_date": "2001-05-18",
-   "runtime": 90,
-   "vote_average": 7.8,
-   "genres": [
-    "Animation",
-    "Comedy",
-    "Fantasy",
-    "Adventure",
-    "Family"
-   ],
-   "language": "English",
-   "poster_path": "/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
-   "backdrop_path": "/w0eKUOEog2ImtktCHAMUZws8qif.jpg",
-   "logo_path": "/mEtAnquVJzgMwmBeZNw4fhccj2s.png",
-   "trailer_youtube_id": "ppDwfm6e498",
-   "trailer_embed_url": "https://www.youtube.com/embed/ppDwfm6e498",
-   "categories": [
-    "Top_Rated",
-    "Animation"
-   ]
-  },
-  {
-   "id": 22794,
-   "imdb_id": "tt0844471",
-   "slug": "cloudy-with-a-chance-of-meatballs-2009",
-   "title": "Cloudy with a Chance of Meatballs",
-   "original_title": "Cloudy with a Chance of Meatballs",
-   "tagline": "Prepare to get served.",
-   "overview": "Inventor Flint Lockwood creates a machine that makes clouds rain food, enabling the down-and-out citizens of Chewandswallow to feed themselves. But when the falling food reaches gargantuan proportions, Flint must scramble to avert disaster. Can he regain control of the machine and put an end to the wild weather before the town is destroyed?",
-   "year": 2009,
-   "release_date": "2009-09-17",
-   "runtime": 90,
-   "vote_average": 6.7,
-   "genres": [
-    "Animation",
-    "Comedy",
-    "Family"
-   ],
-   "language": "English",
-   "poster_path": "/qhOhIKf7QEyQ5dMrRUqs5eTX1Oq.jpg",
-   "backdrop_path": "/doNIj6jX27hhfcbD6GEb22ydLSF.jpg",
-   "logo_path": "/shJ42Q15iN1NlTaKbK1G49hLPzW.png",
-   "trailer_youtube_id": "uL_8wtHSs80",
-   "trailer_embed_url": "https://www.youtube.com/embed/uL_8wtHSs80",
-   "categories": [
-    "Top_Rated",
-    "Comedy"
-   ]
-  },
+
   {
    "id": 953,
    "imdb_id": "tt0351283",
@@ -3604,32 +3137,7 @@
     "Documentary"
    ]
   },
-  {
-   "id": 1451867,
-   "imdb_id": "tt35237771",
-   "slug": "ghost-elephants-2026",
-   "title": "Ghost Elephants",
-   "original_title": "Ghost Elephants",
-   "tagline": "An epic search for a mythical giant.",
-   "overview": "In Angola's mist-shrouded highlands, three KhoiSan master trackers embark on a spiritual quest to rediscover the legendary \"ghost elephants\" of Lisima, creatures presumed lost but remembered in ancestral trance, ritual, and memory.",
-   "year": 2026,
-   "release_date": "2026-02-27",
-   "runtime": 99,
-   "vote_average": 7.6,
-   "genres": [
-    "Documentary"
-   ],
-   "language": "English",
-   "poster_path": "/h2zN5Oo89DjwY9Q4F8zto5MlnNb.jpg",
-   "backdrop_path": "/qEqvcwXH5skWfed1rgZq45FL36G.jpg",
-   "logo_path": "/bA5kCmkX5qWz0n6dAmY5XdH6X9i.png",
-   "trailer_youtube_id": "YoOD-2Wn7ik",
-   "trailer_embed_url": "https://www.youtube.com/embed/YoOD-2Wn7ik",
-   "categories": [
-    "Top_Rated",
-    "Documentary"
-   ]
-  },
+
   {
    "id": 1448497,
    "imdb_id": "tt33022710",
@@ -4197,36 +3705,7 @@
     "Drama"
    ]
   },
-  {
-   "id": 585083,
-   "imdb_id": "tt9848626",
-   "slug": "hotel-transylvania-transformania-2022",
-   "title": "Hotel Transylvania: Transformania",
-   "original_title": "Hotel Transylvania: Transformania",
-   "tagline": "Change can be scary.",
-   "overview": "When Van Helsing's mysterious invention, the \"Monsterfication Ray,\" goes haywire, Drac and his monster pals are all transformed into humans, and Johnny becomes a monster. In their new mismatched bodies, Drac and Johnny must team up and race across the globe to find a cure before it's too late, and before they drive each other crazy.",
-   "year": 2022,
-   "release_date": "2022-01-31",
-   "runtime": 92,
-   "vote_average": 7.0,
-   "genres": [
-    "Animation",
-    "Comedy",
-    "Family",
-    "Adventure",
-    "Fantasy"
-   ],
-   "language": "English",
-   "poster_path": "/teCy1egGQa0y8ULJvlrDHQKnxBL.jpg",
-   "backdrop_path": "/7QabKu8tizoqy8qCZJXljdSpP4A.jpg",
-   "logo_path": "/pGyr7fPhTEXNC9XaDRMWlc9FL1h.png",
-   "trailer_youtube_id": "InuP_HrHp5A",
-   "trailer_embed_url": "https://www.youtube.com/embed/InuP_HrHp5A",
-   "categories": [
-    "Top_Rated",
-    "Family"
-   ]
-  },
+
   {
    "id": 516729,
    "imdb_id": "tt5822536",
@@ -4284,36 +3763,7 @@
     "Family"
    ]
   },
-  {
-   "id": 529203,
-   "imdb_id": "tt2850386",
-   "slug": "the-croods-a-new-age-2020",
-   "title": "The Croods: A New Age",
-   "original_title": "The Croods: A New Age",
-   "tagline": "The future ain't what it used to be.",
-   "overview": "Searching for a safer habitat, the prehistoric Crood family discovers an idyllic, walled-in paradise that meets all of its needs. Unfortunately, they must also learn to live with the Bettermans -- a family that's a couple of steps above the Croods on the evolutionary ladder. As tensions between the new neighbors start to rise, a new threat soon propels both clans on an epic adventure that forces them to embrace their differences, draw strength from one another, and survive together.",
-   "year": 2020,
-   "release_date": "2020-11-25",
-   "runtime": 95,
-   "vote_average": 7.4,
-   "genres": [
-    "Animation",
-    "Family",
-    "Adventure",
-    "Fantasy",
-    "Comedy"
-   ],
-   "language": "English",
-   "poster_path": "/tbVZ3Sq88dZaCANlUcewQuHQOaE.jpg",
-   "backdrop_path": "/ytTQoYkdpsgtfDWrNFCei8Mfbxu.jpg",
-   "logo_path": "/qRm9iVYcj3SaFJhmb7u5BbWhiDF.png",
-   "trailer_youtube_id": "_BJ7A7WYDBo",
-   "trailer_embed_url": "https://www.youtube.com/embed/_BJ7A7WYDBo",
-   "categories": [
-    "Top_Rated",
-    "Family"
-   ]
-  },
+
   {
    "id": 137106,
    "imdb_id": "tt1490017",
@@ -4373,35 +3823,7 @@
     "Family"
    ]
   },
-  {
-   "id": 778810,
-   "imdb_id": "tt8354218",
-   "slug": "fireheart-2022",
-   "title": "Fireheart",
-   "original_title": "Fireheart",
-   "tagline": "Every dream starts with a spark.",
-   "overview": "The film explores the world of firefighters in 1920s New York City and tells the story of a 16-year-old girl who will have to become a hero in order to save her city.",
-   "year": 2022,
-   "release_date": "2022-01-16",
-   "runtime": 92,
-   "vote_average": 7.2,
-   "genres": [
-    "Animation",
-    "Adventure",
-    "Family",
-    "Comedy"
-   ],
-   "language": "English",
-   "poster_path": "/vYAUgsoel6slydF6y4NCPLW96ah.jpg",
-   "backdrop_path": "/rEX8tOPvdgWqURQWx6oEzQqSWsM.jpg",
-   "logo_path": "/4v69cnMudwMV5yv9VSp7o25eR5C.png",
-   "trailer_youtube_id": "ZhwZR2nxwRY",
-   "trailer_embed_url": "https://www.youtube.com/embed/ZhwZR2nxwRY",
-   "categories": [
-    "Top_Rated",
-    "Family"
-   ]
-  },
+
   {
    "id": 1185806,
    "imdb_id": "tt29356163",
@@ -4576,34 +3998,6 @@
    "logo_path": "/8v2NlA8Out9u1oWCNVdEt2I1OWB.png",
    "trailer_youtube_id": "xR0yHc8dwMw",
    "trailer_embed_url": "https://www.youtube.com/embed/xR0yHc8dwMw",
-   "categories": [
-    "Top_Rated",
-    "Fantasy"
-   ]
-  },
-  {
-   "id": 739547,
-   "imdb_id": "tt10442352",
-   "slug": "thelma-the-unicorn-2024",
-   "title": "Thelma the Unicorn",
-   "original_title": "Thelma the Unicorn",
-   "tagline": null,
-   "overview": "Thelma dreams of being a glamorous unicorn. Then in a rare pink and glitter-filled moment of fate, Thelma's wish comes true. She rises to instant international stardom, but at an unexpected cost. After a while, Thelma realizes that she was happier as her ordinary, sparkle-free self. So she ditches her horn, scrubs off her sparkles, and returns home, where her best friend is waiting for her with a hug.",
-   "year": 2024,
-   "release_date": "2024-05-17",
-   "runtime": 93,
-   "vote_average": 6.9,
-   "genres": [
-    "Animation",
-    "Fantasy",
-    "Family"
-   ],
-   "language": "English",
-   "poster_path": "/buJdbCQ4Lj18y3cM2nzOC0JjlTp.jpg",
-   "backdrop_path": "/3r9aPVVNuCXNOFFXsL03abZs9xF.jpg",
-   "logo_path": "/eTLui31dSW2VGWHZAnb01wpHGFV.png",
-   "trailer_youtube_id": "8K1k1tYS3RQ",
-   "trailer_embed_url": "https://www.youtube.com/embed/8K1k1tYS3RQ",
    "categories": [
     "Top_Rated",
     "Fantasy"
