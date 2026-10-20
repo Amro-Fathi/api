@@ -202,6 +202,102 @@
    "categories": [
     "Fantasy"
    ]
-  }
+  },
+    {
+  "id": 671,
+  "imdb_id": "tt0241527",
+  "slug": "harry-potter-and-the-philosophers-stone-2001",
+  "title": "Harry Potter and the Philosopher's Stone",
+  "original_title": "Harry Potter and the Philosopher's Stone",
+  "tagline": "Let the magic begin.",
+  "overview": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard—with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths—and about the villain who's to blame.",
+  "year": 2001,
+  "release_date": "2001-11-16",
+  "runtime": 152,
+  "vote_average": 7.905,
+  "genres": [
+    "Adventure",
+    "Fantasy"
+  ],
+  "language": "English",
+  "poster_path": "/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
+  "backdrop_path": "/5jkE2SzR5uR2egEb1rRhF22JyWN.jpg",
+  "logo_path": "/n7Pj4doQ1yfElCiGTGFTvzoQkpf.png",
+  "trailer_youtube_id": "phdwdrPs3Bo",
+  "trailer_embed_url": "https://www.youtube.com/embed/phdwdrPs3Bo"
+},
+  {
+  "id": 8840,
+  "imdb_id": "tt0116136",
+  "slug": "dragonheart-1996",
+  "title": "DragonHeart",
+  "original_title": "DragonHeart",
+  "tagline": "You will believe.",
+  "overview": "In an ancient time when majestic fire-breathers soared through the skies, a knight named Bowen comes face to face and heart to heart with the last dragon on Earth, Draco. Taking up arms to suppress a tyrant king, Bowen soon realizes his task will be harder than he'd imagined: If he kills the king, Draco will die as well.",
+  "year": 1996,
+  "release_date": "1996-05-31",
+  "runtime": 103,
+  "vote_average": 6.582,
+  "genres": [
+    "Fantasy",
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "language": "English",
+  "poster_path": "/1J2FvxEoEKMFT9TjUdfhm0MJhZD.jpg",
+  "backdrop_path": "/xbqluNfftDJtxDsqcpx9kKme4LF.jpg",
+  "logo_path": "/bQ4nKm1prrpUEPEPauKJHX1biBq.png",
+  "trailer_youtube_id": "7MSLlD8lQ5k",
+  "trailer_embed_url": "https://www.youtube.com/embed/7MSLlD8lQ5k"
+},
+  {
+  "id": 49051,
+  "imdb_id": "tt0903624",
+  "slug": "the-hobbit-an-unexpected-journey-2012",
+  "title": "The Hobbit: An Unexpected Journey",
+  "original_title": "The Hobbit: An Unexpected Journey",
+  "tagline": "From the smallest beginnings come the greatest legends.",
+  "overview": "Bilbo Baggins, a hobbit enjoying his quiet life, is swept into an epic quest by Gandalf the Grey and thirteen dwarves who seek to reclaim their mountain home from Smaug, the dragon.",
+  "year": 2012,
+  "release_date": "2012-12-12",
+  "runtime": 169,
+  "vote_average": 7.385,
+  "genres": [
+    "Adventure",
+    "Fantasy",
+    "Action"
+  ],
+  "language": "English",
+  "poster_path": "/yHA9Fc37VmpUA5UncTxxo3rTGVA.jpg",
+  "backdrop_path": "/xyXmtuvsoM5J3yNad0nvcetpBdY.jpg",
+  "logo_path": "/h5DwmLJAw9xr9Sx33G0ckg7yjTB.png",
+  "trailer_youtube_id": "CXqZK-nbZ74",
+  "trailer_embed_url": "https://www.youtube.com/embed/CXqZK-nbZ74"
+},
+  {
+  "id": 81005,
+  "imdb_id": "tt1351685",
+  "slug": "jack-the-giant-slayer-2013",
+  "title": "Jack the Giant Slayer",
+  "original_title": "Jack the Giant Slayer",
+  "tagline": "Prepare for a giant adventure",
+  "overview": "The story of an ancient war that is reignited when a young farmhand unwittingly opens a gateway between our world and a fearsome race of giants. Unleashed on the Earth for the first time in centuries, the giants strive to reclaim the land they once lost, forcing the young man, Jack into the battle of his life to stop them. Fighting for a kingdom, its people, and the love of a brave princess, he comes face to face with the unstoppable warriors he thought only existed in legend–and gets the chance to become a legend himself.",
+  "year": 2013,
+  "release_date": "2013-02-27",
+  "runtime": 114,
+  "vote_average": 5.918,
+  "genres": [
+    "Fantasy",
+    "Action",
+    "Adventure"
+  ],
+  "language": "English",
+  "poster_path": "/9jSI7saUX9Qz0JLh19jX2ulEwL7.jpg",
+  "backdrop_path": "/djSAd6HUm66eVNC3PiZbYwOpD5A.jpg",
+  "logo_path": "/f4fr0urYNZoSu2C53gX3RbJ3xjq.png",
+  "trailer_youtube_id": "xpkcEIsgGmU",
+  "trailer_embed_url": "https://www.youtube.com/embed/xpkcEIsgGmU"
+}
  ]
 }
