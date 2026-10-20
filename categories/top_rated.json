@@ -126,7 +126,7 @@
    "runtime": 161,
    "vote_average": 8.5,
    "genres": [
-    "Western"
+    "Action"
    ],
    "language": "Italian",
    "poster_path": "/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg",
@@ -1659,9 +1659,9 @@
    "runtime": 128,
    "vote_average": 6.8,
    "genres": [
+       "Horror",
     "Thriller",
     "Crime",
-    "Horror",
     "Mystery"
    ],
    "language": "English",
@@ -1694,7 +1694,7 @@
     "Thriller"
    ],
    "language": "Chinese",
-   "poster_path": null,
+   "poster_path": "/cHKo3m8N1fwvEy2ZEr0xGmmMODV.jpg",
    "backdrop_path": "/zXINNssll2zsPGqd7F7Llrw7Uql.jpg",
    "logo_path": "/wUWwOXuV4nsSqj3NP5NyV2YdXQw.png",
    "trailer_youtube_id": "bwEQ20rN42s",
@@ -1802,8 +1802,8 @@
    "runtime": 135,
    "vote_average": 7.5,
    "genres": [
+       "Drama",
     "War",
-    "Drama",
     "Action"
    ],
    "language": "English",
@@ -2106,8 +2106,8 @@
    "runtime": 101,
    "vote_average": 7.3,
    "genres": [
-    "Mystery",
-    "Science Fiction"
+       "Science Fiction",
+    "Mystery"
    ],
    "language": "English",
    "poster_path": "/tNPEGju4DpTdbhBphNmZoEi9Bd3.jpg",
@@ -2188,9 +2188,9 @@
    "runtime": 106,
    "vote_average": 7.2,
    "genres": [
-    "Thriller",
-    "Mystery",
-    "Science Fiction"
+       "Science Fiction",
+       "Mystery",
+       "Thriller"
    ],
    "language": "English",
    "poster_path": "/r8anWUCVK7MZEolcfPrM9eFkRO4.jpg",
