@@ -1,7 +1,6 @@
 {
  "category": "Crime",
  "slug": "crime",
- "count": 19,
  "movies": [
   {
    "id": 90,
@@ -14,28 +13,18 @@
    "year": 1984,
    "release_date": "1984-12-05",
    "runtime": 105,
-   "runtime_text": "1h 45m",
    "vote_average": 7.2,
-   "rating_percent": 72,
-   "vote_count": 4773,
-   "popularity": 19.6,
    "genres": [
     "Comedy",
     "Crime",
     "Action"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/eBJEvKkhQ0tUt1dBAcTEYW6kCle.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/eBJEvKkhQ0tUt1dBAcTEYW6kCle.jpg",
    "backdrop_path": "/m8w5fJJxLL5r7gErfumhd2yZzD8.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/m8w5fJJxLL5r7gErfumhd2yZzD8.jpg",
    "logo_path": "/eQvRMPGpmxD75KoblGmDVFErh0q.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/eQvRMPGpmxD75KoblGmDVFErh0q.png",
    "trailer_youtube_id": "rD6MLFJQ85k",
-   "trailer_url": "https://www.youtube.com/watch?v=rD6MLFJQ85k",
    "trailer_embed_url": "https://www.youtube.com/embed/rD6MLFJQ85k",
-   "imdb_url": "https://www.imdb.com/title/tt0086960/",
    "categories": [
     "Crime"
    ]
@@ -51,28 +40,18 @@
    "year": 2015,
    "release_date": "2015-03-04",
    "runtime": 120,
-   "runtime_text": "2h 0m",
    "vote_average": 6.8,
-   "rating_percent": 68,
-   "vote_count": 8716,
-   "popularity": 17.4,
    "genres": [
     "Crime",
     "Action",
     "Science Fiction"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/uuDUpzlMFomdSfNWlpEPS9nVZWV.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/uuDUpzlMFomdSfNWlpEPS9nVZWV.jpg",
    "backdrop_path": "/7wbRUKJslQ7NpeqCAXBkXrRfn3Y.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/7wbRUKJslQ7NpeqCAXBkXrRfn3Y.jpg",
    "logo_path": "/f9jEQr6YSatPrULo6gBpXDiHKdJ.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/f9jEQr6YSatPrULo6gBpXDiHKdJ.png",
    "trailer_youtube_id": "O-JsCbOIgUg",
-   "trailer_url": "https://www.youtube.com/watch?v=O-JsCbOIgUg",
    "trailer_embed_url": "https://www.youtube.com/embed/O-JsCbOIgUg",
-   "imdb_url": "https://www.imdb.com/title/tt1823672/",
    "categories": [
     "Crime"
    ]
@@ -88,28 +67,18 @@
    "year": 2026,
    "release_date": "2026-06-19",
    "runtime": 89,
-   "runtime_text": "1h 29m",
    "vote_average": 6.5,
-   "rating_percent": 65,
-   "vote_count": 426,
-   "popularity": 25.4,
    "genres": [
     "Thriller",
     "Action",
     "Crime"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg",
    "backdrop_path": "/zUninC7dOHfzwcgCqQMLQjlMtiy.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/zUninC7dOHfzwcgCqQMLQjlMtiy.jpg",
    "logo_path": "/jEWQ4EuzT71bY87E1udTEydk312.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/jEWQ4EuzT71bY87E1udTEydk312.png",
    "trailer_youtube_id": "cKz2A-1qavo",
-   "trailer_url": "https://www.youtube.com/watch?v=cKz2A-1qavo",
    "trailer_embed_url": "https://www.youtube.com/embed/cKz2A-1qavo",
-   "imdb_url": "https://www.imdb.com/title/tt35309713/",
    "categories": [
     "Crime"
    ]
@@ -125,28 +94,18 @@
    "year": 2026,
    "release_date": "2026-08-21",
    "runtime": 91,
-   "runtime_text": "1h 31m",
    "vote_average": 8.8,
-   "rating_percent": 88,
-   "vote_count": 892,
-   "popularity": 46.2,
    "genres": [
     "Crime",
     "Action",
     "Thriller"
    ],
    "language": "Spanish",
-   "adult": false,
    "poster_path": "/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
    "backdrop_path": "/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
    "logo_path": "/1d22QQ6k9kAwI3ku4f8c3d3vUrM.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/1d22QQ6k9kAwI3ku4f8c3d3vUrM.png",
    "trailer_youtube_id": "Rk0efhpa-5Y",
-   "trailer_url": "https://www.youtube.com/watch?v=Rk0efhpa-5Y",
    "trailer_embed_url": "https://www.youtube.com/embed/Rk0efhpa-5Y",
-   "imdb_url": "https://www.imdb.com/title/tt39390497/",
    "categories": [
     "Crime"
    ]
@@ -162,28 +121,18 @@
    "year": 1995,
    "release_date": "1995-12-15",
    "runtime": 170,
-   "runtime_text": "2h 50m",
    "vote_average": 7.9,
-   "rating_percent": 79,
-   "vote_count": 8771,
-   "popularity": 22.4,
    "genres": [
     "Crime",
     "Drama",
     "Action"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/umSVjVdbVwtx5ryCA2QXL44Durm.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/umSVjVdbVwtx5ryCA2QXL44Durm.jpg",
    "backdrop_path": "/uI22JkEMediWyiRqhllNqeeGtW0.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/uI22JkEMediWyiRqhllNqeeGtW0.jpg",
    "logo_path": "/EVVVHh1xHxGQN5dNrMeBxAamRa.svg",
-   "logo_url": "https://image.tmdb.org/t/p/original/EVVVHh1xHxGQN5dNrMeBxAamRa.svg",
    "trailer_youtube_id": "YliNT1ArpIk",
-   "trailer_url": "https://www.youtube.com/watch?v=YliNT1ArpIk",
    "trailer_embed_url": "https://www.youtube.com/embed/YliNT1ArpIk",
-   "imdb_url": "https://www.imdb.com/title/tt0113277/",
    "categories": [
     "Crime"
    ]
@@ -199,28 +148,18 @@
    "year": 2007,
    "release_date": "2007-11-09",
    "runtime": 122,
-   "runtime_text": "2h 2m",
    "vote_average": 8.0,
-   "rating_percent": 80,
-   "vote_count": 13879,
-   "popularity": 30.7,
    "genres": [
     "Crime",
     "Thriller",
     "Western"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/6d5XOczc226jECq0LIX0siKtgHR.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/6d5XOczc226jECq0LIX0siKtgHR.jpg",
    "backdrop_path": "/gddUsvfyySrM5k8B8wwJy2VRlBx.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/gddUsvfyySrM5k8B8wwJy2VRlBx.jpg",
    "logo_path": "/6u3WGSBwqmsG3tooD2B5eMKkxKU.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/6u3WGSBwqmsG3tooD2B5eMKkxKU.png",
    "trailer_youtube_id": "hlivj9XYiIw",
-   "trailer_url": "https://www.youtube.com/watch?v=hlivj9XYiIw",
    "trailer_embed_url": "https://www.youtube.com/embed/hlivj9XYiIw",
-   "imdb_url": "https://www.imdb.com/title/tt0477348/",
    "categories": [
     "Crime"
    ]
@@ -236,27 +175,17 @@
    "year": 1984,
    "release_date": "1984-05-23",
    "runtime": 139,
-   "runtime_text": "2h 19m",
    "vote_average": 8.4,
-   "rating_percent": 84,
-   "vote_count": 6257,
-   "popularity": 25.4,
    "genres": [
     "Drama",
     "Crime"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/i0enkzsL5dPeneWnjl1fCWm6L7k.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/i0enkzsL5dPeneWnjl1fCWm6L7k.jpg",
    "backdrop_path": "/xlDUjb0Q5Dv6jPQRF5VE4IMjIy.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/xlDUjb0Q5Dv6jPQRF5VE4IMjIy.jpg",
    "logo_path": "/c76kuxURRnxS57zECKpzc9ByR5t.svg",
-   "logo_url": "https://image.tmdb.org/t/p/original/c76kuxURRnxS57zECKpzc9ByR5t.svg",
    "trailer_youtube_id": "lFw062jAYR0",
-   "trailer_url": "https://www.youtube.com/watch?v=lFw062jAYR0",
    "trailer_embed_url": "https://www.youtube.com/embed/lFw062jAYR0",
-   "imdb_url": "https://www.imdb.com/title/tt0087843/",
    "categories": [
     "Crime"
    ]
@@ -272,27 +201,17 @@
    "year": 2026,
    "release_date": "2026-03-05",
    "runtime": 112,
-   "runtime_text": "1h 52m",
    "vote_average": 7.2,
-   "rating_percent": 72,
-   "vote_count": 1261,
-   "popularity": 17.8,
    "genres": [
     "Crime",
     "Drama"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/gRMalasZEzsZi4w2VFuYusfSfqf.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/gRMalasZEzsZi4w2VFuYusfSfqf.jpg",
    "backdrop_path": "/1fkuBPid72KGS6WmtkEXMftZtkE.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/1fkuBPid72KGS6WmtkEXMftZtkE.jpg",
    "logo_path": "/9IpyBrvW5WqAUwiNIqFf7YbqLS4.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/9IpyBrvW5WqAUwiNIqFf7YbqLS4.png",
    "trailer_youtube_id": "YJUPGkC0hBs",
-   "trailer_url": "https://www.youtube.com/watch?v=YJUPGkC0hBs",
    "trailer_embed_url": "https://www.youtube.com/embed/YJUPGkC0hBs",
-   "imdb_url": "https://www.imdb.com/title/tt15574124/",
    "categories": [
     "Crime"
    ]
@@ -308,28 +227,18 @@
    "year": 1991,
    "release_date": "1991-07-12",
    "runtime": 122,
-   "runtime_text": "2h 2m",
    "vote_average": 7.2,
-   "rating_percent": 72,
-   "vote_count": 4171,
-   "popularity": 15.8,
    "genres": [
     "Action",
     "Thriller",
     "Crime"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/tlbERIghrQ4oofqlbF7H0K0EYnx.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/tlbERIghrQ4oofqlbF7H0K0EYnx.jpg",
    "backdrop_path": "/yGOHbICOQwlJ20UjK8F2ChGJjvl.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/yGOHbICOQwlJ20UjK8F2ChGJjvl.jpg",
    "logo_path": "/nyc1h75Y13XWbItiYDvaw7T39xC.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/nyc1h75Y13XWbItiYDvaw7T39xC.png",
    "trailer_youtube_id": "chuOpxbN3SM",
-   "trailer_url": "https://www.youtube.com/watch?v=chuOpxbN3SM",
    "trailer_embed_url": "https://www.youtube.com/embed/chuOpxbN3SM",
-   "imdb_url": "https://www.imdb.com/title/tt0102685/",
    "categories": [
     "Crime"
    ]
@@ -345,28 +254,18 @@
    "year": 2009,
    "release_date": "2009-07-01",
    "runtime": 140,
-   "runtime_text": "2h 20m",
    "vote_average": 6.7,
-   "rating_percent": 67,
-   "vote_count": 4994,
-   "popularity": 14.6,
    "genres": [
     "Crime",
     "History",
     "Drama"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/3KgtekisQBrHRsm2cD5UOB6Ce3k.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/3KgtekisQBrHRsm2cD5UOB6Ce3k.jpg",
    "backdrop_path": "/rlKB2moKVOPasy4Dr19QluzbJgA.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/rlKB2moKVOPasy4Dr19QluzbJgA.jpg",
    "logo_path": "/oj43wI0yVZJlSZz89pvMaDDIXDI.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/oj43wI0yVZJlSZz89pvMaDDIXDI.png",
    "trailer_youtube_id": "pv0DMzFwEW4",
-   "trailer_url": "https://www.youtube.com/watch?v=pv0DMzFwEW4",
    "trailer_embed_url": "https://www.youtube.com/embed/pv0DMzFwEW4",
-   "imdb_url": "https://www.imdb.com/title/tt1152836/",
    "categories": [
     "Crime"
    ]
@@ -382,28 +281,18 @@
    "year": 1995,
    "release_date": "1995-09-22",
    "runtime": 127,
-   "runtime_text": "2h 7m",
    "vote_average": 8.4,
-   "rating_percent": 84,
-   "vote_count": 23945,
-   "popularity": 36.2,
    "genres": [
     "Crime",
     "Mystery",
     "Thriller"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
    "backdrop_path": "/i5H7zusQGsysGQ8i6P361Vnr0n2.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/i5H7zusQGsysGQ8i6P361Vnr0n2.jpg",
    "logo_path": "/zVyZvT1zVO7GIk65RlcOx5KdAN.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/zVyZvT1zVO7GIk65RlcOx5KdAN.png",
    "trailer_youtube_id": "WIi1f5cUADQ",
-   "trailer_url": "https://www.youtube.com/watch?v=WIi1f5cUADQ",
    "trailer_embed_url": "https://www.youtube.com/embed/WIi1f5cUADQ",
-   "imdb_url": "https://www.imdb.com/title/tt0114369/",
    "categories": [
     "Crime"
    ]
@@ -419,28 +308,18 @@
    "year": 2022,
    "release_date": "2022-03-01",
    "runtime": 177,
-   "runtime_text": "2h 57m",
    "vote_average": 7.7,
-   "rating_percent": 77,
-   "vote_count": 12646,
-   "popularity": 47.8,
    "genres": [
     "Crime",
     "Mystery",
     "Thriller"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/seyWFgGInaLqW7nOZvu0ZC95rtx.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/seyWFgGInaLqW7nOZvu0ZC95rtx.jpg",
    "backdrop_path": "/rvtdN5XkWAfGX6xDuPL6yYS2seK.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/rvtdN5XkWAfGX6xDuPL6yYS2seK.jpg",
    "logo_path": "/haibnO2TycgulXD1Fj7b94L9m9E.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/haibnO2TycgulXD1Fj7b94L9m9E.png",
    "trailer_youtube_id": "YwjYVjtzFMw",
-   "trailer_url": "https://www.youtube.com/watch?v=YwjYVjtzFMw",
    "trailer_embed_url": "https://www.youtube.com/embed/YwjYVjtzFMw",
-   "imdb_url": "https://www.imdb.com/title/tt1877830/",
    "categories": [
     "Crime"
    ]
@@ -456,11 +335,7 @@
    "year": 2012,
    "release_date": "2012-07-17",
    "runtime": 165,
-   "runtime_text": "2h 45m",
    "vote_average": 7.8,
-   "rating_percent": 78,
-   "vote_count": 25093,
-   "popularity": 51.5,
    "genres": [
     "Action",
     "Crime",
@@ -468,17 +343,11 @@
     "Thriller"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
    "backdrop_path": "/c3OHQncTAnKFhdOTX7D3LTW6son.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/c3OHQncTAnKFhdOTX7D3LTW6son.jpg",
    "logo_path": "/A0QGz3heDFbLT3YCXa2jUKfWnbx.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/A0QGz3heDFbLT3YCXa2jUKfWnbx.png",
    "trailer_youtube_id": "RiC_UaUxXG4",
-   "trailer_url": "https://www.youtube.com/watch?v=RiC_UaUxXG4",
    "trailer_embed_url": "https://www.youtube.com/embed/RiC_UaUxXG4",
-   "imdb_url": "https://www.imdb.com/title/tt1345836/",
    "categories": [
     "Crime"
    ]
@@ -494,28 +363,18 @@
    "year": 2017,
    "release_date": "2017-09-28",
    "runtime": 114,
-   "runtime_text": "1h 54m",
    "vote_average": 7.0,
-   "rating_percent": 70,
-   "vote_count": 3058,
-   "popularity": 15.8,
    "genres": [
     "Action",
     "Thriller",
     "Crime"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/rwM4hzrmc5HiWfQD9ls9DL4QgGl.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/rwM4hzrmc5HiWfQD9ls9DL4QgGl.jpg",
    "backdrop_path": "/wzsqypqWaKoK4sTTz3RudYJNQtM.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/wzsqypqWaKoK4sTTz3RudYJNQtM.jpg",
    "logo_path": "/x15WMzAKmAAPuIuqWaT4EggKq53.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/x15WMzAKmAAPuIuqWaT4EggKq53.png",
    "trailer_youtube_id": "r_rSAbYyIq0",
-   "trailer_url": "https://www.youtube.com/watch?v=r_rSAbYyIq0",
    "trailer_embed_url": "https://www.youtube.com/embed/r_rSAbYyIq0",
-   "imdb_url": "https://www.imdb.com/title/tt1615160/",
    "categories": [
     "Crime"
    ]
@@ -531,28 +390,18 @@
    "year": 2026,
    "release_date": "2026-06-10",
    "runtime": 113,
-   "runtime_text": "1h 53m",
    "vote_average": 8.2,
-   "rating_percent": 82,
-   "vote_count": 820,
-   "popularity": 52.5,
    "genres": [
     "Action",
     "Crime",
     "Thriller"
    ],
    "language": "Chinese",
-   "adult": false,
    "poster_path": "/ivQ1Z3lI1xWvAeGDHBw3CCYZDGJ.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/ivQ1Z3lI1xWvAeGDHBw3CCYZDGJ.jpg",
    "backdrop_path": "/i0eR9O1FnCgBm1cH8WwqxGbAXMS.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/i0eR9O1FnCgBm1cH8WwqxGbAXMS.jpg",
    "logo_path": "/msFWTNrFwfjsHKnMxDUexR9uofh.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/msFWTNrFwfjsHKnMxDUexR9uofh.png",
    "trailer_youtube_id": "WoETv7xme0U",
-   "trailer_url": "https://www.youtube.com/watch?v=WoETv7xme0U",
    "trailer_embed_url": "https://www.youtube.com/embed/WoETv7xme0U",
-   "imdb_url": "https://www.imdb.com/title/tt33311069/",
    "categories": [
     "Crime"
    ]
@@ -568,11 +417,7 @@
    "year": 2022,
    "release_date": "2022-12-22",
    "runtime": 128,
-   "runtime_text": "2h 8m",
    "vote_average": 6.8,
-   "rating_percent": 68,
-   "vote_count": 2296,
-   "popularity": 13.2,
    "genres": [
     "Thriller",
     "Crime",
@@ -580,17 +425,11 @@
     "Mystery"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/9xkGlFRqrN8btTLU0KQvOfn2PHr.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/9xkGlFRqrN8btTLU0KQvOfn2PHr.jpg",
    "backdrop_path": "/b08BDQPq42AoLMfhi7DtTOoYqVu.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/b08BDQPq42AoLMfhi7DtTOoYqVu.jpg",
    "logo_path": "/2wDG7HbADocLQjPi9YUWnrGkio6.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/2wDG7HbADocLQjPi9YUWnrGkio6.png",
    "trailer_youtube_id": "J99jKu_Ov7g",
-   "trailer_url": "https://www.youtube.com/watch?v=J99jKu_Ov7g",
    "trailer_embed_url": "https://www.youtube.com/embed/J99jKu_Ov7g",
-   "imdb_url": "https://www.imdb.com/title/tt14138650/",
    "categories": [
     "Crime"
    ]
@@ -606,11 +445,7 @@
    "year": 2025,
    "release_date": "2025-08-16",
    "runtime": 142,
-   "runtime_text": "2h 22m",
    "vote_average": 8.3,
-   "rating_percent": 83,
-   "vote_count": 1513,
-   "popularity": 52.5,
    "genres": [
     "Action",
     "Crime",
@@ -618,17 +453,11 @@
     "Thriller"
    ],
    "language": "Chinese",
-   "adult": false,
    "poster_path": null,
-   "poster_url": null,
    "backdrop_path": "/zXINNssll2zsPGqd7F7Llrw7Uql.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/zXINNssll2zsPGqd7F7Llrw7Uql.jpg",
    "logo_path": "/wUWwOXuV4nsSqj3NP5NyV2YdXQw.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/wUWwOXuV4nsSqj3NP5NyV2YdXQw.png",
    "trailer_youtube_id": "bwEQ20rN42s",
-   "trailer_url": "https://www.youtube.com/watch?v=bwEQ20rN42s",
    "trailer_embed_url": "https://www.youtube.com/embed/bwEQ20rN42s",
-   "imdb_url": "https://www.imdb.com/title/tt34610311/",
    "categories": [
     "Crime"
    ]
@@ -644,28 +473,18 @@
    "year": 2026,
    "release_date": "2026-09-16",
    "runtime": 112,
-   "runtime_text": "1h 52m",
    "vote_average": 6.8,
-   "rating_percent": 68,
-   "vote_count": 39,
-   "popularity": 21.3,
    "genres": [
     "Drama",
     "Thriller",
     "Crime"
    ],
    "language": "Portuguese",
-   "adult": false,
    "poster_path": "/2fAU3Gx2cFoYFKAE5wtJFyXOFc4.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/2fAU3Gx2cFoYFKAE5wtJFyXOFc4.jpg",
    "backdrop_path": "/zKizFK3adjtpXut1dW6bRaxwhd.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/zKizFK3adjtpXut1dW6bRaxwhd.jpg",
    "logo_path": "/goGNzpf7rm2chxzcbLiLg5LDqmI.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/goGNzpf7rm2chxzcbLiLg5LDqmI.png",
    "trailer_youtube_id": "7YpuMymmiJ8",
-   "trailer_url": "https://www.youtube.com/watch?v=7YpuMymmiJ8",
    "trailer_embed_url": "https://www.youtube.com/embed/7YpuMymmiJ8",
-   "imdb_url": "https://www.imdb.com/title/tt10794054/",
    "categories": [
     "Crime",
     "Drama"
@@ -682,28 +501,18 @@
    "year": 2001,
    "release_date": "2001-10-05",
    "runtime": 122,
-   "runtime_text": "2h 2m",
    "vote_average": 7.5,
-   "rating_percent": 75,
-   "vote_count": 6898,
-   "popularity": 26.4,
    "genres": [
     "Action",
     "Crime",
     "Drama"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/bUeiwBQdupBLQthMCHKV7zv56uv.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/bUeiwBQdupBLQthMCHKV7zv56uv.jpg",
    "backdrop_path": "/nuO8o9ltxhI7AZQxePavEZ4TyHa.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/nuO8o9ltxhI7AZQxePavEZ4TyHa.jpg",
    "logo_path": "/ywKMaRxVAJmijMXF2ViyRsGYzfR.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/ywKMaRxVAJmijMXF2ViyRsGYzfR.png",
    "trailer_youtube_id": "p2Si8C9LAqk",
-   "trailer_url": "https://www.youtube.com/watch?v=p2Si8C9LAqk",
    "trailer_embed_url": "https://www.youtube.com/embed/p2Si8C9LAqk",
-   "imdb_url": "https://www.imdb.com/title/tt0139654/",
    "categories": [
     "Crime"
    ]

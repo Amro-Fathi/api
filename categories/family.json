@@ -1,7 +1,6 @@
 {
  "category": "Family",
  "slug": "family",
- "count": 10,
  "movies": [
   {
    "id": 8587,
@@ -14,28 +13,18 @@
    "year": 1994,
    "release_date": "1994-06-15",
    "runtime": 89,
-   "runtime_text": "1h 29m",
    "vote_average": 8.2,
-   "rating_percent": 82,
-   "vote_count": 20244,
-   "popularity": 41.8,
    "genres": [
     "Animation",
     "Family",
     "Drama"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
    "backdrop_path": "/q00H8EqULYSK74lgevMkhmGGLHn.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/q00H8EqULYSK74lgevMkhmGGLHn.jpg",
    "logo_path": "/4ldICpAouQAhuT4z3A6tXYMR4Kz.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/4ldICpAouQAhuT4z3A6tXYMR4Kz.png",
    "trailer_youtube_id": "ZqsJ2Hi-YJU",
-   "trailer_url": "https://www.youtube.com/watch?v=ZqsJ2Hi-YJU",
    "trailer_embed_url": "https://www.youtube.com/embed/ZqsJ2Hi-YJU",
-   "imdb_url": "https://www.imdb.com/title/tt0110357/",
    "categories": [
     "Top_Rated",
     "Family"
@@ -52,11 +41,7 @@
    "year": 2022,
    "release_date": "2022-01-31",
    "runtime": 92,
-   "runtime_text": "1h 32m",
    "vote_average": 7.0,
-   "rating_percent": 70,
-   "vote_count": 3115,
-   "popularity": 15.8,
    "genres": [
     "Animation",
     "Comedy",
@@ -65,17 +50,11 @@
     "Fantasy"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/teCy1egGQa0y8ULJvlrDHQKnxBL.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/teCy1egGQa0y8ULJvlrDHQKnxBL.jpg",
    "backdrop_path": "/7QabKu8tizoqy8qCZJXljdSpP4A.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/7QabKu8tizoqy8qCZJXljdSpP4A.jpg",
    "logo_path": "/pGyr7fPhTEXNC9XaDRMWlc9FL1h.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/pGyr7fPhTEXNC9XaDRMWlc9FL1h.png",
    "trailer_youtube_id": "InuP_HrHp5A",
-   "trailer_url": "https://www.youtube.com/watch?v=InuP_HrHp5A",
    "trailer_embed_url": "https://www.youtube.com/embed/InuP_HrHp5A",
-   "imdb_url": "https://www.imdb.com/title/tt9848626/",
    "categories": [
     "Family"
    ]
@@ -91,28 +70,18 @@
    "year": 2024,
    "release_date": "2024-11-08",
    "runtime": 106,
-   "runtime_text": "1h 46m",
    "vote_average": 6.8,
-   "rating_percent": 68,
-   "vote_count": 762,
-   "popularity": 13.9,
    "genres": [
     "Adventure",
     "Comedy",
     "Family"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/1ffZAucqfvQu36x1C49XfOdjuOG.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/1ffZAucqfvQu36x1C49XfOdjuOG.jpg",
    "backdrop_path": "/7N7CtZftqEvgojR3QloukU0oWPg.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/7N7CtZftqEvgojR3QloukU0oWPg.jpg",
    "logo_path": "/hBKXDeWSznMFQCSjXmr8ah0URkL.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/hBKXDeWSznMFQCSjXmr8ah0URkL.png",
    "trailer_youtube_id": "yurPkP_Zw0w",
-   "trailer_url": "https://www.youtube.com/watch?v=yurPkP_Zw0w",
    "trailer_embed_url": "https://www.youtube.com/embed/yurPkP_Zw0w",
-   "imdb_url": "https://www.imdb.com/title/tt5822536/",
    "categories": [
     "Family"
    ]
@@ -128,11 +97,7 @@
    "year": 2021,
    "release_date": "2021-07-01",
    "runtime": 107,
-   "runtime_text": "1h 47m",
    "vote_average": 7.3,
-   "rating_percent": 73,
-   "vote_count": 2729,
-   "popularity": 16.2,
    "genres": [
     "Animation",
     "Comedy",
@@ -140,17 +105,11 @@
     "Family"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/aQ7huOn3F0iJCJrFezS8p9WEsri.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/aQ7huOn3F0iJCJrFezS8p9WEsri.jpg",
    "backdrop_path": "/yBov7O4eXDcBLDpZrOHZzFr8rIl.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/yBov7O4eXDcBLDpZrOHZzFr8rIl.jpg",
    "logo_path": "/b10XNIgbk6l32BlIMvR9XsyUoj9.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/b10XNIgbk6l32BlIMvR9XsyUoj9.png",
    "trailer_youtube_id": "PCxDdh4Ohfk",
-   "trailer_url": "https://www.youtube.com/watch?v=PCxDdh4Ohfk",
    "trailer_embed_url": "https://www.youtube.com/embed/PCxDdh4Ohfk",
-   "imdb_url": "https://www.imdb.com/title/tt6932874/",
    "categories": [
     "Family"
    ]
@@ -166,11 +125,7 @@
    "year": 2020,
    "release_date": "2020-11-25",
    "runtime": 95,
-   "runtime_text": "1h 35m",
    "vote_average": 7.4,
-   "rating_percent": 74,
-   "vote_count": 4253,
-   "popularity": 19.7,
    "genres": [
     "Animation",
     "Family",
@@ -179,17 +134,11 @@
     "Comedy"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/tbVZ3Sq88dZaCANlUcewQuHQOaE.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/tbVZ3Sq88dZaCANlUcewQuHQOaE.jpg",
    "backdrop_path": "/ytTQoYkdpsgtfDWrNFCei8Mfbxu.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/ytTQoYkdpsgtfDWrNFCei8Mfbxu.jpg",
    "logo_path": "/qRm9iVYcj3SaFJhmb7u5BbWhiDF.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/qRm9iVYcj3SaFJhmb7u5BbWhiDF.png",
    "trailer_youtube_id": "_BJ7A7WYDBo",
-   "trailer_url": "https://www.youtube.com/watch?v=_BJ7A7WYDBo",
    "trailer_embed_url": "https://www.youtube.com/embed/_BJ7A7WYDBo",
-   "imdb_url": "https://www.imdb.com/title/tt2850386/",
    "categories": [
     "Family"
    ]
@@ -205,11 +154,7 @@
    "year": 2014,
    "release_date": "2014-02-06",
    "runtime": 100,
-   "runtime_text": "1h 40m",
    "vote_average": 7.4,
-   "rating_percent": 74,
-   "vote_count": 8771,
-   "popularity": 22.3,
    "genres": [
     "Animation",
     "Family",
@@ -218,17 +163,11 @@
     "Fantasy"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/lbctonEnewCYZ4FYoTZhs8cidAl.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/lbctonEnewCYZ4FYoTZhs8cidAl.jpg",
    "backdrop_path": "/6gI1dAkOaUQ6659OdRPsTLlsem5.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/6gI1dAkOaUQ6659OdRPsTLlsem5.jpg",
    "logo_path": "/2kTDt0uOb4xQzvw1h8ZRufoXNCX.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/2kTDt0uOb4xQzvw1h8ZRufoXNCX.png",
    "trailer_youtube_id": "po0dmHhgsxU",
-   "trailer_url": "https://www.youtube.com/watch?v=po0dmHhgsxU",
    "trailer_embed_url": "https://www.youtube.com/embed/po0dmHhgsxU",
-   "imdb_url": "https://www.imdb.com/title/tt1490017/",
    "categories": [
     "Family"
    ]
@@ -244,11 +183,7 @@
    "year": 2019,
    "release_date": "2019-05-24",
    "runtime": 86,
-   "runtime_text": "1h 26m",
    "vote_average": 7.0,
-   "rating_percent": 70,
-   "vote_count": 3433,
-   "popularity": 26.0,
    "genres": [
     "Animation",
     "Comedy",
@@ -256,17 +191,11 @@
     "Adventure"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/s9xg4V5EDKiphgIksVJ9gewBM11.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/s9xg4V5EDKiphgIksVJ9gewBM11.jpg",
    "backdrop_path": "/zDIievPXqjfjLogXFqnnopU0OkK.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/zDIievPXqjfjLogXFqnnopU0OkK.jpg",
    "logo_path": "/7qawdn9OwkOO6yg2lAUZYeaqyJW.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/7qawdn9OwkOO6yg2lAUZYeaqyJW.png",
    "trailer_youtube_id": "RmfeU--vNa4",
-   "trailer_url": "https://www.youtube.com/watch?v=RmfeU--vNa4",
    "trailer_embed_url": "https://www.youtube.com/embed/RmfeU--vNa4",
-   "imdb_url": "https://www.imdb.com/title/tt5113040/",
    "categories": [
     "Family"
    ]
@@ -282,11 +211,7 @@
    "year": 2022,
    "release_date": "2022-01-16",
    "runtime": 92,
-   "runtime_text": "1h 32m",
    "vote_average": 7.2,
-   "rating_percent": 72,
-   "vote_count": 296,
-   "popularity": 5.5,
    "genres": [
     "Animation",
     "Adventure",
@@ -294,17 +219,11 @@
     "Comedy"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/vYAUgsoel6slydF6y4NCPLW96ah.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/vYAUgsoel6slydF6y4NCPLW96ah.jpg",
    "backdrop_path": "/rEX8tOPvdgWqURQWx6oEzQqSWsM.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/rEX8tOPvdgWqURQWx6oEzQqSWsM.jpg",
    "logo_path": "/4v69cnMudwMV5yv9VSp7o25eR5C.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/4v69cnMudwMV5yv9VSp7o25eR5C.png",
    "trailer_youtube_id": "ZhwZR2nxwRY",
-   "trailer_url": "https://www.youtube.com/watch?v=ZhwZR2nxwRY",
    "trailer_embed_url": "https://www.youtube.com/embed/ZhwZR2nxwRY",
-   "imdb_url": "https://www.imdb.com/title/tt8354218/",
    "categories": [
     "Family"
    ]
@@ -320,11 +239,7 @@
    "year": 2026,
    "release_date": "2026-07-23",
    "runtime": 88,
-   "runtime_text": "1h 28m",
    "vote_average": 8.2,
-   "rating_percent": 82,
-   "vote_count": 175,
-   "popularity": 56.7,
    "genres": [
     "Animation",
     "Adventure",
@@ -333,17 +248,11 @@
     "Comedy"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg",
    "backdrop_path": "/qFNoS2RJRFVOpwSx7YuCGTX1gqo.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/qFNoS2RJRFVOpwSx7YuCGTX1gqo.jpg",
    "logo_path": "/Bw024JsfPIsxp26W4tZlUtAtU.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/Bw024JsfPIsxp26W4tZlUtAtU.png",
    "trailer_youtube_id": "MF-oZYGW70Q",
-   "trailer_url": "https://www.youtube.com/watch?v=MF-oZYGW70Q",
    "trailer_embed_url": "https://www.youtube.com/embed/MF-oZYGW70Q",
-   "imdb_url": "https://www.imdb.com/title/tt29356163/",
    "categories": [
     "Family"
    ]
@@ -359,11 +268,7 @@
    "year": 2020,
    "release_date": "2020-08-14",
    "runtime": 95,
-   "runtime_text": "1h 35m",
    "vote_average": 7.4,
-   "rating_percent": 74,
-   "vote_count": 3038,
-   "popularity": 18.2,
    "genres": [
     "Adventure",
     "Animation",
@@ -372,17 +277,11 @@
     "Fantasy"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/jlJ8nDhMhCYJuzOw3f52CP1W8MW.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/jlJ8nDhMhCYJuzOw3f52CP1W8MW.jpg",
    "backdrop_path": "/wu1uilmhM4TdluKi2ytfz8gidHf.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/wu1uilmhM4TdluKi2ytfz8gidHf.jpg",
    "logo_path": "/wz7CUy0zuG8ORwv3hYXLMKz2agS.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/wz7CUy0zuG8ORwv3hYXLMKz2agS.png",
    "trailer_youtube_id": "QZpe0vyvBwY",
-   "trailer_url": "https://www.youtube.com/watch?v=QZpe0vyvBwY",
    "trailer_embed_url": "https://www.youtube.com/embed/QZpe0vyvBwY",
-   "imdb_url": "https://www.imdb.com/title/tt4823776/",
    "categories": [
     "Family"
    ]

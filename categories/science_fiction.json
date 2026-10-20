@@ -1,7 +1,6 @@
 {
  "category": "Science Fiction",
  "slug": "science_fiction",
- "count": 18,
  "movies": [
   {
    "id": 1327819,
@@ -14,11 +13,7 @@
    "year": 2026,
    "release_date": "2026-03-04",
    "runtime": 104,
-   "runtime_text": "1h 44m",
    "vote_average": 8.1,
-   "rating_percent": 81,
-   "vote_count": 2414,
-   "popularity": 42.9,
    "genres": [
     "Adventure",
     "Animation",
@@ -27,17 +22,11 @@
     "Science Fiction"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
    "backdrop_path": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
    "logo_path": "/fl1x8jxKs38eFQyQndApSPX6Fux.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/fl1x8jxKs38eFQyQndApSPX6Fux.png",
    "trailer_youtube_id": "TUktxA2BFNk",
-   "trailer_url": "https://www.youtube.com/watch?v=TUktxA2BFNk",
    "trailer_embed_url": "https://www.youtube.com/embed/TUktxA2BFNk",
-   "imdb_url": "https://www.imdb.com/title/tt26443616/",
    "categories": [
     "Top_Rated",
     "Science Fiction"
@@ -54,11 +43,7 @@
    "year": 2002,
    "release_date": "2002-03-14",
    "runtime": 81,
-   "runtime_text": "1h 21m",
    "vote_average": 7.4,
-   "rating_percent": 74,
-   "vote_count": 14694,
-   "popularity": 31.2,
    "genres": [
     "Animation",
     "Comedy",
@@ -66,17 +51,11 @@
     "Adventure"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/gLhHHZUzeseRXShoDyC4VqLgsNv.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/gLhHHZUzeseRXShoDyC4VqLgsNv.jpg",
    "backdrop_path": "/8pwIhymsxfAVjrAE7syDjQULn37.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/8pwIhymsxfAVjrAE7syDjQULn37.jpg",
    "logo_path": "/o2dJGLPODV3jz9rWsX1hERFAh7X.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/o2dJGLPODV3jz9rWsX1hERFAh7X.png",
    "trailer_youtube_id": "FpFUufgXdpc",
-   "trailer_url": "https://www.youtube.com/watch?v=FpFUufgXdpc",
    "trailer_embed_url": "https://www.youtube.com/embed/FpFUufgXdpc",
-   "imdb_url": "https://www.imdb.com/title/tt0268380/",
    "categories": [
     "Top_Rated",
     "Science Fiction"
@@ -93,28 +72,18 @@
    "year": 2008,
    "release_date": "2008-06-26",
    "runtime": 98,
-   "runtime_text": "1h 38m",
    "vote_average": 8.1,
-   "rating_percent": 81,
-   "vote_count": 20989,
-   "popularity": 32.1,
    "genres": [
     "Animation",
     "Family",
     "Science Fiction"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
    "backdrop_path": "/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg",
    "logo_path": "/rgD6xUFYfQqfI28ZbqtvDPRwzck.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/rgD6xUFYfQqfI28ZbqtvDPRwzck.png",
    "trailer_youtube_id": "L3wi0o7HMC4",
-   "trailer_url": "https://www.youtube.com/watch?v=L3wi0o7HMC4",
    "trailer_embed_url": "https://www.youtube.com/embed/L3wi0o7HMC4",
-   "imdb_url": "https://www.imdb.com/title/tt0910970/",
    "categories": [
     "Top_Rated",
     "Science Fiction"
@@ -131,11 +100,7 @@
    "year": 2022,
    "release_date": "2022-06-15",
    "runtime": 105,
-   "runtime_text": "1h 45m",
    "vote_average": 6.9,
-   "rating_percent": 69,
-   "vote_count": 3974,
-   "popularity": 11.5,
    "genres": [
     "Animation",
     "Science Fiction",
@@ -143,17 +108,11 @@
     "Adventure"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/ox4goZd956BxqJH6iLwhWPL9ct4.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/ox4goZd956BxqJH6iLwhWPL9ct4.jpg",
    "backdrop_path": "/hwUxHPkuUleJeoick4uZsrKDXxF.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/hwUxHPkuUleJeoick4uZsrKDXxF.jpg",
    "logo_path": "/lPhvZ2sZBSZaqEhyzuz0DNHKFt6.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/lPhvZ2sZBSZaqEhyzuz0DNHKFt6.png",
    "trailer_youtube_id": "rdzVZORdHsI",
-   "trailer_url": "https://www.youtube.com/watch?v=rdzVZORdHsI",
    "trailer_embed_url": "https://www.youtube.com/embed/rdzVZORdHsI",
-   "imdb_url": "https://www.imdb.com/title/tt10298810/",
    "categories": [
     "Science Fiction"
    ]
@@ -169,11 +128,7 @@
    "year": 2021,
    "release_date": "2021-10-14",
    "runtime": 107,
-   "runtime_text": "1h 47m",
    "vote_average": 7.8,
-   "rating_percent": 78,
-   "vote_count": 2090,
-   "popularity": 14.2,
    "genres": [
     "Animation",
     "Science Fiction",
@@ -181,17 +136,11 @@
     "Comedy"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/plzgQAXIEHm4Y92ktxU6fedUc0x.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/plzgQAXIEHm4Y92ktxU6fedUc0x.jpg",
    "backdrop_path": "/sdL37sfUBth7mdkAolI83bXAl7L.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/sdL37sfUBth7mdkAolI83bXAl7L.jpg",
    "logo_path": "/wVbSA1H71oB9dVdcgmt02p7SGsS.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/wVbSA1H71oB9dVdcgmt02p7SGsS.png",
    "trailer_youtube_id": "8LaXBvqFJVo",
-   "trailer_url": "https://www.youtube.com/watch?v=8LaXBvqFJVo",
    "trailer_embed_url": "https://www.youtube.com/embed/8LaXBvqFJVo",
-   "imdb_url": "https://www.imdb.com/title/tt7504818/",
    "categories": [
     "Science Fiction"
    ]
@@ -207,11 +156,7 @@
    "year": 2019,
    "release_date": "2019-02-06",
    "runtime": 107,
-   "runtime_text": "1h 47m",
    "vote_average": 6.6,
-   "rating_percent": 66,
-   "vote_count": 2531,
-   "popularity": 20.2,
    "genres": [
     "Action",
     "Adventure",
@@ -220,17 +165,11 @@
     "Family"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/QTESAsBVZwjtGJNDP7utiGV37z.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/QTESAsBVZwjtGJNDP7utiGV37z.jpg",
    "backdrop_path": "/2U2h8PpsaWn90jdtyG0tu9ZxttZ.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/2U2h8PpsaWn90jdtyG0tu9ZxttZ.jpg",
    "logo_path": "/oVtzvWiS4DHaQuMeeXpXQDLaK6r.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/oVtzvWiS4DHaQuMeeXpXQDLaK6r.png",
    "trailer_youtube_id": "vqmBCOpubeM",
-   "trailer_url": "https://www.youtube.com/watch?v=vqmBCOpubeM",
    "trailer_embed_url": "https://www.youtube.com/embed/vqmBCOpubeM",
-   "imdb_url": "https://www.imdb.com/title/tt3513498/",
    "categories": [
     "Science Fiction"
    ]
@@ -246,11 +185,7 @@
    "year": 2024,
    "release_date": "2024-09-11",
    "runtime": 104,
-   "runtime_text": "1h 44m",
    "vote_average": 8.0,
-   "rating_percent": 80,
-   "vote_count": 1804,
-   "popularity": 24.3,
    "genres": [
     "Animation",
     "Science Fiction",
@@ -258,17 +193,11 @@
     "Family"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/ank3DlMecSoqFpCujhHXWRo7wCm.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/ank3DlMecSoqFpCujhHXWRo7wCm.jpg",
    "backdrop_path": "/cMfokHWle5lfCreoV08cbmkKv6G.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/cMfokHWle5lfCreoV08cbmkKv6G.jpg",
    "logo_path": "/jgrw66styiJa3YfPpXQVYmi0EdW.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/jgrw66styiJa3YfPpXQVYmi0EdW.png",
    "trailer_youtube_id": "W5AreAmzSmw",
-   "trailer_url": "https://www.youtube.com/watch?v=W5AreAmzSmw",
    "trailer_embed_url": "https://www.youtube.com/embed/W5AreAmzSmw",
-   "imdb_url": "https://www.imdb.com/title/tt8864596/",
    "categories": [
     "Science Fiction"
    ]
@@ -284,28 +213,18 @@
    "year": 1985,
    "release_date": "1985-07-03",
    "runtime": 116,
-   "runtime_text": "1h 56m",
    "vote_average": 8.3,
-   "rating_percent": 83,
-   "vote_count": 22535,
-   "popularity": 39.6,
    "genres": [
     "Adventure",
     "Comedy",
     "Science Fiction"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
    "backdrop_path": "/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg",
    "logo_path": "/7hXsyx9em5FhNdeEf0tehFmG06r.svg",
-   "logo_url": "https://image.tmdb.org/t/p/original/7hXsyx9em5FhNdeEf0tehFmG06r.svg",
    "trailer_youtube_id": "sKyS8A5BZ6U",
-   "trailer_url": "https://www.youtube.com/watch?v=sKyS8A5BZ6U",
    "trailer_embed_url": "https://www.youtube.com/embed/sKyS8A5BZ6U",
-   "imdb_url": "https://www.imdb.com/title/tt0088763/",
    "categories": [
     "Science Fiction"
    ]
@@ -321,27 +240,17 @@
    "year": 1998,
    "release_date": "1998-02-27",
    "runtime": 101,
-   "runtime_text": "1h 41m",
    "vote_average": 7.3,
-   "rating_percent": 73,
-   "vote_count": 3382,
-   "popularity": 12.5,
    "genres": [
     "Mystery",
     "Science Fiction"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/tNPEGju4DpTdbhBphNmZoEi9Bd3.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/tNPEGju4DpTdbhBphNmZoEi9Bd3.jpg",
    "backdrop_path": "/wIq1SuC8mZWzvKePoNqUfk2xtAF.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/wIq1SuC8mZWzvKePoNqUfk2xtAF.jpg",
    "logo_path": "/eoDFJMMuxjb05juLnZnH74Jegbi.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/eoDFJMMuxjb05juLnZnH74Jegbi.png",
    "trailer_youtube_id": "DAHR_aWNb2Y",
-   "trailer_url": "https://www.youtube.com/watch?v=DAHR_aWNb2Y",
    "trailer_embed_url": "https://www.youtube.com/embed/DAHR_aWNb2Y",
-   "imdb_url": "https://www.imdb.com/title/tt0118929/",
    "categories": [
     "Science Fiction"
    ]
@@ -357,28 +266,18 @@
    "year": 2010,
    "release_date": "2010-07-15",
    "runtime": 148,
-   "runtime_text": "2h 28m",
    "vote_average": 8.4,
-   "rating_percent": 84,
-   "vote_count": 40388,
-   "popularity": 51.4,
    "genres": [
     "Action",
     "Science Fiction",
     "Adventure"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/ljsZTbVsrQSqZgWeep2B1QiDKuh.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/ljsZTbVsrQSqZgWeep2B1QiDKuh.jpg",
    "backdrop_path": "/8ZTVqvKDQ8emSGUEMjsS4yHAwrp.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/8ZTVqvKDQ8emSGUEMjsS4yHAwrp.jpg",
    "logo_path": "/eS5TjZsO30LTfZISyBbPiXshAKd.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/eS5TjZsO30LTfZISyBbPiXshAKd.png",
    "trailer_youtube_id": "mpj9dL7swwk",
-   "trailer_url": "https://www.youtube.com/watch?v=mpj9dL7swwk",
    "trailer_embed_url": "https://www.youtube.com/embed/mpj9dL7swwk",
-   "imdb_url": "https://www.imdb.com/title/tt1375666/",
    "categories": [
     "Science Fiction"
    ]
@@ -394,28 +293,18 @@
    "year": 2014,
    "release_date": "2014-11-04",
    "runtime": 169,
-   "runtime_text": "2h 49m",
    "vote_average": 8.5,
-   "rating_percent": 85,
-   "vote_count": 41431,
-   "popularity": 64.9,
    "genres": [
     "Adventure",
     "Drama",
     "Science Fiction"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
    "backdrop_path": "/8sNiAPPYU14PUepFNeSNGUTiHW.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/8sNiAPPYU14PUepFNeSNGUTiHW.jpg",
    "logo_path": "/4Hu4w5p0mwL2Wvyk3gqu2JRDGHl.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/4Hu4w5p0mwL2Wvyk3gqu2JRDGHl.png",
    "trailer_youtube_id": "0srwuYOgXsk",
-   "trailer_url": "https://www.youtube.com/watch?v=0srwuYOgXsk",
    "trailer_embed_url": "https://www.youtube.com/embed/0srwuYOgXsk",
-   "imdb_url": "https://www.imdb.com/title/tt0816692/",
    "categories": [
     "Top_Rated",
     "Science Fiction"
@@ -432,27 +321,17 @@
    "year": 1993,
    "release_date": "1993-06-11",
    "runtime": 127,
-   "runtime_text": "2h 7m",
    "vote_average": 8.0,
-   "rating_percent": 80,
-   "vote_count": 18444,
-   "popularity": 17.3,
    "genres": [
     "Adventure",
     "Science Fiction"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/d9mtMGQDLANKieb9PbD3yK7xxzo.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/d9mtMGQDLANKieb9PbD3yK7xxzo.jpg",
    "backdrop_path": "/mlolzwV6VrKOZJ1SfYbPHXXDD4p.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/mlolzwV6VrKOZJ1SfYbPHXXDD4p.jpg",
    "logo_path": "/djIhZiHr974aA5Cyprgal4YAJDl.svg",
-   "logo_url": "https://image.tmdb.org/t/p/original/djIhZiHr974aA5Cyprgal4YAJDl.svg",
    "trailer_youtube_id": "Snk8rf0MIzw",
-   "trailer_url": "https://www.youtube.com/watch?v=Snk8rf0MIzw",
    "trailer_embed_url": "https://www.youtube.com/embed/Snk8rf0MIzw",
-   "imdb_url": "https://www.imdb.com/title/tt0107290/",
    "categories": [
     "Science Fiction"
    ]
@@ -468,28 +347,18 @@
    "year": 2011,
    "release_date": "2011-03-17",
    "runtime": 106,
-   "runtime_text": "1h 46m",
    "vote_average": 7.2,
-   "rating_percent": 72,
-   "vote_count": 11811,
-   "popularity": 14.0,
    "genres": [
     "Thriller",
     "Mystery",
     "Science Fiction"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/r8anWUCVK7MZEolcfPrM9eFkRO4.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/r8anWUCVK7MZEolcfPrM9eFkRO4.jpg",
    "backdrop_path": "/9V6Yq2ZVUmyAPcPyDcCBPnkluKF.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/9V6Yq2ZVUmyAPcPyDcCBPnkluKF.jpg",
    "logo_path": "/xlEzOV9MaAzOrKT4ESjxqe7f39s.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/xlEzOV9MaAzOrKT4ESjxqe7f39s.png",
    "trailer_youtube_id": "4TLppsfzQH8",
-   "trailer_url": "https://www.youtube.com/watch?v=4TLppsfzQH8",
    "trailer_embed_url": "https://www.youtube.com/embed/4TLppsfzQH8",
-   "imdb_url": "https://www.imdb.com/title/tt1219289/",
    "categories": [
     "Science Fiction"
    ]
@@ -505,28 +374,18 @@
    "year": 2002,
    "release_date": "2002-06-20",
    "runtime": 145,
-   "runtime_text": "2h 25m",
    "vote_average": 7.4,
-   "rating_percent": 74,
-   "vote_count": 10000,
-   "popularity": 22.1,
    "genres": [
     "Science Fiction",
     "Action",
     "Thriller"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/qtgFcnwh9dAFLocsDk2ySDVS8UF.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/qtgFcnwh9dAFLocsDk2ySDVS8UF.jpg",
    "backdrop_path": "/PrMb3oeEluauy0q9ZO5xL33A6C.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/PrMb3oeEluauy0q9ZO5xL33A6C.jpg",
    "logo_path": "/3bmbZtQJ50fLLF9dsrLPgGNXyfJ.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/3bmbZtQJ50fLLF9dsrLPgGNXyfJ.png",
    "trailer_youtube_id": "3JNsNp2DVSE",
-   "trailer_url": "https://www.youtube.com/watch?v=3JNsNp2DVSE",
    "trailer_embed_url": "https://www.youtube.com/embed/3JNsNp2DVSE",
-   "imdb_url": "https://www.imdb.com/title/tt0181689/",
    "categories": [
     "Science Fiction"
    ]
@@ -542,27 +401,17 @@
    "year": 2026,
    "release_date": "2026-03-15",
    "runtime": 157,
-   "runtime_text": "2h 37m",
    "vote_average": 8.6,
-   "rating_percent": 86,
-   "vote_count": 8219,
-   "popularity": 93.0,
    "genres": [
     "Science Fiction",
     "Adventure"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/iOb2fjXLbpJgyQXe46n1WtGCnaa.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/iOb2fjXLbpJgyQXe46n1WtGCnaa.jpg",
    "backdrop_path": "/wLWvHcQz7N13DvSOTV7bHgwGXpT.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/wLWvHcQz7N13DvSOTV7bHgwGXpT.jpg",
    "logo_path": "/jvqIELbZctv3Jqtcc7Ic5of8vY7.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/jvqIELbZctv3Jqtcc7Ic5of8vY7.png",
    "trailer_youtube_id": "ayJPcBkR2is",
-   "trailer_url": "https://www.youtube.com/watch?v=ayJPcBkR2is",
    "trailer_embed_url": "https://www.youtube.com/embed/ayJPcBkR2is",
-   "imdb_url": "https://www.imdb.com/title/tt12042730/",
    "categories": [
     "Top_Rated",
     "Science Fiction"
@@ -579,28 +428,18 @@
    "year": 2020,
    "release_date": "2020-08-22",
    "runtime": 150,
-   "runtime_text": "2h 30m",
    "vote_average": 7.2,
-   "rating_percent": 72,
-   "vote_count": 11614,
-   "popularity": 22.0,
    "genres": [
     "Action",
     "Thriller",
     "Science Fiction"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/rrKH3VhHssGTCfPuaEQkxvEoElv.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/rrKH3VhHssGTCfPuaEQkxvEoElv.jpg",
    "backdrop_path": "/gPucRIw0n3MPv7r1FEdMpngNXr7.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/gPucRIw0n3MPv7r1FEdMpngNXr7.jpg",
    "logo_path": "/kzG6oo1JhVapC8kMQHdNVGI9ROp.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/kzG6oo1JhVapC8kMQHdNVGI9ROp.png",
    "trailer_youtube_id": "LcgvY1DFYY4",
-   "trailer_url": "https://www.youtube.com/watch?v=LcgvY1DFYY4",
    "trailer_embed_url": "https://www.youtube.com/embed/LcgvY1DFYY4",
-   "imdb_url": "https://www.imdb.com/title/tt6723592/",
    "categories": [
     "Science Fiction"
    ]
@@ -616,28 +455,18 @@
    "year": 1989,
    "release_date": "1989-08-09",
    "runtime": 140,
-   "runtime_text": "2h 20m",
    "vote_average": 7.4,
-   "rating_percent": 74,
-   "vote_count": 3626,
-   "popularity": 14.7,
    "genres": [
     "Adventure",
     "Thriller",
     "Science Fiction"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/2dCit3XAtv9KWCJvRKdPkJ0FAkH.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/2dCit3XAtv9KWCJvRKdPkJ0FAkH.jpg",
    "backdrop_path": "/mW6XzxelLY8T2oW2NjciG9LpZT5.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/mW6XzxelLY8T2oW2NjciG9LpZT5.jpg",
    "logo_path": "/1vyNTKrptFXzcIomt6PvKMMrhWZ.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/1vyNTKrptFXzcIomt6PvKMMrhWZ.png",
    "trailer_youtube_id": "a4BBh3n7QZE",
-   "trailer_url": "https://www.youtube.com/watch?v=a4BBh3n7QZE",
    "trailer_embed_url": "https://www.youtube.com/embed/a4BBh3n7QZE",
-   "imdb_url": "https://www.imdb.com/title/tt0096754/",
    "categories": [
     "Science Fiction"
    ]
@@ -653,28 +482,18 @@
    "year": 2004,
    "release_date": "2004-05-26",
    "runtime": 124,
-   "runtime_text": "2h 4m",
    "vote_average": 6.6,
-   "rating_percent": 66,
-   "vote_count": 9180,
-   "popularity": 17.4,
    "genres": [
     "Science Fiction",
     "Thriller",
     "Adventure"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/Wr4HeYQRvwVCxzOV5TmGE7UkXq.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/Wr4HeYQRvwVCxzOV5TmGE7UkXq.jpg",
    "backdrop_path": "/smqQ71MIn1DSdSiQzCzCOV6rgRq.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/smqQ71MIn1DSdSiQzCzCOV6rgRq.jpg",
    "logo_path": "/jDyak6s6v0EpjttgW55eQvPXeSO.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/jDyak6s6v0EpjttgW55eQvPXeSO.png",
    "trailer_youtube_id": "Gjq9k2XoLv8",
-   "trailer_url": "https://www.youtube.com/watch?v=Gjq9k2XoLv8",
    "trailer_embed_url": "https://www.youtube.com/embed/Gjq9k2XoLv8",
-   "imdb_url": "https://www.imdb.com/title/tt0319262/",
    "categories": [
     "Science Fiction"
    ]

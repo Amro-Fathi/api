@@ -1,7 +1,6 @@
 {
  "category": "Documentary",
  "slug": "documentary",
- "count": 12,
  "movies": [
   {
    "id": 365997,
@@ -14,26 +13,16 @@
    "year": 2016,
    "release_date": "2016-04-16",
    "runtime": 45,
-   "runtime_text": "45m",
    "vote_average": 7.1,
-   "rating_percent": 71,
-   "vote_count": 84,
-   "popularity": 4.1,
    "genres": [
     "Documentary"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/9naxphfpDgtArLPKnf0dJgGo7bS.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/9naxphfpDgtArLPKnf0dJgGo7bS.jpg",
    "backdrop_path": "/2rIsWqpyyFIS6zJgUGoh1fTQ7Rx.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/2rIsWqpyyFIS6zJgUGoh1fTQ7Rx.jpg",
    "logo_path": "/7ELVjT4WDG8zYHTkgAJjRkiShjT.svg",
-   "logo_url": "https://image.tmdb.org/t/p/original/7ELVjT4WDG8zYHTkgAJjRkiShjT.svg",
    "trailer_youtube_id": "Bq8V8aUSlQQ",
-   "trailer_url": "https://www.youtube.com/watch?v=Bq8V8aUSlQQ",
    "trailer_embed_url": "https://www.youtube.com/embed/Bq8V8aUSlQQ",
-   "imdb_url": "https://www.imdb.com/title/tt2800050/",
    "categories": [
     "Documentary"
    ]
@@ -49,26 +38,16 @@
    "year": 2003,
    "release_date": "2003-05-18",
    "runtime": 83,
-   "runtime_text": "1h 23m",
    "vote_average": 6.9,
-   "rating_percent": 69,
-   "vote_count": 91,
-   "popularity": 4.8,
    "genres": [
     "Documentary"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/lzKirFeKspU0PktaX5BfdhSofcT.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/lzKirFeKspU0PktaX5BfdhSofcT.jpg",
    "backdrop_path": "/rtdGOcCW1vJYxk6uxk2VUV4Z0Q3.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/rtdGOcCW1vJYxk6uxk2VUV4Z0Q3.jpg",
    "logo_path": "/zu1m8msCjNDRkqpID7kBFFPMK4O.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/zu1m8msCjNDRkqpID7kBFFPMK4O.png",
    "trailer_youtube_id": null,
-   "trailer_url": null,
    "trailer_embed_url": null,
-   "imdb_url": "https://www.imdb.com/title/tt0365109/",
    "categories": [
     "Documentary"
    ]
@@ -84,26 +63,16 @@
    "year": 2026,
    "release_date": "2026-02-27",
    "runtime": 99,
-   "runtime_text": "1h 39m",
    "vote_average": 7.6,
-   "rating_percent": 76,
-   "vote_count": 67,
-   "popularity": 7.7,
    "genres": [
     "Documentary"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/h2zN5Oo89DjwY9Q4F8zto5MlnNb.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/h2zN5Oo89DjwY9Q4F8zto5MlnNb.jpg",
    "backdrop_path": "/qEqvcwXH5skWfed1rgZq45FL36G.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/qEqvcwXH5skWfed1rgZq45FL36G.jpg",
    "logo_path": "/bA5kCmkX5qWz0n6dAmY5XdH6X9i.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/bA5kCmkX5qWz0n6dAmY5XdH6X9i.png",
    "trailer_youtube_id": "YoOD-2Wn7ik",
-   "trailer_url": "https://www.youtube.com/watch?v=YoOD-2Wn7ik",
    "trailer_embed_url": "https://www.youtube.com/embed/YoOD-2Wn7ik",
-   "imdb_url": "https://www.imdb.com/title/tt35237771/",
    "categories": [
     "Documentary"
    ]
@@ -119,26 +88,16 @@
    "year": 2025,
    "release_date": "2025-05-08",
    "runtime": 85,
-   "runtime_text": "1h 25m",
    "vote_average": 8.1,
-   "rating_percent": 81,
-   "vote_count": 83,
-   "popularity": 8.0,
    "genres": [
     "Documentary"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/oAKzcqUCP3EK7rgAx9Jj8Futv8O.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/oAKzcqUCP3EK7rgAx9Jj8Futv8O.jpg",
    "backdrop_path": "/2hthvh4L1pHYZ5alepSqIAFYrRv.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/2hthvh4L1pHYZ5alepSqIAFYrRv.jpg",
    "logo_path": "/cNzDV7MIBy1v9yurtGIg3tCvW01.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/cNzDV7MIBy1v9yurtGIg3tCvW01.png",
    "trailer_youtube_id": "IzG9AwlypaY",
-   "trailer_url": "https://www.youtube.com/watch?v=IzG9AwlypaY",
    "trailer_embed_url": "https://www.youtube.com/embed/IzG9AwlypaY",
-   "imdb_url": "https://www.imdb.com/title/tt33022710/",
    "categories": [
     "Documentary"
    ]
@@ -154,26 +113,16 @@
    "year": 2012,
    "release_date": "2012-06-18",
    "runtime": 94,
-   "runtime_text": "1h 34m",
    "vote_average": 7.5,
-   "rating_percent": 75,
-   "vote_count": 65,
-   "popularity": 2.3,
    "genres": [
     "Documentary"
    ],
    "language": "French",
-   "adult": false,
    "poster_path": "/kukf6NNxQF1wLykdC2e0jlVELig.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/kukf6NNxQF1wLykdC2e0jlVELig.jpg",
    "backdrop_path": "/nWcKw1FeYKFTnGSosSBYjyFVRdd.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/nWcKw1FeYKFTnGSosSBYjyFVRdd.jpg",
    "logo_path": "/YjeI2VetUx1SJFAz0KRwtlE5GG.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/YjeI2VetUx1SJFAz0KRwtlE5GG.png",
    "trailer_youtube_id": "eH1s9GCqPKo",
-   "trailer_url": "https://www.youtube.com/watch?v=eH1s9GCqPKo",
    "trailer_embed_url": "https://www.youtube.com/embed/eH1s9GCqPKo",
-   "imdb_url": "https://www.imdb.com/title/tt2240784/",
    "categories": [
     "Documentary"
    ]
@@ -189,27 +138,17 @@
    "year": 2022,
    "release_date": "2022-04-22",
    "runtime": 84,
-   "runtime_text": "1h 24m",
    "vote_average": 7.2,
-   "rating_percent": 72,
-   "vote_count": 65,
-   "popularity": 4.7,
    "genres": [
     "Documentary",
     "Family"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/nCRUQcbBs6Ix6YaBeCgC9OwE0mt.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/nCRUQcbBs6Ix6YaBeCgC9OwE0mt.jpg",
    "backdrop_path": "/aVSSuDNzgqHVCdAcSSAA1kdhrkK.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/aVSSuDNzgqHVCdAcSSAA1kdhrkK.jpg",
    "logo_path": "/AwaeXxmGopwazW83zfrPvtkqiUh.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/AwaeXxmGopwazW83zfrPvtkqiUh.png",
    "trailer_youtube_id": "zH3c875odA4",
-   "trailer_url": "https://www.youtube.com/watch?v=zH3c875odA4",
    "trailer_embed_url": "https://www.youtube.com/embed/zH3c875odA4",
-   "imdb_url": "https://www.imdb.com/title/tt17048330/",
    "categories": [
     "Documentary"
    ]
@@ -225,26 +164,16 @@
    "year": 2025,
    "release_date": "2025-04-21",
    "runtime": 83,
-   "runtime_text": "1h 23m",
    "vote_average": 7.8,
-   "rating_percent": 78,
-   "vote_count": 24,
-   "popularity": 4.5,
    "genres": [
     "Documentary"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/mvL8P5lTIlrNdi20xQKZgez1NAP.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/mvL8P5lTIlrNdi20xQKZgez1NAP.jpg",
    "backdrop_path": "/h4xi19UruYzqQUVSwOMQIVArGhs.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/h4xi19UruYzqQUVSwOMQIVArGhs.jpg",
    "logo_path": "/8PwSs4rjaf04W2pztZG6q3fo9RU.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/8PwSs4rjaf04W2pztZG6q3fo9RU.png",
    "trailer_youtube_id": "X0nclu9lzaQ",
-   "trailer_url": "https://www.youtube.com/watch?v=X0nclu9lzaQ",
    "trailer_embed_url": "https://www.youtube.com/embed/X0nclu9lzaQ",
-   "imdb_url": "https://www.imdb.com/title/tt36367119/",
    "categories": [
     "Documentary"
    ]
@@ -260,28 +189,18 @@
    "year": 2024,
    "release_date": "2024-03-14",
    "runtime": 63,
-   "runtime_text": "1h 3m",
    "vote_average": 7.2,
-   "rating_percent": 72,
-   "vote_count": 53,
-   "popularity": 10.2,
    "genres": [
     "War",
     "Documentary",
     "History"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/5GnpAw5BaQBNqYd4wE1IptYEVKd.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/5GnpAw5BaQBNqYd4wE1IptYEVKd.jpg",
    "backdrop_path": "/4m8yq8vEVGVcmOxO39j1Yz8ry1s.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/4m8yq8vEVGVcmOxO39j1Yz8ry1s.jpg",
    "logo_path": "/tlnUgBgTWWPjmqSK6BOY7046CT.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/tlnUgBgTWWPjmqSK6BOY7046CT.png",
    "trailer_youtube_id": "v156yvY0vbg",
-   "trailer_url": "https://www.youtube.com/watch?v=v156yvY0vbg",
    "trailer_embed_url": "https://www.youtube.com/embed/v156yvY0vbg",
-   "imdb_url": "https://www.imdb.com/title/tt31510396/",
    "categories": [
     "Documentary"
    ]
@@ -297,26 +216,16 @@
    "year": 2026,
    "release_date": "2026-10-02",
    "runtime": 98,
-   "runtime_text": "1h 38m",
    "vote_average": 6.1,
-   "rating_percent": 61,
-   "vote_count": 15,
-   "popularity": 10.0,
    "genres": [
     "Documentary"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/zgjF2iudafdpbRhaskVGRPAUZQf.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/zgjF2iudafdpbRhaskVGRPAUZQf.jpg",
    "backdrop_path": "/wtzSwtnQ4RsRbV5cc114Nb1q3b0.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/wtzSwtnQ4RsRbV5cc114Nb1q3b0.jpg",
    "logo_path": "/49sM6ly1mnzClRYiggA9Y3SoOjX.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/49sM6ly1mnzClRYiggA9Y3SoOjX.png",
    "trailer_youtube_id": "zgGpyr5MFK8",
-   "trailer_url": "https://www.youtube.com/watch?v=zgGpyr5MFK8",
    "trailer_embed_url": "https://www.youtube.com/embed/zgGpyr5MFK8",
-   "imdb_url": "https://www.imdb.com/title/tt39150288/",
    "categories": [
     "Documentary"
    ]
@@ -332,26 +241,16 @@
    "year": 2021,
    "release_date": "2021-04-15",
    "runtime": 48,
-   "runtime_text": "48m",
    "vote_average": 7.9,
-   "rating_percent": 79,
-   "vote_count": 134,
-   "popularity": 6.1,
    "genres": [
     "Documentary"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/cLwQRXfzPjmpU6I78TCkoHazO0A.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/cLwQRXfzPjmpU6I78TCkoHazO0A.jpg",
    "backdrop_path": "/2P7mnMJGMP5mNRujxki0di8lSmp.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/2P7mnMJGMP5mNRujxki0di8lSmp.jpg",
    "logo_path": "/iaTQTsh8s6jixQsw2TTR0TBZ85O.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/iaTQTsh8s6jixQsw2TTR0TBZ85O.png",
    "trailer_youtube_id": "XswV_yqPq28",
-   "trailer_url": "https://www.youtube.com/watch?v=XswV_yqPq28",
    "trailer_embed_url": "https://www.youtube.com/embed/XswV_yqPq28",
-   "imdb_url": "https://www.imdb.com/title/tt14372240/",
    "categories": [
     "Documentary"
    ]
@@ -367,26 +266,16 @@
    "year": 2024,
    "release_date": "2024-04-21",
    "runtime": 78,
-   "runtime_text": "1h 18m",
    "vote_average": 7.8,
-   "rating_percent": 78,
-   "vote_count": 13,
-   "popularity": 4.5,
    "genres": [
     "Documentary"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/feaKvf7R80D4FlXEZei4NnRseAw.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/feaKvf7R80D4FlXEZei4NnRseAw.jpg",
    "backdrop_path": "/bA1X1zEJjsS4s59TT87CfFdYKpJ.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/bA1X1zEJjsS4s59TT87CfFdYKpJ.jpg",
    "logo_path": "/3f2mLOIVt3jpv3xP0nkyCxgGvmJ.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/3f2mLOIVt3jpv3xP0nkyCxgGvmJ.png",
    "trailer_youtube_id": "18QMr2-wgtk",
-   "trailer_url": "https://www.youtube.com/watch?v=18QMr2-wgtk",
    "trailer_embed_url": "https://www.youtube.com/embed/18QMr2-wgtk",
-   "imdb_url": "https://www.imdb.com/title/tt31852840/",
    "categories": [
     "Documentary"
    ]
@@ -402,26 +291,16 @@
    "year": 2001,
    "release_date": "2001-12-12",
    "runtime": 89,
-   "runtime_text": "1h 29m",
    "vote_average": 7.6,
-   "rating_percent": 76,
-   "vote_count": 214,
-   "popularity": 4.6,
    "genres": [
     "Documentary"
    ],
    "language": "French",
-   "adult": false,
    "poster_path": "/qjv7cYLSufwf03So0SuRFU7sRxB.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/qjv7cYLSufwf03So0SuRFU7sRxB.jpg",
    "backdrop_path": "/c8lCUmgvyxfM3oJzbD9bQf8bV02.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/c8lCUmgvyxfM3oJzbD9bQf8bV02.jpg",
    "logo_path": "/sqzFXEQOlPUSBKQegNeUwFkA2yF.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/sqzFXEQOlPUSBKQegNeUwFkA2yF.png",
    "trailer_youtube_id": "w_0kMdH0FLA",
-   "trailer_url": "https://www.youtube.com/watch?v=w_0kMdH0FLA",
    "trailer_embed_url": "https://www.youtube.com/embed/w_0kMdH0FLA",
-   "imdb_url": "https://www.imdb.com/title/tt0301727/",
    "categories": [
     "Documentary"
    ]

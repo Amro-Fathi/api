@@ -1,7 +1,6 @@
 {
  "category": "Drama",
  "slug": "drama",
- "count": 15,
  "movies": [
   {
    "id": 530915,
@@ -14,28 +13,18 @@
    "year": 2019,
    "release_date": "2019-12-25",
    "runtime": 119,
-   "runtime_text": "1h 59m",
    "vote_average": 8.0,
-   "rating_percent": 80,
-   "vote_count": 13993,
-   "popularity": 24.5,
    "genres": [
     "War",
     "Drama",
     "History"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
    "backdrop_path": "/tJgmraUAmVlJPlq72yC76tKDyC4.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/tJgmraUAmVlJPlq72yC76tKDyC4.jpg",
    "logo_path": "/wwSU87KF5cqBLI4ani5vOnYIErh.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/wwSU87KF5cqBLI4ani5vOnYIErh.png",
    "trailer_youtube_id": "PyiNNRnZZnA",
-   "trailer_url": "https://www.youtube.com/watch?v=PyiNNRnZZnA",
    "trailer_embed_url": "https://www.youtube.com/embed/PyiNNRnZZnA",
-   "imdb_url": "https://www.imdb.com/title/tt8579674/",
    "categories": [
     "Drama"
    ]
@@ -51,28 +40,18 @@
    "year": 2005,
    "release_date": "2005-06-10",
    "runtime": 140,
-   "runtime_text": "2h 20m",
    "vote_average": 7.7,
-   "rating_percent": 77,
-   "vote_count": 23312,
-   "popularity": 35.2,
    "genres": [
     "Drama",
     "Crime",
     "Action"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/sPX89Td70IDDjVr85jdSBb4rWGr.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/sPX89Td70IDDjVr85jdSBb4rWGr.jpg",
    "backdrop_path": "/9IIBboV7MCT0bTxzXHmWK1Hq558.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/9IIBboV7MCT0bTxzXHmWK1Hq558.jpg",
    "logo_path": "/kmqIeEVaVfbBCgV9WFPuLUl84uW.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/kmqIeEVaVfbBCgV9WFPuLUl84uW.png",
    "trailer_youtube_id": "ejd9hefxp_E",
-   "trailer_url": "https://www.youtube.com/watch?v=ejd9hefxp_E",
    "trailer_embed_url": "https://www.youtube.com/embed/ejd9hefxp_E",
-   "imdb_url": "https://www.imdb.com/title/tt0372784/",
    "categories": [
     "Drama"
    ]
@@ -88,11 +67,7 @@
    "year": 2026,
    "release_date": "2026-06-23",
    "runtime": 79,
-   "runtime_text": "1h 19m",
    "vote_average": 9.1,
-   "rating_percent": 91,
-   "vote_count": 438,
-   "popularity": 41.8,
    "genres": [
     "Animation",
     "Action",
@@ -100,17 +75,11 @@
     "Drama"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/360qdtu2hLnqMu8SVHMywn420w1.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/360qdtu2hLnqMu8SVHMywn420w1.jpg",
    "backdrop_path": "/caBIySpwuFi2i7ynvHIlnxJLOdN.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/caBIySpwuFi2i7ynvHIlnxJLOdN.jpg",
    "logo_path": "/yH9NHHGZx4H5Zt7dZtCJqbUdViN.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/yH9NHHGZx4H5Zt7dZtCJqbUdViN.png",
    "trailer_youtube_id": "TAvWHT6wVu0",
-   "trailer_url": "https://www.youtube.com/watch?v=TAvWHT6wVu0",
    "trailer_embed_url": "https://www.youtube.com/embed/TAvWHT6wVu0",
-   "imdb_url": "https://www.imdb.com/title/tt32333324/",
    "categories": [
     "Top_Rated",
     "Drama"
@@ -127,28 +96,18 @@
    "year": 2014,
    "release_date": "2014-10-15",
    "runtime": 135,
-   "runtime_text": "2h 15m",
    "vote_average": 7.5,
-   "rating_percent": 75,
-   "vote_count": 13303,
-   "popularity": 32.9,
    "genres": [
     "War",
     "Drama",
     "Action"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/pfte7wdMobMF4CVHuOxyu6oqeeA.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/pfte7wdMobMF4CVHuOxyu6oqeeA.jpg",
    "backdrop_path": "/95ckrV6wQgbffurAVmETQ5YKASL.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/95ckrV6wQgbffurAVmETQ5YKASL.jpg",
    "logo_path": "/kEcGWpNcsdwgVuI3BiGtk27uvQF.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/kEcGWpNcsdwgVuI3BiGtk27uvQF.png",
    "trailer_youtube_id": "OkfwwwDlyds",
-   "trailer_url": "https://www.youtube.com/watch?v=OkfwwwDlyds",
    "trailer_embed_url": "https://www.youtube.com/embed/OkfwwwDlyds",
-   "imdb_url": "https://www.imdb.com/title/tt2713180/",
    "categories": [
     "Drama"
    ]
@@ -164,28 +123,18 @@
    "year": 2000,
    "release_date": "2000-05-04",
    "runtime": 155,
-   "runtime_text": "2h 35m",
    "vote_average": 8.2,
-   "rating_percent": 82,
-   "vote_count": 21632,
-   "popularity": 33.2,
    "genres": [
     "Action",
     "Drama",
     "Adventure"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/aDb548BOkFfI4nFm0kx8A3Ezh7H.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/aDb548BOkFfI4nFm0kx8A3Ezh7H.jpg",
    "backdrop_path": "/Ar7QuJ7sJEiC0oP3I8fKBKIQD9u.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/Ar7QuJ7sJEiC0oP3I8fKBKIQD9u.jpg",
    "logo_path": "/liF6t2gp6C5JTCvfF3biCCqFDx9.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/liF6t2gp6C5JTCvfF3biCCqFDx9.png",
    "trailer_youtube_id": "64DXB0R4bIA",
-   "trailer_url": "https://www.youtube.com/watch?v=64DXB0R4bIA",
    "trailer_embed_url": "https://www.youtube.com/embed/64DXB0R4bIA",
-   "imdb_url": "https://www.imdb.com/title/tt0172495/",
    "categories": [
     "Drama"
    ]
@@ -201,28 +150,18 @@
    "year": 2007,
    "release_date": "2007-12-12",
    "runtime": 101,
-   "runtime_text": "1h 41m",
    "vote_average": 7.2,
-   "rating_percent": 72,
-   "vote_count": 17410,
-   "popularity": 21.2,
    "genres": [
     "Drama",
     "Science Fiction",
     "Thriller"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/iPDkaSdKk2jRLTM65UOEoKtsIZ8.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/iPDkaSdKk2jRLTM65UOEoKtsIZ8.jpg",
    "backdrop_path": "/ePgD1cwmklyrFBjl6z96IuixuSY.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/ePgD1cwmklyrFBjl6z96IuixuSY.jpg",
    "logo_path": "/5ffl0wnYvirnyEDut48ClJazV6z.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/5ffl0wnYvirnyEDut48ClJazV6z.png",
    "trailer_youtube_id": "IvCjMq0wD4I",
-   "trailer_url": "https://www.youtube.com/watch?v=IvCjMq0wD4I",
    "trailer_embed_url": "https://www.youtube.com/embed/IvCjMq0wD4I",
-   "imdb_url": "https://www.imdb.com/title/tt0480249/",
    "categories": [
     "Drama"
    ]
@@ -238,28 +177,18 @@
    "year": 2019,
    "release_date": "2019-10-01",
    "runtime": 122,
-   "runtime_text": "2h 2m",
    "vote_average": 8.1,
-   "rating_percent": 81,
-   "vote_count": 28467,
-   "popularity": 32.2,
    "genres": [
     "Crime",
     "Thriller",
     "Drama"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
    "backdrop_path": "/rlay2M5QYvi6igbGcFjq8jxeusY.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/rlay2M5QYvi6igbGcFjq8jxeusY.jpg",
    "logo_path": "/uACD19MjHdpLBlzmFSztlwsW5Q6.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/uACD19MjHdpLBlzmFSztlwsW5Q6.png",
    "trailer_youtube_id": "FqT--nybwkU",
-   "trailer_url": "https://www.youtube.com/watch?v=FqT--nybwkU",
    "trailer_embed_url": "https://www.youtube.com/embed/FqT--nybwkU",
-   "imdb_url": "https://www.imdb.com/title/tt7286456/",
    "categories": [
     "Drama"
    ]
@@ -275,27 +204,17 @@
    "year": 2023,
    "release_date": "2023-07-19",
    "runtime": 181,
-   "runtime_text": "3h 1m",
    "vote_average": 8.0,
-   "rating_percent": 80,
-   "vote_count": 12661,
-   "popularity": 55.2,
    "genres": [
     "Drama",
     "History"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
    "backdrop_path": "/cUIqZd6jJCbO94Txt1CkTs7MSeP.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/cUIqZd6jJCbO94Txt1CkTs7MSeP.jpg",
    "logo_path": "/b07VisHvZb0WzUpA8VB77wfMXwg.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/b07VisHvZb0WzUpA8VB77wfMXwg.png",
    "trailer_youtube_id": "O_hKC3gRvzw",
-   "trailer_url": "https://www.youtube.com/watch?v=O_hKC3gRvzw",
    "trailer_embed_url": "https://www.youtube.com/embed/O_hKC3gRvzw",
-   "imdb_url": "https://www.imdb.com/title/tt15398776/",
    "categories": [
     "Drama"
    ]
@@ -311,27 +230,17 @@
    "year": 2026,
    "release_date": "2026-09-23",
    "runtime": 110,
-   "runtime_text": "1h 50m",
    "vote_average": 6.8,
-   "rating_percent": 68,
-   "vote_count": 103,
-   "popularity": 47.4,
    "genres": [
     "Drama",
     "Thriller"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
    "backdrop_path": "/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
    "logo_path": "/hBLQZmtZQ0DsCdsihNrGKeUnPL1.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/hBLQZmtZQ0DsCdsihNrGKeUnPL1.png",
    "trailer_youtube_id": "dYKzYM5tnbo",
-   "trailer_url": "https://www.youtube.com/watch?v=dYKzYM5tnbo",
    "trailer_embed_url": "https://www.youtube.com/embed/dYKzYM5tnbo",
-   "imdb_url": "https://www.imdb.com/title/tt34206385/",
    "categories": [
     "Drama"
    ]
@@ -347,28 +256,18 @@
    "year": 2010,
    "release_date": "2010-02-14",
    "runtime": 138,
-   "runtime_text": "2h 18m",
    "vote_average": 8.2,
-   "rating_percent": 82,
-   "vote_count": 26560,
-   "popularity": 40.7,
    "genres": [
     "Drama",
     "Thriller",
     "Mystery"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/nrmXQ0zcZUL8jFLrakWc90IR8z9.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/nrmXQ0zcZUL8jFLrakWc90IR8z9.jpg",
    "backdrop_path": "/rbZvGN1A1QyZuoKzhCw8QPmf2q0.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/rbZvGN1A1QyZuoKzhCw8QPmf2q0.jpg",
    "logo_path": "/hRtb8ju7S4xNP3s6RtDqyR1wn8j.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/hRtb8ju7S4xNP3s6RtDqyR1wn8j.png",
-   "trailer_youtube_id": "x9lGthLqe3E",
-   "trailer_url": "https://www.youtube.com/watch?v=x9lGthLqe3E",
-   "trailer_embed_url": "https://www.youtube.com/embed/x9lGthLqe3E",
-   "imdb_url": "https://www.imdb.com/title/tt1130884/",
+   "trailer_youtube_id": "qdPw9x9h5CY",
+   "trailer_embed_url": "https://www.youtube.com/embed/qdPw9x9h5CY",
    "categories": [
     "Drama"
    ]
@@ -384,28 +283,18 @@
    "year": 2016,
    "release_date": "2016-10-13",
    "runtime": 128,
-   "runtime_text": "2h 8m",
    "vote_average": 7.1,
-   "rating_percent": 71,
-   "vote_count": 7642,
-   "popularity": 24.1,
    "genres": [
     "Crime",
     "Thriller",
     "Drama"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/fceheXB5fC4WrLVuWJ6OZv9FXYr.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/fceheXB5fC4WrLVuWJ6OZv9FXYr.jpg",
    "backdrop_path": "/dTGECn8He16tZeBHQTLf6rVydE8.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/dTGECn8He16tZeBHQTLf6rVydE8.jpg",
    "logo_path": "/uqsuusdP3JsvbSrylm7RqlHuqB2.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/uqsuusdP3JsvbSrylm7RqlHuqB2.png",
    "trailer_youtube_id": "ebSKxEl5YU4",
-   "trailer_url": "https://www.youtube.com/watch?v=ebSKxEl5YU4",
    "trailer_embed_url": "https://www.youtube.com/embed/ebSKxEl5YU4",
-   "imdb_url": "https://www.imdb.com/title/tt2140479/",
    "categories": [
     "Drama"
    ]
@@ -421,26 +310,16 @@
    "year": 2024,
    "release_date": "2024-12-20",
    "runtime": 215,
-   "runtime_text": "3h 35m",
    "vote_average": 6.9,
-   "rating_percent": 69,
-   "vote_count": 1851,
-   "popularity": 48.8,
    "genres": [
     "Drama"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg",
    "backdrop_path": "/hmZnqijPaaACjenDkrbWcCmcADI.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/hmZnqijPaaACjenDkrbWcCmcADI.jpg",
    "logo_path": "/t5mbFmw6IH69nqi2Xdt0zSaikeG.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/t5mbFmw6IH69nqi2Xdt0zSaikeG.png",
    "trailer_youtube_id": "-mYZ78EgZMo",
-   "trailer_url": "https://www.youtube.com/watch?v=-mYZ78EgZMo",
    "trailer_embed_url": "https://www.youtube.com/embed/-mYZ78EgZMo",
-   "imdb_url": "https://www.imdb.com/title/tt8999762/",
    "categories": [
     "Drama"
    ]
@@ -456,28 +335,18 @@
    "year": 2026,
    "release_date": "2026-06-18",
    "runtime": 123,
-   "runtime_text": "2h 3m",
    "vote_average": 6.7,
-   "rating_percent": 67,
-   "vote_count": 521,
-   "popularity": 43.5,
    "genres": [
     "Adventure",
     "Drama",
     "Action"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
    "backdrop_path": "/lh3BDkmWJh998n4fQcHYcVi7dpm.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/lh3BDkmWJh998n4fQcHYcVi7dpm.jpg",
    "logo_path": "/iwZMP3Vbqgj6QHAOAzz9VjRJfNN.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/iwZMP3Vbqgj6QHAOAzz9VjRJfNN.png",
    "trailer_youtube_id": "A1UKNvmb1Go",
-   "trailer_url": "https://www.youtube.com/watch?v=A1UKNvmb1Go",
    "trailer_embed_url": "https://www.youtube.com/embed/A1UKNvmb1Go",
-   "imdb_url": "https://www.imdb.com/title/tt32273171/",
    "categories": [
     "Drama"
    ]
@@ -493,26 +362,16 @@
    "year": 2014,
    "release_date": "2014-10-08",
    "runtime": 141,
-   "runtime_text": "2h 21m",
    "vote_average": 7.3,
-   "rating_percent": 73,
-   "vote_count": 4580,
-   "popularity": 21.2,
    "genres": [
     "Drama"
    ],
    "language": "English",
-   "adult": false,
    "poster_path": "/3K93GWotLXe4FqpErri0xkpLaD5.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/3K93GWotLXe4FqpErri0xkpLaD5.jpg",
    "backdrop_path": "/sPantp0oQ9idos7Jdwko2r6ZOIa.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/sPantp0oQ9idos7Jdwko2r6ZOIa.jpg",
    "logo_path": "/anPUcSUkSlwP7bw7oi6kDRRyfjE.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/anPUcSUkSlwP7bw7oi6kDRRyfjE.png",
    "trailer_youtube_id": "ZBvK6ni97W8",
-   "trailer_url": "https://www.youtube.com/watch?v=ZBvK6ni97W8",
    "trailer_embed_url": "https://www.youtube.com/embed/ZBvK6ni97W8",
-   "imdb_url": "https://www.imdb.com/title/tt1872194/",
    "categories": [
     "Drama"
    ]
@@ -528,28 +387,18 @@
    "year": 2026,
    "release_date": "2026-09-16",
    "runtime": 112,
-   "runtime_text": "1h 52m",
    "vote_average": 6.8,
-   "rating_percent": 68,
-   "vote_count": 39,
-   "popularity": 21.3,
    "genres": [
     "Drama",
     "Thriller",
     "Crime"
    ],
    "language": "Portuguese",
-   "adult": false,
    "poster_path": "/2fAU3Gx2cFoYFKAE5wtJFyXOFc4.jpg",
-   "poster_url": "https://image.tmdb.org/t/p/original/2fAU3Gx2cFoYFKAE5wtJFyXOFc4.jpg",
    "backdrop_path": "/zKizFK3adjtpXut1dW6bRaxwhd.jpg",
-   "backdrop_url": "https://image.tmdb.org/t/p/original/zKizFK3adjtpXut1dW6bRaxwhd.jpg",
    "logo_path": "/goGNzpf7rm2chxzcbLiLg5LDqmI.png",
-   "logo_url": "https://image.tmdb.org/t/p/original/goGNzpf7rm2chxzcbLiLg5LDqmI.png",
    "trailer_youtube_id": "7YpuMymmiJ8",
-   "trailer_url": "https://www.youtube.com/watch?v=7YpuMymmiJ8",
    "trailer_embed_url": "https://www.youtube.com/embed/7YpuMymmiJ8",
-   "imdb_url": "https://www.imdb.com/title/tt10794054/",
    "categories": [
     "Crime",
     "Drama"
