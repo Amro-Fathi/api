@@ -1,3 +1,4 @@
+
 [
  {
   "id": 166428,
@@ -1308,7 +1309,7 @@
   "title": "Batman: Knightfall Part 1: Knightfall",
   "original_title": "Batman: Knightfall Part 1: Knightfall",
   "original_language": "en",
-  "tagline": null,
+  "tagline": "Before Gotham can be saved… its hero must fall.",
   "overview": "Arkham Asylum has been destroyed, and all its inmates have been unleashed upon Gotham City. As Batman races to round up some of his greatest enemies, he is pushed to his physical and mental limits and into a final confrontation with a new threat: the man called Bane!",
   "release_date": "2026-06-23",
   "year": 2026,
@@ -13717,8 +13718,8 @@
   "year": 2001,
   "runtime": 152,
   "vote_average": 7.905,
-  "vote_count": null,
-  "popularity": null,
+  "vote_count":  12078,
+  "popularity": 22.5026,
   "adult": false,
   "genres": [
    "Adventure",
@@ -13743,7 +13744,80 @@
     "/n7Pj4doQ1yfElCiGTGFTvzoQkpf.png"
    ]
   },
-  "keywords": [],
+  "keywords": [
+        {
+          "id": 3515,
+          "name": "banker"
+        },
+        {
+          "id": 585,
+          "name": "casino"
+        },
+        {
+          "id": 818,
+          "name": "based on novel or book"
+        },
+        {
+          "id": 383,
+          "name": "poker"
+        },
+        {
+          "id": 131,
+          "name": "italy"
+        },
+        {
+          "id": 470,
+          "name": "spy"
+        },
+        {
+          "id": 10594,
+          "name": "money"
+        },
+        {
+          "id": 13006,
+          "name": "torture"
+        },
+        {
+          "id": 13015,
+          "name": "terrorism"
+        },
+        {
+          "id": 14555,
+          "name": "mi6"
+        },
+        {
+          "id": 156095,
+          "name": "british secret service"
+        },
+        {
+          "id": 206125,
+          "name": "montenegro"
+        },
+        {
+          "id": 306278,
+          "name": "james bond"
+        },
+        {
+          "id": 311315,
+          "name": "dramatic"
+        },
+        {
+          "id": 314730,
+          "name": "suspenseful"
+        },
+        {
+          "id": 322496,
+          "name": "action"
+        },
+        {
+          "id": 322942,
+          "name": "adventure"
+        },
+        {
+          "id": 325804,
+          "name": "earnest"
+        }
+      ],
   "review_count": 5,
   "categories": [
    "Fantasy"
@@ -13771,8 +13845,8 @@
   "year": 1996,
   "runtime": 103,
   "vote_average": 6.582,
-  "vote_count": null,
-  "popularity": null,
+  "vote_count": 2267,
+  "popularity": 7.7125,
   "adult": false,
   "genres": [
    "Fantasy",
@@ -13801,7 +13875,96 @@
     "/bQ4nKm1prrpUEPEPauKJHX1biBq.png"
    ]
   },
-  "keywords": [],
+  "keywords": [
+        {
+          "id": 1400,
+          "name": "swordplay"
+        },
+        {
+          "id": 2343,
+          "name": "magic"
+        },
+        {
+          "id": 4152,
+          "name": "kingdom"
+        },
+        {
+          "id": 4978,
+          "name": "immortality"
+        },
+        {
+          "id": 3071,
+          "name": "prince"
+        },
+        {
+          "id": 4798,
+          "name": "despot"
+        },
+        {
+          "id": 5457,
+          "name": "mythical creature"
+        },
+        {
+          "id": 9725,
+          "name": "sword fight"
+        },
+        {
+          "id": 9748,
+          "name": "revenge"
+        },
+        {
+          "id": 10466,
+          "name": "knight"
+        },
+        {
+          "id": 10982,
+          "name": "king arthur"
+        },
+        {
+          "id": 12554,
+          "name": "dragon"
+        },
+        {
+          "id": 14643,
+          "name": "battle"
+        },
+        {
+          "id": 161257,
+          "name": "medieval"
+        },
+        {
+          "id": 173905,
+          "name": "dragonslayer"
+        },
+        {
+          "id": 211614,
+          "name": "scheme"
+        },
+        {
+          "id": 234213,
+          "name": "sword and sorcery"
+        },
+        {
+          "id": 235499,
+          "name": "10th century"
+        },
+        {
+          "id": 252344,
+          "name": "talking dragon"
+        },
+        {
+          "id": 269233,
+          "name": "good versus evil"
+        },
+        {
+          "id": 307254,
+          "name": "evil king"
+        },
+        {
+          "id": 307255,
+          "name": "last of its kind"
+        }
+      ],
   "review_count": 1,
   "categories": [
    "Fantasy"
@@ -13885,8 +14048,8 @@
   "year": 2013,
   "runtime": 114,
   "vote_average": 5.918,
-  "vote_count": null,
-  "popularity": null,
+  "vote_count": 5405,
+  "popularity": 12.9532,
   "adult": false,
   "genres": [
    "Fantasy",
@@ -13913,7 +14076,24 @@
     "/f4fr0urYNZoSu2C53gX3RbJ3xjq.png"
    ]
   },
-  "keywords": [],
+  "keywords": [
+        {
+          "id": 164246,
+          "name": "nostalgic"
+        },
+        {
+          "id": 179411,
+          "name": "based on fairy tale"
+        },
+        {
+          "id": 189099,
+          "name": "giant"
+        },
+        {
+          "id": 325783,
+          "name": "cliché"
+        }
+      ],
   "review_count": 4,
   "categories": [
    "Fantasy"
@@ -13941,8 +14121,8 @@
   "year": 1957,
   "runtime": 97,
   "vote_average": 8.6,
-  "vote_count": null,
-  "popularity": null,
+  "vote_count": 10543,
+  "popularity": 28.3631,
   "adult": false,
   "genres": [
    "Drama"
@@ -13965,7 +14145,80 @@
     "/4MswIYfPj61xKIIkkAEjk6mjlHL.png"
    ]
   },
-  "keywords": [],
+  "keywords": [
+        {
+          "id": 2122,
+          "name": "death penalty"
+        },
+        {
+          "id": 2142,
+          "name": "anonymity"
+        },
+        {
+          "id": 3012,
+          "name": "court case"
+        },
+        {
+          "id": 934,
+          "name": "judge"
+        },
+        {
+          "id": 1417,
+          "name": "jurors"
+        },
+        {
+          "id": 6139,
+          "name": "innocence"
+        },
+        {
+          "id": 3581,
+          "name": "witness"
+        },
+        {
+          "id": 4728,
+          "name": "knife"
+        },
+        {
+          "id": 5144,
+          "name": "matter of life and death"
+        },
+        {
+          "id": 10181,
+          "name": "based on play or musical"
+        },
+        {
+          "id": 11038,
+          "name": "trial"
+        },
+        {
+          "id": 9826,
+          "name": "murder"
+        },
+        {
+          "id": 11141,
+          "name": "debate"
+        },
+        {
+          "id": 11523,
+          "name": "capital punishment"
+        },
+        {
+          "id": 12999,
+          "name": "black and white"
+        },
+        {
+          "id": 33519,
+          "name": "courtroom"
+        },
+        {
+          "id": 214780,
+          "name": "courtroom drama"
+        },
+        {
+          "id": 321464,
+          "name": "intense"
+        }
+      ],
   "review_count": 1,
   "categories": [
    "Top_Rated",
@@ -13994,8 +14247,8 @@
   "year": 1976,
   "runtime": 114,
   "vote_average": 8.1,
-  "vote_count": null,
-  "popularity": null,
+  "vote_count": 13960,
+  "popularity": 17.0955,
   "adult": false,
   "genres": [
    "Crime",
@@ -14006,7 +14259,7 @@
    18
   ],
   "trailer_youtube_id": "zdqCqDSTVNI",
-  "poster_path": "/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+  "poster_path": "/ .jpg",
   "backdrop_path": "/9uddYYTNcLWpzUkl5iw1RUYhLhY.jpg",
   "logo_path": "/nfO5weKIHhHqwYvXzMelRSeH799.png",
   "images": {
@@ -14020,7 +14273,148 @@
     "/nfO5weKIHhHqwYvXzMelRSeH799.png"
    ]
   },
-  "keywords": [],
+  "keywords": [
+        {
+          "id": 2231,
+          "name": "drug dealer"
+        },
+        {
+          "id": 422,
+          "name": "vietnam veteran"
+        },
+        {
+          "id": 242,
+          "name": "new york city"
+        },
+        {
+          "id": 444,
+          "name": "taxi"
+        },
+        {
+          "id": 445,
+          "name": "pornography"
+        },
+        {
+          "id": 1523,
+          "name": "obsession"
+        },
+        {
+          "id": 1749,
+          "name": "taxi driver"
+        },
+        {
+          "id": 1228,
+          "name": "1970s"
+        },
+        {
+          "id": 1667,
+          "name": "pimp"
+        },
+        {
+          "id": 5446,
+          "name": "observer"
+        },
+        {
+          "id": 6112,
+          "name": "firearm"
+        },
+        {
+          "id": 6083,
+          "name": "politician"
+        },
+        {
+          "id": 7368,
+          "name": "alienation"
+        },
+        {
+          "id": 7151,
+          "name": "junk food"
+        },
+        {
+          "id": 9622,
+          "name": "misanthrophy"
+        },
+        {
+          "id": 7002,
+          "name": "vigilante"
+        },
+        {
+          "id": 18075,
+          "name": "political campaign"
+        },
+        {
+          "id": 33424,
+          "name": "cynical"
+        },
+        {
+          "id": 33625,
+          "name": "illegal prostitution"
+        },
+        {
+          "id": 161728,
+          "name": "urban decay"
+        },
+        {
+          "id": 164186,
+          "name": "character study"
+        },
+        {
+          "id": 167104,
+          "name": "loner"
+        },
+        {
+          "id": 168346,
+          "name": "manhattan, new york city"
+        },
+        {
+          "id": 197056,
+          "name": "meditative"
+        },
+        {
+          "id": 207268,
+          "name": "neo-noir"
+        },
+        {
+          "id": 225582,
+          "name": "child prostitution"
+        },
+        {
+          "id": 239797,
+          "name": "complex"
+        },
+        {
+          "id": 252192,
+          "name": "new hollywood"
+        },
+        {
+          "id": 261264,
+          "name": "dreary"
+        },
+        {
+          "id": 266753,
+          "name": "cautionary"
+        },
+        {
+          "id": 270831,
+          "name": "drives"
+        },
+        {
+          "id": 293649,
+          "name": "provocative"
+        },
+        {
+          "id": 325766,
+          "name": "antagonistic"
+        },
+        {
+          "id": 325773,
+          "name": "audacious"
+        },
+        {
+          "id": 325780,
+          "name": "callous"
+        }
+      ],
   "review_count": 1,
   "categories": [
    "Top_Rated",
@@ -14049,8 +14443,8 @@
   "year": 2006,
   "runtime": 151,
   "vote_average": 8.2,
-  "vote_count": null,
-  "popularity": null,
+  "vote_count": 16858,
+  "popularity": 21.2637,
   "adult": false,
   "genres": [
    "Drama",
@@ -14077,7 +14471,100 @@
     "/hgwPIc6SntSABkOcVby7inDKRSw.png"
    ]
   },
-  "keywords": [],
+  "keywords": [
+        {
+          "id": 6149,
+          "name": "police"
+        },
+        {
+          "id": 1568,
+          "name": "undercover"
+        },
+        {
+          "id": 1680,
+          "name": "boston, massachusetts"
+        },
+        {
+          "id": 3149,
+          "name": "gangster"
+        },
+        {
+          "id": 1857,
+          "name": "irish-american"
+        },
+        {
+          "id": 9730,
+          "name": "crime boss"
+        },
+        {
+          "id": 9713,
+          "name": "friends"
+        },
+        {
+          "id": 9714,
+          "name": "remake"
+        },
+        {
+          "id": 11578,
+          "name": "mobster"
+        },
+        {
+          "id": 10291,
+          "name": "organized crime"
+        },
+        {
+          "id": 10391,
+          "name": "mafia"
+        },
+        {
+          "id": 11199,
+          "name": "undercover cop"
+        },
+        {
+          "id": 14617,
+          "name": "mole"
+        },
+        {
+          "id": 177235,
+          "name": "state police"
+        },
+        {
+          "id": 177258,
+          "name": "police training"
+        },
+        {
+          "id": 177259,
+          "name": "realtor"
+        },
+        {
+          "id": 200918,
+          "name": "angry"
+        },
+        {
+          "id": 239797,
+          "name": "complex"
+        },
+        {
+          "id": 261264,
+          "name": "dreary"
+        },
+        {
+          "id": 281585,
+          "name": "inspirational"
+        },
+        {
+          "id": 321464,
+          "name": "intense"
+        },
+        {
+          "id": 325774,
+          "name": "authoritarian"
+        },
+        {
+          "id": 325818,
+          "name": "frightened"
+        }
+      ],
   "review_count": 0,
   "categories": [
    "Top_Rated",
@@ -14106,8 +14593,8 @@
   "year": 1966,
   "runtime": 161,
   "vote_average": 8.5,
-  "vote_count": null,
-  "popularity": null,
+  "vote_count": 10094,
+  "popularity": 23.8037,
   "adult": false,
   "genres": [
    "Action"
@@ -14130,7 +14617,100 @@
     "/6iEwNuV5u4MorDlJbBniApcqGF1.png"
    ]
   },
-  "keywords": [],
+  "keywords":[
+        {
+          "id": 1321,
+          "name": "gold"
+        },
+        {
+          "id": 6092,
+          "name": "army"
+        },
+        {
+          "id": 801,
+          "name": "bounty hunter"
+        },
+        {
+          "id": 2708,
+          "name": "hitman"
+        },
+        {
+          "id": 972,
+          "name": "refugee"
+        },
+        {
+          "id": 2095,
+          "name": "anti hero"
+        },
+        {
+          "id": 11426,
+          "name": "moral ambiguity"
+        },
+        {
+          "id": 2125,
+          "name": "gallows"
+        },
+        {
+          "id": 9503,
+          "name": "outlaw"
+        },
+        {
+          "id": 10176,
+          "name": "gun battle"
+        },
+        {
+          "id": 10950,
+          "name": "shootout"
+        },
+        {
+          "id": 156212,
+          "name": "spaghetti western"
+        },
+        {
+          "id": 166512,
+          "name": "graveyard"
+        },
+        {
+          "id": 179585,
+          "name": "american civil war"
+        },
+        {
+          "id": 186831,
+          "name": "stolen gold"
+        },
+        {
+          "id": 207372,
+          "name": "quest"
+        },
+        {
+          "id": 239797,
+          "name": "complex"
+        },
+        {
+          "id": 263029,
+          "name": "hidden gold"
+        },
+        {
+          "id": 316832,
+          "name": "tense"
+        },
+        {
+          "id": 319922,
+          "name": "gun death"
+        },
+        {
+          "id": 325811,
+          "name": "excited"
+        },
+        {
+          "id": 333099,
+          "name": "cemetary"
+        },
+        {
+          "id": 343041,
+          "name": "confederate gold"
+        }
+      ],
   "review_count": 1,
   "categories": [
    "Top_Rated",
@@ -14159,8 +14739,8 @@
   "year": 2003,
   "runtime": 201,
   "vote_average": 8.5,
-  "vote_count": null,
-  "popularity": null,
+  "vote_count": 27709,
+  "popularity": 42.635,
   "adult": false,
   "genres": [
    "Adventure",
@@ -14187,7 +14767,212 @@
     "/mZtF6SOsVddoK3I3VLi2oTZ5BR2.png"
    ]
   },
-  "keywords": [],
+  "keywords": [
+        {
+          "id": 6092,
+          "name": "army"
+        },
+        {
+          "id": 818,
+          "name": "based on novel or book"
+        },
+        {
+          "id": 603,
+          "name": "elves"
+        },
+        {
+          "id": 604,
+          "name": "dwarf"
+        },
+        {
+          "id": 2343,
+          "name": "magic"
+        },
+        {
+          "id": 4152,
+          "name": "kingdom"
+        },
+        {
+          "id": 186,
+          "name": "christianity"
+        },
+        {
+          "id": 1523,
+          "name": "obsession"
+        },
+        {
+          "id": 3930,
+          "name": "bravery"
+        },
+        {
+          "id": 3098,
+          "name": "castle"
+        },
+        {
+          "id": 3347,
+          "name": "volcano"
+        },
+        {
+          "id": 3888,
+          "name": "giant spider"
+        },
+        {
+          "id": 9663,
+          "name": "sequel"
+        },
+        {
+          "id": 9812,
+          "name": "honor"
+        },
+        {
+          "id": 13084,
+          "name": "king"
+        },
+        {
+          "id": 41410,
+          "name": "madness"
+        },
+        {
+          "id": 156761,
+          "name": "split personality"
+        },
+        {
+          "id": 163540,
+          "name": "christ allegory"
+        },
+        {
+          "id": 170362,
+          "name": "fantasy world"
+        },
+        {
+          "id": 177912,
+          "name": "wizard"
+        },
+        {
+          "id": 188270,
+          "name": "epic battle"
+        },
+        {
+          "id": 189092,
+          "name": "journey"
+        },
+        {
+          "id": 189093,
+          "name": "ring"
+        },
+        {
+          "id": 193937,
+          "name": "companionship"
+        },
+        {
+          "id": 195269,
+          "name": "magical creature"
+        },
+        {
+          "id": 207372,
+          "name": "quest"
+        },
+        {
+          "id": 209220,
+          "name": "live action and animation"
+        },
+        {
+          "id": 209374,
+          "name": "hero's journey"
+        },
+        {
+          "id": 211227,
+          "name": "high fantasy"
+        },
+        {
+          "id": 232697,
+          "name": "wraith"
+        },
+        {
+          "id": 234213,
+          "name": "sword and sorcery"
+        },
+        {
+          "id": 239722,
+          "name": "power madness"
+        },
+        {
+          "id": 239797,
+          "name": "complex"
+        },
+        {
+          "id": 240422,
+          "name": "wonder"
+        },
+        {
+          "id": 249821,
+          "name": "trekking"
+        },
+        {
+          "id": 269233,
+          "name": "good versus evil"
+        },
+        {
+          "id": 273158,
+          "name": "sword making"
+        },
+        {
+          "id": 281585,
+          "name": "inspirational"
+        },
+        {
+          "id": 281659,
+          "name": "wistful"
+        },
+        {
+          "id": 291153,
+          "name": "grand"
+        },
+        {
+          "id": 321464,
+          "name": "intense"
+        },
+        {
+          "id": 325782,
+          "name": "cheerful"
+        },
+        {
+          "id": 325795,
+          "name": "dignified"
+        },
+        {
+          "id": 325804,
+          "name": "earnest"
+        },
+        {
+          "id": 325807,
+          "name": "enchant"
+        },
+        {
+          "id": 325835,
+          "name": "melodramatic"
+        },
+        {
+          "id": 325842,
+          "name": "powerful"
+        },
+        {
+          "id": 325849,
+          "name": "sincere"
+        },
+        {
+          "id": 332708,
+          "name": "winged creatures"
+        },
+        {
+          "id": 375250,
+          "name": "epic fantasy"
+        },
+        {
+          "id": 380963,
+          "name": "hobbit"
+        }
+      ],
   "review_count": 1,
   "categories": [
    "Top_Rated",
@@ -14216,8 +15001,8 @@
   "year": 2002,
   "runtime": 115,
   "vote_average": 6.7,
-  "vote_count": null,
-  "popularity": null,
+  "vote_count": 6956,
+  "popularity": 14.0954,
   "adult": false,
   "genres": [
    "Horror",
@@ -14242,7 +15027,88 @@
     "/5lBxPgkZqj7QaMkTew7yr5AkCHH.png"
    ]
   },
-  "keywords": [],
+  "keywords": [
+        {
+          "id": 736,
+          "name": "journalist"
+        },
+        {
+          "id": 2041,
+          "name": "island"
+        },
+        {
+          "id": 793,
+          "name": "drowning"
+        },
+        {
+          "id": 5340,
+          "name": "investigation"
+        },
+        {
+          "id": 6152,
+          "name": "supernatural"
+        },
+        {
+          "id": 2673,
+          "name": "horse"
+        },
+        {
+          "id": 6103,
+          "name": "telephone"
+        },
+        {
+          "id": 9853,
+          "name": "paranormal"
+        },
+        {
+          "id": 9714,
+          "name": "remake"
+        },
+        {
+          "id": 9955,
+          "name": "urban legend"
+        },
+        {
+          "id": 10541,
+          "name": "curse"
+        },
+        {
+          "id": 11322,
+          "name": "female protagonist"
+        },
+        {
+          "id": 13209,
+          "name": "cabin in the woods"
+        },
+        {
+          "id": 162846,
+          "name": "ghost"
+        },
+        {
+          "id": 172784,
+          "name": "well"
+        },
+        {
+          "id": 177185,
+          "name": "videotape"
+        },
+        {
+          "id": 211197,
+          "name": "mysterious death"
+        },
+        {
+          "id": 230095,
+          "name": "terrifying"
+        },
+        {
+          "id": 309974,
+          "name": "absurd"
+        },
+        {
+          "id": 321464,
+          "name": "intense"
+        }
+      ],
   "review_count": 0,
   "categories": [
    "Top_Rated",
@@ -14271,8 +15137,8 @@
   "year": 1994,
   "runtime": 142,
   "vote_average": 8.7,
-  "vote_count": null,
-  "popularity": null,
+  "vote_count": 31728,
+  "popularity": 57.0516,
   "adult": false,
   "genres": [
    "Drama",
@@ -14297,7 +15163,84 @@
     "/1K53E8WXQW76Scg8upBObXSrbgN.png"
    ]
   },
-  "keywords": [],
+  "keywords": [
+        {
+          "id": 378,
+          "name": "prison"
+        },
+        {
+          "id": 6054,
+          "name": "friendship"
+        },
+        {
+          "id": 796,
+          "name": "police brutality"
+        },
+        {
+          "id": 417,
+          "name": "corruption"
+        },
+        {
+          "id": 818,
+          "name": "based on novel or book"
+        },
+        {
+          "id": 6089,
+          "name": "freedom"
+        },
+        {
+          "id": 3929,
+          "name": "hope"
+        },
+        {
+          "id": 2885,
+          "name": "prison cell"
+        },
+        {
+          "id": 4779,
+          "name": "delinquent"
+        },
+        {
+          "id": 11436,
+          "name": "redemption"
+        },
+        {
+          "id": 8622,
+          "name": "parole board"
+        },
+        {
+          "id": 9777,
+          "name": "prison escape"
+        },
+        {
+          "id": 12662,
+          "name": "wrongful imprisonment"
+        },
+        {
+          "id": 165583,
+          "name": "interracial friendship"
+        },
+        {
+          "id": 180172,
+          "name": "framed for murder"
+        },
+        {
+          "id": 207883,
+          "name": "1940s"
+        },
+        {
+          "id": 236369,
+          "name": "voiceover"
+        },
+        {
+          "id": 325765,
+          "name": "amused"
+        },
+        {
+          "id": 377433,
+          "name": "epic"
+        }
+      ],
   "review_count": 1,
   "categories": [
    "Top_Rated",
