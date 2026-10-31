@@ -2077,96 +2077,6 @@
   "logo_url": "https://image.tmdb.org/t/p/original/15acsmzX7oABw0TlT61dUCLo111.png"
  },
  {
-  "id": 961323,
-  "imdb_id": "tt19500164",
-  "title": "Nimona",
-  "original_title": "Nimona",
-  "original_language": "en",
-  "tagline": "A little anti. A little hero.",
-  "overview": "A knight framed for a tragic crime teams with a scrappy, shape-shifting teen to prove his innocence.",
-  "release_date": "2023-06-23",
-  "year": 2023,
-  "runtime": 99,
-  "vote_average": 7.9,
-  "vote_count": 1515,
-  "popularity": 7.1,
-  "adult": false,
-  "genres": [
-   "Animation",
-   "Family",
-   "Fantasy",
-   "Adventure",
-   "Science Fiction",
-   "Action"
-  ],
-  "genre_ids": [
-   16,
-   10751,
-   14,
-   12,
-   878,
-   28
-  ],
-  "trailer_youtube_id": "wW1IMMB8ZDY",
-  "poster_path": "/2NQljeavtfl22207D1kxLpa4LS3.jpg",
-  "backdrop_path": "/sidvlo7V8VMyskNKGwua0Tarbol.jpg",
-  "logo_path": "/yMuiqdlSDyipYQDo6zGoGP6yPta.png",
-  "images": {
-   "posters": [
-    "/2NQljeavtfl22207D1kxLpa4LS3.jpg",
-    "/dF6XNWBhtPRLY5hW6wFMJVunGvF.jpg",
-    "/upJ8tLhlk8aHWcJuTpqGPTpZEVa.jpg",
-    "/8AC34hYrLPDm69765chybuuSjJF.jpg",
-    "/v2Mc1cYGky2qGmyc9jZ3N8dRuvB.jpg"
-   ],
-   "backdrops": [
-    "/sidvlo7V8VMyskNKGwua0Tarbol.jpg",
-    "/4QpKxH614YFIsmiIBVUbsnG2H8w.jpg",
-    "/jJHVy0iInlFTlXLm8MCdaaUyMis.jpg",
-    "/kWR3Vo4KzW2UF3xC2MO01TQFaMw.jpg",
-    "/dqJMDpx7Cmdy8G2QJRDXvzOTRLC.jpg"
-   ],
-   "logos": [
-    "/yMuiqdlSDyipYQDo6zGoGP6yPta.png",
-    "/eNSmbS3UjDUJsxXLgRPCvclygte.png",
-    "/pKr3vfyCfGMSGTpJmPpvH4b0oes.png",
-    "/qm3bvgnavsWXcgswDUqsp2gI4In.png",
-    "/2UnMD5yreqgRZ7GEgaWM0egjTS4.png"
-   ]
-  },
-  "keywords": [
-   "monster",
-   "supernatural",
-   "on the run",
-   "knight",
-   "based on graphic novel",
-   "metamorphosis",
-   "lgbt",
-   "shape shifter",
-   "unlikely friendship",
-   "girl power",
-   "imaginative",
-   "3d animation",
-   "heartfelt",
-   "teenager",
-   "science fantasy"
-  ],
-  "review_count": 4,
-  "categories": [
-   "Action"
-  ],
-  "slug": "nimona-2023",
-  "language": "English",
-  "runtime_text": "1h 39m",
-  "rating_percent": 79,
-  "imdb_url": "https://www.imdb.com/title/tt19500164/",
-  "trailer_url": "https://www.youtube.com/watch?v=wW1IMMB8ZDY",
-  "trailer_embed_url": "https://www.youtube.com/embed/wW1IMMB8ZDY",
-  "poster_url": "https://image.tmdb.org/t/p/original/2NQljeavtfl22207D1kxLpa4LS3.jpg",
-  "backdrop_url": "https://image.tmdb.org/t/p/original/sidvlo7V8VMyskNKGwua0Tarbol.jpg",
-  "logo_url": "https://image.tmdb.org/t/p/original/yMuiqdlSDyipYQDo6zGoGP6yPta.png"
- },
- {
   "id": 939243,
   "imdb_id": "tt18259086",
   "title": "Sonic the Hedgehog 3",
@@ -3883,83 +3793,6 @@
   "poster_url": "https://image.tmdb.org/t/p/original/dncJ81z1BahrT3ogLvlxOUC5n4u.jpg",
   "backdrop_url": "https://image.tmdb.org/t/p/original/8dXR9R0NUo4eyS4hnYOsCywmo16.jpg",
   "logo_url": "https://image.tmdb.org/t/p/original/jU5GX2LcB2olrcyKcvURpRkkjY8.png"
- },
- {
-  "id": 116711,
-  "imdb_id": "tt0848537",
-  "title": "Epic",
-  "original_title": "Epic",
-  "original_language": "en",
-  "tagline": "Discover a world beyond your imagination.",
-  "overview": "A teenager finds herself transported to a deep forest setting where a battle between the forces of good and the forces of evil is taking place. She bands together with a rag-tag group characters in order to save their world—and ours.",
-  "release_date": "2013-05-15",
-  "year": 2013,
-  "runtime": 102,
-  "vote_average": 6.6,
-  "vote_count": 3026,
-  "popularity": 11.2,
-  "adult": false,
-  "genres": [
-   "Animation",
-   "Adventure",
-   "Family",
-   "Fantasy"
-  ],
-  "genre_ids": [
-   16,
-   12,
-   10751,
-   14
-  ],
-  "trailer_youtube_id": "_KqNCnd8AN4",
-  "poster_path": "/81cSsWzjTfR3cJSqnTiHwy1eyPK.jpg",
-  "backdrop_path": "/zFyuN8vF2XNSzxIdACES0IyNrhK.jpg",
-  "logo_path": "/f5OOxOPupEktguZ4Emk86zdT62k.png",
-  "images": {
-   "posters": [
-    "/81cSsWzjTfR3cJSqnTiHwy1eyPK.jpg",
-    "/rdi6MYgAhLlgomEERtmYtrH8ItY.jpg",
-    "/14MfGD7KPXdW9R0gabDNRVN028C.jpg",
-    "/gNmdy8Lzc4tNAWaHioMAMhGvsOj.jpg",
-    "/oAm7ibxTluhXhS0BjkDlEtJPJo8.jpg"
-   ],
-   "backdrops": [
-    "/zFyuN8vF2XNSzxIdACES0IyNrhK.jpg",
-    "/5j0lMZSyzzEewFu0VbkM4iIZij2.jpg",
-    "/73XSxZAzvJTL61kxtuYgv7A5T8d.jpg",
-    "/7rVqbg1GTX7L6CM49QEWsUF8OVO.jpg",
-    "/m0Ks26tAyCte2nSw5edWpSMAMOF.jpg"
-   ],
-   "logos": [
-    "/f5OOxOPupEktguZ4Emk86zdT62k.png",
-    "/yOeJbZd6jSb8YV1uTBfK3ebF2Y7.png",
-    "/qdH4vAXidYLZmj5Rtc50hojEVg0.png",
-    "/7bCBsJiPqwzP7oqBboC2TVUeJAz.png"
-   ]
-  },
-  "keywords": [
-   "daughter",
-   "villain",
-   "father",
-   "forest",
-   "nature",
-   "miniature people",
-   "3d animation"
-  ],
-  "review_count": 0,
-  "categories": [
-   "Adventure"
-  ],
-  "slug": "epic-2013",
-  "language": "English",
-  "runtime_text": "1h 42m",
-  "rating_percent": 66,
-  "imdb_url": "https://www.imdb.com/title/tt0848537/",
-  "trailer_url": "https://www.youtube.com/watch?v=_KqNCnd8AN4",
-  "trailer_embed_url": "https://www.youtube.com/embed/_KqNCnd8AN4",
-  "poster_url": "https://image.tmdb.org/t/p/original/81cSsWzjTfR3cJSqnTiHwy1eyPK.jpg",
-  "backdrop_url": "https://image.tmdb.org/t/p/original/zFyuN8vF2XNSzxIdACES0IyNrhK.jpg",
-  "logo_url": "https://image.tmdb.org/t/p/original/f5OOxOPupEktguZ4Emk86zdT62k.png"
  },
  {
   "id": 127380,
@@ -5750,89 +5583,6 @@
   "logo_url": "https://image.tmdb.org/t/p/original/hrAeReyKsy89ue9bMWKuTJ57GGz.png"
  },
  {
-  "id": 976573,
-  "imdb_id": "tt15789038",
-  "title": "Elemental",
-  "original_title": "Elemental",
-  "original_language": "en",
-  "tagline": "Opposites react.",
-  "overview": "In a city where fire, water, land and air residents live together, a fiery young woman and a go-with-the-flow guy will discover something elemental: how much they have in common.",
-  "release_date": "2023-06-14",
-  "year": 2023,
-  "runtime": 102,
-  "vote_average": 7.6,
-  "vote_count": 5574,
-  "popularity": 21.3,
-  "adult": false,
-  "genres": [
-   "Animation",
-   "Comedy",
-   "Family",
-   "Romance"
-  ],
-  "genre_ids": [
-   16,
-   35,
-   10751,
-   10749
-  ],
-  "trailer_youtube_id": "k9YQgsQSGSw",
-  "poster_path": "/gzuZ1ZOJHZuCOfbn5yv7StX0cjs.jpg",
-  "backdrop_path": "/4fLZUr1e65hKPPVw0R3PmKFKxj1.jpg",
-  "logo_path": "/aYT1V9U0LjgCosicUA3oLnFF53x.png",
-  "images": {
-   "posters": [
-    "/gzuZ1ZOJHZuCOfbn5yv7StX0cjs.jpg",
-    "/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg",
-    "/gRkfQ25Hd5afFSzYN2zsIoM1XQS.jpg",
-    "/rvSzdzwfRjAeESh1BPIxjf4eklN.jpg",
-    "/hIf8BUYEozn8Ox7iFm7AjUgfNgK.jpg"
-   ],
-   "backdrops": [
-    "/4fLZUr1e65hKPPVw0R3PmKFKxj1.jpg",
-    "/5luaIi1lLzLfgl8oywifeUtPN6W.jpg",
-    "/jZIYaISP3GBSrVOPfrp98AMa8Ng.jpg",
-    "/6YInbRTk39ckuLYFmUgBCKcKNjb.jpg",
-    "/cXaMNKDkm7IrW7YArS8zcdQqcHc.jpg"
-   ],
-   "logos": [
-    "/aYT1V9U0LjgCosicUA3oLnFF53x.png",
-    "/nQ3Ikwq6pGKllRaifs1ghXA1OWq.png",
-    "/60q7W37nnnUPTNBEnKdsMiLrvxA.png",
-    "/vDXknbhhOheny2clNUWxQm5vCmN.png",
-    "/AbD1RP742UYVGG1qpEM5jjgcQ9F.png"
-   ]
-  },
-  "keywords": [
-   "fire",
-   "earth",
-   "computer animation",
-   "duringcreditsstinger",
-   "elements",
-   "water",
-   "3d animation",
-   "city",
-   "lighthearted",
-   "whimsical",
-   "hopeful",
-   "pixar"
-  ],
-  "review_count": 7,
-  "categories": [
-   "Animation"
-  ],
-  "slug": "elemental-2023",
-  "language": "English",
-  "runtime_text": "1h 42m",
-  "rating_percent": 76,
-  "imdb_url": "https://www.imdb.com/title/tt15789038/",
-  "trailer_url": "https://www.youtube.com/watch?v=k9YQgsQSGSw",
-  "trailer_embed_url": "https://www.youtube.com/embed/k9YQgsQSGSw",
-  "poster_url": "https://image.tmdb.org/t/p/original/gzuZ1ZOJHZuCOfbn5yv7StX0cjs.jpg",
-  "backdrop_url": "https://image.tmdb.org/t/p/original/4fLZUr1e65hKPPVw0R3PmKFKxj1.jpg",
-  "logo_url": "https://image.tmdb.org/t/p/original/aYT1V9U0LjgCosicUA3oLnFF53x.png"
- },
- {
   "id": 150540,
   "imdb_id": "tt2096673",
   "title": "Inside Out",
@@ -6117,86 +5867,6 @@
   "logo_url": "https://image.tmdb.org/t/p/original/7bfRNJWmYIwyca2kFyd031wwaJm.png"
  },
  {
-  "id": 15512,
-  "imdb_id": "tt0892782",
-  "title": "Monsters vs Aliens",
-  "original_title": "Monsters vs Aliens",
-  "original_language": "en",
-  "tagline": "Saving the day the monster way.",
-  "overview": "When Susan Murphy is unwittingly clobbered by a meteor full of outer space gunk on her wedding day, she mysteriously grows to 49-feet-11-inches. The military jumps into action and captures Susan, secreting her away to a covert government compound. She is renamed Ginormica and placed in confinement with a ragtag group of Monsters...",
-  "release_date": "2009-03-19",
-  "year": 2009,
-  "runtime": 94,
-  "vote_average": 6.3,
-  "vote_count": 5152,
-  "popularity": 26.3,
-  "adult": false,
-  "genres": [
-   "Animation",
-   "Family",
-   "Adventure",
-   "Science Fiction"
-  ],
-  "genre_ids": [
-   16,
-   10751,
-   12,
-   878
-  ],
-  "trailer_youtube_id": "FdUHm-XThnk",
-  "poster_path": "/hpHarddVj34j53T7NsoUGdKj4mP.jpg",
-  "backdrop_path": "/fbxZeJEcyf76oEQIGmotlclwmiH.jpg",
-  "logo_path": "/bFFhGw5wmUiCkz1T5PzYugnGV37.png",
-  "images": {
-   "posters": [
-    "/hpHarddVj34j53T7NsoUGdKj4mP.jpg",
-    "/xapbaya01U9SFY7jaQjE4NBJOqD.jpg",
-    "/iDKQEevFHSzopWLMpySp9IpP5xW.jpg",
-    "/aao1lKR87XFasISD3rr6UzkZyJ0.jpg",
-    "/ugfIi08q1LbOnBgsJZFWJy5Gvz4.jpg"
-   ],
-   "backdrops": [
-    "/fbxZeJEcyf76oEQIGmotlclwmiH.jpg",
-    "/na71ASQOjgIkLc3xkqXghyHc2UK.jpg",
-    "/bpGyWU18xZFTx2fKBBm1um1EPqm.jpg",
-    "/gUIyXIjQIFlmeXVcmVDAaKhhk04.jpg",
-    "/akcFhNdibYAsGUOfUhb5y1rFTet.jpg"
-   ],
-   "logos": [
-    "/bFFhGw5wmUiCkz1T5PzYugnGV37.png",
-    "/tSSsSlXKiwUfdh6bW1eeI1xvsyo.png",
-    "/3UTMIdQVfXjE57iyYATkTV6ksPD.png",
-    "/fr80bdyRmyk2Jqu4YY5IgR7TXDE.png",
-    "/bevwgDC5YF15UlhKOH5oogTo0dq.png"
-   ]
-  },
-  "keywords": [
-   "monster",
-   "villain",
-   "alien",
-   "giant robot",
-   "aftercreditsstinger",
-   "duringcreditsstinger",
-   "3d animation",
-   "3d",
-   "witty"
-  ],
-  "review_count": 0,
-  "categories": [
-   "Animation"
-  ],
-  "slug": "monsters-vs-aliens-2009",
-  "language": "English",
-  "runtime_text": "1h 34m",
-  "rating_percent": 63,
-  "imdb_url": "https://www.imdb.com/title/tt0892782/",
-  "trailer_url": "https://www.youtube.com/watch?v=FdUHm-XThnk",
-  "trailer_embed_url": "https://www.youtube.com/embed/FdUHm-XThnk",
-  "poster_url": "https://image.tmdb.org/t/p/original/hpHarddVj34j53T7NsoUGdKj4mP.jpg",
-  "backdrop_url": "https://image.tmdb.org/t/p/original/fbxZeJEcyf76oEQIGmotlclwmiH.jpg",
-  "logo_url": "https://image.tmdb.org/t/p/original/bFFhGw5wmUiCkz1T5PzYugnGV37.png"
- },
- {
   "id": 585,
   "imdb_id": "tt0198781",
   "title": "Monsters, Inc.",
@@ -6295,181 +5965,6 @@
   "poster_url": "https://image.tmdb.org/t/p/original/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg",
   "backdrop_url": "https://image.tmdb.org/t/p/original/c7VbRPlev1bRfKvTxr98erw5T7B.jpg",
   "logo_url": "https://image.tmdb.org/t/p/original/grDBSGzGzDDvKezYNQWB65MkJXu.png"
- },
- {
-  "id": 808,
-  "imdb_id": "tt0126029",
-  "title": "Shrek",
-  "original_title": "Shrek",
-  "original_language": "en",
-  "tagline": "The greatest fairy tale never told.",
-  "overview": "It ain't easy bein' green -- especially if you're a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot -- a wisecracking donkey.",
-  "release_date": "2001-05-18",
-  "year": 2001,
-  "runtime": 90,
-  "vote_average": 7.8,
-  "vote_count": 19411,
-  "popularity": 41.2,
-  "adult": false,
-  "genres": [
-   "Animation",
-   "Comedy",
-   "Fantasy",
-   "Adventure",
-   "Family"
-  ],
-  "genre_ids": [
-   16,
-   35,
-   14,
-   12,
-   10751
-  ],
-  "trailer_youtube_id": "ppDwfm6e498",
-  "poster_path": "/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
-  "backdrop_path": "/w0eKUOEog2ImtktCHAMUZws8qif.jpg",
-  "logo_path": "/mEtAnquVJzgMwmBeZNw4fhccj2s.png",
-  "images": {
-   "posters": [
-    "/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
-    "/o04jZs5SXhbvhqO4981W7KJXOWZ.jpg",
-    "/EKERKucZeBrkrR8xLDTkr5FeDc.jpg",
-    "/dyhaB19AICF7TO7CK2aD6KfymnQ.jpg",
-    "/rkT5zCK1Zock3t8Y6YhuLPSrcou.jpg"
-   ],
-   "backdrops": [
-    "/w0eKUOEog2ImtktCHAMUZws8qif.jpg",
-    "/sRvXNDItGlWCqtO3j6wks52FmbD.jpg",
-    "/40Wtp7kMG6mZ4d5T1jfrd8qrvD4.jpg",
-    "/bNTHSd3UqqLzIVwbDOGPnx3ScfF.jpg",
-    "/2l5UHZBcp9cx1PwKLdisJ0gV9jB.jpg"
-   ],
-   "logos": [
-    "/mEtAnquVJzgMwmBeZNw4fhccj2s.png",
-    "/aHdDXMXOAgejOVoupZBULvcfcQG.png",
-    "/pSSX3dnrxetgC3W8fsRLmg7B8Ck.png",
-    "/cmsvFO1fNqVYP6LFVDqdmTEB8OO.png",
-    "/umTNMGhw7keHIYOSpJh0bfYVnDt.png"
-   ]
-  },
-  "keywords": [
-   "princess",
-   "based on novel or book",
-   "magic",
-   "fairy tale",
-   "donkey",
-   "liberation",
-   "lordship",
-   "prince",
-   "castle",
-   "villain",
-   "robin hood",
-   "enchantment",
-   "swamp",
-   "parody",
-   "anthropomorphism",
-   "dragon",
-   "woman director",
-   "ogre",
-   "satirical",
-   "wonder",
-   "3d animation",
-   "grand",
-   "cartoon donkey",
-   "witty",
-   "romantic",
-   "admiring",
-   "appreciative",
-   "bold"
-  ],
-  "review_count": 4,
-  "categories": [
-   "Animation"
-  ],
-  "slug": "shrek-2001",
-  "language": "English",
-  "runtime_text": "1h 30m",
-  "rating_percent": 78,
-  "imdb_url": "https://www.imdb.com/title/tt0126029/",
-  "trailer_url": "https://www.youtube.com/watch?v=ppDwfm6e498",
-  "trailer_embed_url": "https://www.youtube.com/embed/ppDwfm6e498",
-  "poster_url": "https://image.tmdb.org/t/p/original/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
-  "backdrop_url": "https://image.tmdb.org/t/p/original/w0eKUOEog2ImtktCHAMUZws8qif.jpg",
-  "logo_url": "https://image.tmdb.org/t/p/original/mEtAnquVJzgMwmBeZNw4fhccj2s.png"
- },
- {
-  "id": 22794,
-  "imdb_id": "tt0844471",
-  "title": "Cloudy with a Chance of Meatballs",
-  "original_title": "Cloudy with a Chance of Meatballs",
-  "original_language": "en",
-  "tagline": "Prepare to get served.",
-  "overview": "Inventor Flint Lockwood creates a machine that makes clouds rain food, enabling the down-and-out citizens of Chewandswallow to feed themselves. But when the falling food reaches gargantuan proportions, Flint must scramble to avert disaster. Can he regain control of the machine and put an end to the wild weather before the town is destroyed?",
-  "release_date": "2009-09-17",
-  "year": 2009,
-  "runtime": 90,
-  "vote_average": 6.7,
-  "vote_count": 6669,
-  "popularity": 16.6,
-  "adult": false,
-  "genres": [
-   "Animation",
-   "Comedy",
-   "Family"
-  ],
-  "genre_ids": [
-   16,
-   35,
-   10751
-  ],
-  "trailer_youtube_id": "uL_8wtHSs80",
-  "poster_path": "/qhOhIKf7QEyQ5dMrRUqs5eTX1Oq.jpg",
-  "backdrop_path": "/doNIj6jX27hhfcbD6GEb22ydLSF.jpg",
-  "logo_path": "/shJ42Q15iN1NlTaKbK1G49hLPzW.png",
-  "images": {
-   "posters": [
-    "/qhOhIKf7QEyQ5dMrRUqs5eTX1Oq.jpg",
-    "/hSFnUubrQRTPwhffn1YhJqfGHH4.jpg",
-    "/g8iZQa12yXjSAaEsX88qg4QseLM.jpg",
-    "/thn6V8T3t0YhRVKm6YIuPKAh29S.jpg",
-    "/lHckdNZHmBYtw7u5efmupdHKBS8.jpg"
-   ],
-   "backdrops": [
-    "/doNIj6jX27hhfcbD6GEb22ydLSF.jpg",
-    "/cslS1Er64IP0t5VKCqQh435NeFd.jpg",
-    "/kJ8jPMb7XA4ow1GQTMMlUOWs4Vx.jpg",
-    "/xH1IIF9SIe9XZrK1kf4ZYRfcVzw.jpg",
-    "/aYtmZND6u0dLUMpiIFmHBADiTyv.jpg"
-   ],
-   "logos": [
-    "/shJ42Q15iN1NlTaKbK1G49hLPzW.png",
-    "/nSwh4UGQMalKN9EqqKz3i9ByFfU.png",
-    "/rswjMOt2dYwpNC88fmBWUF2SYTv.png"
-   ]
-  },
-  "keywords": [
-   "based on novel or book",
-   "inventor",
-   "weather",
-   "food",
-   "based on children's book",
-   "3d animation",
-   "hopeful"
-  ],
-  "review_count": 1,
-  "categories": [
-   "Comedy"
-  ],
-  "slug": "cloudy-with-a-chance-of-meatballs-2009",
-  "language": "English",
-  "runtime_text": "1h 30m",
-  "rating_percent": 67,
-  "imdb_url": "https://www.imdb.com/title/tt0844471/",
-  "trailer_url": "https://www.youtube.com/watch?v=uL_8wtHSs80",
-  "trailer_embed_url": "https://www.youtube.com/embed/uL_8wtHSs80",
-  "poster_url": "https://image.tmdb.org/t/p/original/qhOhIKf7QEyQ5dMrRUqs5eTX1Oq.jpg",
-  "backdrop_url": "https://image.tmdb.org/t/p/original/doNIj6jX27hhfcbD6GEb22ydLSF.jpg",
-  "logo_url": "https://image.tmdb.org/t/p/original/shJ42Q15iN1NlTaKbK1G49hLPzW.png"
  },
  {
   "id": 953,
@@ -9478,78 +8973,6 @@
   "logo_url": "https://image.tmdb.org/t/p/original/8v2NlA8Out9u1oWCNVdEt2I1OWB.png"
  },
  {
-  "id": 739547,
-  "imdb_id": "tt10442352",
-  "title": "Thelma the Unicorn",
-  "original_title": "Thelma the Unicorn",
-  "original_language": "en",
-  "tagline": null,
-  "overview": "Thelma dreams of being a glamorous unicorn. Then in a rare pink and glitter-filled moment of fate, Thelma's wish comes true. She rises to instant international stardom, but at an unexpected cost. After a while, Thelma realizes that she was happier as her ordinary, sparkle-free self. So she ditches her horn, scrubs off her sparkles, and returns home, where her best friend is waiting for her with a hug.",
-  "release_date": "2024-05-17",
-  "year": 2024,
-  "runtime": 93,
-  "vote_average": 6.9,
-  "vote_count": 201,
-  "popularity": 7.5,
-  "adult": false,
-  "genres": [
-   "Animation",
-   "Fantasy",
-   "Family"
-  ],
-  "genre_ids": [
-   16,
-   14,
-   10751
-  ],
-  "trailer_youtube_id": "8K1k1tYS3RQ",
-  "poster_path": "/buJdbCQ4Lj18y3cM2nzOC0JjlTp.jpg",
-  "backdrop_path": "/3r9aPVVNuCXNOFFXsL03abZs9xF.jpg",
-  "logo_path": "/eTLui31dSW2VGWHZAnb01wpHGFV.png",
-  "images": {
-   "posters": [
-    "/buJdbCQ4Lj18y3cM2nzOC0JjlTp.jpg",
-    "/yutiEZ7taGDNau2jGjKIdDwQpDw.jpg",
-    "/9MTLihcNijb4eyDEyx0vX3DrSLk.jpg",
-    "/8fEJ3B7I0rUiHNEc159u6EAMEax.jpg",
-    "/yDJA7mDfoHX9h4t2mKNbbZpZNPi.jpg"
-   ],
-   "backdrops": [
-    "/3r9aPVVNuCXNOFFXsL03abZs9xF.jpg",
-    "/AuKXTyCVzeIdtTe1NAQnJa1ZC7I.jpg",
-    "/iCILWXdJrHFc9OBIO0VeRjyb8Y3.jpg",
-    "/z2pz61mKGb0P8qVMGbv25t9KSkP.jpg",
-    "/9c6YcIUJ1hxoCnoPs3HU4Bgy6Uj.jpg"
-   ],
-   "logos": [
-    "/eTLui31dSW2VGWHZAnb01wpHGFV.png",
-    "/h2o5HEUzWQWuqC7u7umTKku1Nsm.png"
-   ]
-  },
-  "keywords": [
-   "based on novel or book",
-   "musical",
-   "pony",
-   "unicorn",
-   "stardom",
-   "3d animation"
-  ],
-  "review_count": 0,
-  "categories": [
-   "Fantasy"
-  ],
-  "slug": "thelma-the-unicorn-2024",
-  "language": "English",
-  "runtime_text": "1h 33m",
-  "rating_percent": 69,
-  "imdb_url": "https://www.imdb.com/title/tt10442352/",
-  "trailer_url": "https://www.youtube.com/watch?v=8K1k1tYS3RQ",
-  "trailer_embed_url": "https://www.youtube.com/embed/8K1k1tYS3RQ",
-  "poster_url": "https://image.tmdb.org/t/p/original/buJdbCQ4Lj18y3cM2nzOC0JjlTp.jpg",
-  "backdrop_url": "https://image.tmdb.org/t/p/original/3r9aPVVNuCXNOFFXsL03abZs9xF.jpg",
-  "logo_url": "https://image.tmdb.org/t/p/original/eTLui31dSW2VGWHZAnb01wpHGFV.png"
- },
- {
   "id": 718789,
   "imdb_id": "tt10298810",
   "title": "Lightyear",
@@ -12096,11 +11519,13 @@
    53
   ],
   "trailer_youtube_id": "bwEQ20rN42s",
-  "poster_path": null,
+  "poster_path": "/cHKo3m8N1fwvEy2ZEr0xGmmMODV.jpg",
   "backdrop_path": "/zXINNssll2zsPGqd7F7Llrw7Uql.jpg",
   "logo_path": "/wUWwOXuV4nsSqj3NP5NyV2YdXQw.png",
   "images": {
-   "posters": [],
+   "posters": [
+    "/cHKo3m8N1fwvEy2ZEr0xGmmMODV.jpg"
+   ],
    "backdrops": [
     "/zXINNssll2zsPGqd7F7Llrw7Uql.jpg",
     "/tn95fumbkVAgXjOuw9CQOg0aYQz.jpg",
@@ -12141,7 +11566,7 @@
   "imdb_url": "https://www.imdb.com/title/tt34610311/",
   "trailer_url": "https://www.youtube.com/watch?v=bwEQ20rN42s",
   "trailer_embed_url": "https://www.youtube.com/embed/bwEQ20rN42s",
-  "poster_url": null,
+  "poster_url": "https://image.tmdb.org/t/p/original/cHKo3m8N1fwvEy2ZEr0xGmmMODV.jpg",
   "backdrop_url": "https://image.tmdb.org/t/p/original/zXINNssll2zsPGqd7F7Llrw7Uql.jpg",
   "logo_url": "https://image.tmdb.org/t/p/original/wUWwOXuV4nsSqj3NP5NyV2YdXQw.png"
  },
@@ -14279,5 +13704,614 @@
   "poster_url": "https://image.tmdb.org/t/p/original/3K93GWotLXe4FqpErri0xkpLaD5.jpg",
   "backdrop_url": "https://image.tmdb.org/t/p/original/sPantp0oQ9idos7Jdwko2r6ZOIa.jpg",
   "logo_url": "https://image.tmdb.org/t/p/original/anPUcSUkSlwP7bw7oi6kDRRyfjE.png"
+ },
+ {
+  "id": 671,
+  "imdb_id": "tt0241527",
+  "title": "Harry Potter and the Philosopher's Stone",
+  "original_title": "Harry Potter and the Philosopher's Stone",
+  "original_language": "en",
+  "tagline": "Let the magic begin.",
+  "overview": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard—with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths—and about the villain who's to blame.",
+  "release_date": "2001-11-16",
+  "year": 2001,
+  "runtime": 152,
+  "vote_average": 7.905,
+  "vote_count": null,
+  "popularity": null,
+  "adult": false,
+  "genres": [
+   "Adventure",
+   "Fantasy"
+  ],
+  "genre_ids": [
+   12,
+   14
+  ],
+  "trailer_youtube_id": "phdwdrPs3Bo",
+  "poster_path": "/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
+  "backdrop_path": "/5jkE2SzR5uR2egEb1rRhF22JyWN.jpg",
+  "logo_path": "/n7Pj4doQ1yfElCiGTGFTvzoQkpf.png",
+  "images": {
+   "posters": [
+    "/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg"
+   ],
+   "backdrops": [
+    "/5jkE2SzR5uR2egEb1rRhF22JyWN.jpg"
+   ],
+   "logos": [
+    "/n7Pj4doQ1yfElCiGTGFTvzoQkpf.png"
+   ]
+  },
+  "keywords": [],
+  "review_count": 5,
+  "categories": [
+   "Fantasy"
+  ],
+  "slug": "harry-potter-and-the-philosophers-stone-2001",
+  "language": "English",
+  "runtime_text": "2h 32m",
+  "rating_percent": 79,
+  "imdb_url": "https://www.imdb.com/title/tt0241527/",
+  "trailer_url": "https://www.youtube.com/watch?v=phdwdrPs3Bo",
+  "trailer_embed_url": "https://www.youtube.com/embed/phdwdrPs3Bo",
+  "poster_url": "https://image.tmdb.org/t/p/original/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/original/5jkE2SzR5uR2egEb1rRhF22JyWN.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/original/n7Pj4doQ1yfElCiGTGFTvzoQkpf.png"
+ },
+ {
+  "id": 8840,
+  "imdb_id": "tt0116136",
+  "title": "DragonHeart",
+  "original_title": "DragonHeart",
+  "original_language": "en",
+  "tagline": "You will believe.",
+  "overview": "In an ancient time when majestic fire-breathers soared through the skies, a knight named Bowen comes face to face and heart to heart with the last dragon on Earth, Draco. Taking up arms to suppress a tyrant king, Bowen soon realizes his task will be harder than he'd imagined: If he kills the king, Draco will die as well.",
+  "release_date": "1996-05-31",
+  "year": 1996,
+  "runtime": 103,
+  "vote_average": 6.582,
+  "vote_count": null,
+  "popularity": null,
+  "adult": false,
+  "genres": [
+   "Fantasy",
+   "Action",
+   "Adventure",
+   "Drama"
+  ],
+  "genre_ids": [
+   14,
+   28,
+   12,
+   18
+  ],
+  "trailer_youtube_id": "7MSLlD8lQ5k",
+  "poster_path": "/1J2FvxEoEKMFT9TjUdfhm0MJhZD.jpg",
+  "backdrop_path": "/xbqluNfftDJtxDsqcpx9kKme4LF.jpg",
+  "logo_path": "/bQ4nKm1prrpUEPEPauKJHX1biBq.png",
+  "images": {
+   "posters": [
+    "/1J2FvxEoEKMFT9TjUdfhm0MJhZD.jpg"
+   ],
+   "backdrops": [
+    "/xbqluNfftDJtxDsqcpx9kKme4LF.jpg"
+   ],
+   "logos": [
+    "/bQ4nKm1prrpUEPEPauKJHX1biBq.png"
+   ]
+  },
+  "keywords": [],
+  "review_count": 1,
+  "categories": [
+   "Fantasy"
+  ],
+  "slug": "dragonheart-1996",
+  "language": "English",
+  "runtime_text": "1h 43m",
+  "rating_percent": 66,
+  "imdb_url": "https://www.imdb.com/title/tt0116136/",
+  "trailer_url": "https://www.youtube.com/watch?v=7MSLlD8lQ5k",
+  "trailer_embed_url": "https://www.youtube.com/embed/7MSLlD8lQ5k",
+  "poster_url": "https://image.tmdb.org/t/p/original/1J2FvxEoEKMFT9TjUdfhm0MJhZD.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/original/xbqluNfftDJtxDsqcpx9kKme4LF.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/original/bQ4nKm1prrpUEPEPauKJHX1biBq.png"
+ },
+ {
+  "id": 49051,
+  "imdb_id": "tt0903624",
+  "title": "The Hobbit: An Unexpected Journey",
+  "original_title": "The Hobbit: An Unexpected Journey",
+  "original_language": "en",
+  "tagline": "From the smallest beginnings come the greatest legends.",
+  "overview": "Bilbo Baggins, a hobbit enjoying his quiet life, is swept into an epic quest by Gandalf the Grey and thirteen dwarves who seek to reclaim their mountain home from Smaug, the dragon.",
+  "release_date": "2012-12-12",
+  "year": 2012,
+  "runtime": 169,
+  "vote_average": 7.385,
+  "vote_count": null,
+  "popularity": null,
+  "adult": false,
+  "genres": [
+   "Adventure",
+   "Fantasy",
+   "Action"
+  ],
+  "genre_ids": [
+   12,
+   14,
+   28
+  ],
+  "trailer_youtube_id": "CXqZK-nbZ74",
+  "poster_path": "/yHA9Fc37VmpUA5UncTxxo3rTGVA.jpg",
+  "backdrop_path": "/xyXmtuvsoM5J3yNad0nvcetpBdY.jpg",
+  "logo_path": "/h5DwmLJAw9xr9Sx33G0ckg7yjTB.png",
+  "images": {
+   "posters": [
+    "/yHA9Fc37VmpUA5UncTxxo3rTGVA.jpg"
+   ],
+   "backdrops": [
+    "/xyXmtuvsoM5J3yNad0nvcetpBdY.jpg"
+   ],
+   "logos": [
+    "/h5DwmLJAw9xr9Sx33G0ckg7yjTB.png"
+   ]
+  },
+  "keywords": [],
+  "review_count": 7,
+  "categories": [
+   "Fantasy"
+  ],
+  "slug": "the-hobbit-an-unexpected-journey-2012",
+  "language": "English",
+  "runtime_text": "2h 49m",
+  "rating_percent": 74,
+  "imdb_url": "https://www.imdb.com/title/tt0903624/",
+  "trailer_url": "https://www.youtube.com/watch?v=CXqZK-nbZ74",
+  "trailer_embed_url": "https://www.youtube.com/embed/CXqZK-nbZ74",
+  "poster_url": "https://image.tmdb.org/t/p/original/yHA9Fc37VmpUA5UncTxxo3rTGVA.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/original/xyXmtuvsoM5J3yNad0nvcetpBdY.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/original/h5DwmLJAw9xr9Sx33G0ckg7yjTB.png"
+ },
+ {
+  "id": 81005,
+  "imdb_id": "tt1351685",
+  "title": "Jack the Giant Slayer",
+  "original_title": "Jack the Giant Slayer",
+  "original_language": "en",
+  "tagline": "Prepare for a giant adventure",
+  "overview": "The story of an ancient war that is reignited when a young farmhand unwittingly opens a gateway between our world and a fearsome race of giants. Unleashed on the Earth for the first time in centuries, the giants strive to reclaim the land they once lost, forcing the young man, Jack into the battle of his life to stop them. Fighting for a kingdom, its people, and the love of a brave princess, he comes face to face with the unstoppable warriors he thought only existed in legend–and gets the chance to become a legend himself.",
+  "release_date": "2013-02-27",
+  "year": 2013,
+  "runtime": 114,
+  "vote_average": 5.918,
+  "vote_count": null,
+  "popularity": null,
+  "adult": false,
+  "genres": [
+   "Fantasy",
+   "Action",
+   "Adventure"
+  ],
+  "genre_ids": [
+   14,
+   28,
+   12
+  ],
+  "trailer_youtube_id": "xpkcEIsgGmU",
+  "poster_path": "/9jSI7saUX9Qz0JLh19jX2ulEwL7.jpg",
+  "backdrop_path": "/djSAd6HUm66eVNC3PiZbYwOpD5A.jpg",
+  "logo_path": "/f4fr0urYNZoSu2C53gX3RbJ3xjq.png",
+  "images": {
+   "posters": [
+    "/9jSI7saUX9Qz0JLh19jX2ulEwL7.jpg"
+   ],
+   "backdrops": [
+    "/djSAd6HUm66eVNC3PiZbYwOpD5A.jpg"
+   ],
+   "logos": [
+    "/f4fr0urYNZoSu2C53gX3RbJ3xjq.png"
+   ]
+  },
+  "keywords": [],
+  "review_count": 4,
+  "categories": [
+   "Fantasy"
+  ],
+  "slug": "jack-the-giant-slayer-2013",
+  "language": "English",
+  "runtime_text": "1h 54m",
+  "rating_percent": 59,
+  "imdb_url": "https://www.imdb.com/title/tt1351685/",
+  "trailer_url": "https://www.youtube.com/watch?v=xpkcEIsgGmU",
+  "trailer_embed_url": "https://www.youtube.com/embed/xpkcEIsgGmU",
+  "poster_url": "https://image.tmdb.org/t/p/original/9jSI7saUX9Qz0JLh19jX2ulEwL7.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/original/djSAd6HUm66eVNC3PiZbYwOpD5A.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/original/f4fr0urYNZoSu2C53gX3RbJ3xjq.png"
+ },
+ {
+  "id": 389,
+  "imdb_id": "tt0050083",
+  "title": "12 Angry Men",
+  "original_title": "12 Angry Men",
+  "original_language": "en",
+  "tagline": "It explodes like 12 sticks of dynamite!",
+  "overview": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
+  "release_date": "1957-04-10",
+  "year": 1957,
+  "runtime": 97,
+  "vote_average": 8.6,
+  "vote_count": null,
+  "popularity": null,
+  "adult": false,
+  "genres": [
+   "Drama"
+  ],
+  "genre_ids": [
+   18
+  ],
+  "trailer_youtube_id": "TEN-2uTi2c0",
+  "poster_path": "/zhG3vKWyDRaZYoaww1UVAi29T9h.jpg",
+  "backdrop_path": "/qqHQsStV6exghCM7zbObuYBiYxw.jpg",
+  "logo_path": "/4MswIYfPj61xKIIkkAEjk6mjlHL.png",
+  "images": {
+   "posters": [
+    "/zhG3vKWyDRaZYoaww1UVAi29T9h.jpg"
+   ],
+   "backdrops": [
+    "/qqHQsStV6exghCM7zbObuYBiYxw.jpg"
+   ],
+   "logos": [
+    "/4MswIYfPj61xKIIkkAEjk6mjlHL.png"
+   ]
+  },
+  "keywords": [],
+  "review_count": 1,
+  "categories": [
+   "Top_Rated",
+   "Drama"
+  ],
+  "slug": "12-angry-men-1957",
+  "language": "English",
+  "runtime_text": "1h 37m",
+  "rating_percent": 86,
+  "imdb_url": "https://www.imdb.com/title/tt0050083/",
+  "trailer_url": "https://www.youtube.com/watch?v=TEN-2uTi2c0",
+  "trailer_embed_url": "https://www.youtube.com/embed/TEN-2uTi2c0",
+  "poster_url": "https://image.tmdb.org/t/p/original/zhG3vKWyDRaZYoaww1UVAi29T9h.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/original/qqHQsStV6exghCM7zbObuYBiYxw.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/original/4MswIYfPj61xKIIkkAEjk6mjlHL.png"
+ },
+ {
+  "id": 103,
+  "imdb_id": "tt0075314",
+  "title": "Taxi Driver",
+  "original_title": "Taxi Driver",
+  "original_language": "en",
+  "tagline": "On every street in every city in this country, there's a nobody who dreams of being somebody. He's a lonely forgotten man desperate to prove that he's alive.",
+  "overview": "Suffering from insomnia, disturbed loner Travis Bickle takes a job as a New York City cabbie, haunting the streets nightly, growing increasingly detached from reality as he dreams of cleaning up the filthy city.",
+  "release_date": "1976-02-09",
+  "year": 1976,
+  "runtime": 114,
+  "vote_average": 8.1,
+  "vote_count": null,
+  "popularity": null,
+  "adult": false,
+  "genres": [
+   "Crime",
+   "Drama"
+  ],
+  "genre_ids": [
+   80,
+   18
+  ],
+  "trailer_youtube_id": "zdqCqDSTVNI",
+  "poster_path": "/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+  "backdrop_path": "/9uddYYTNcLWpzUkl5iw1RUYhLhY.jpg",
+  "logo_path": "/nfO5weKIHhHqwYvXzMelRSeH799.png",
+  "images": {
+   "posters": [
+    "/ekstpH614fwDX8DUln1a2Opz0N8.jpg"
+   ],
+   "backdrops": [
+    "/9uddYYTNcLWpzUkl5iw1RUYhLhY.jpg"
+   ],
+   "logos": [
+    "/nfO5weKIHhHqwYvXzMelRSeH799.png"
+   ]
+  },
+  "keywords": [],
+  "review_count": 1,
+  "categories": [
+   "Top_Rated",
+   "Crime"
+  ],
+  "slug": "taxi-driver-1976",
+  "language": "English",
+  "runtime_text": "1h 54m",
+  "rating_percent": 81,
+  "imdb_url": "https://www.imdb.com/title/tt0075314/",
+  "trailer_url": "https://www.youtube.com/watch?v=zdqCqDSTVNI",
+  "trailer_embed_url": "https://www.youtube.com/embed/zdqCqDSTVNI",
+  "poster_url": "https://image.tmdb.org/t/p/original/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/original/9uddYYTNcLWpzUkl5iw1RUYhLhY.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/original/nfO5weKIHhHqwYvXzMelRSeH799.png"
+ },
+ {
+  "id": 1422,
+  "imdb_id": "tt0407887",
+  "title": "The Departed",
+  "original_title": "The Departed",
+  "original_language": "en",
+  "tagline": "Cops or criminals. When you’re facing a loaded gun, what’s the difference?",
+  "overview": "To take down South Boston's Irish Mafia, the police send in one of their own to infiltrate the underworld, not realizing the syndicate has done likewise. While an undercover cop curries favor with the mob kingpin, a career criminal rises through the police ranks. But both sides soon discover there's a mole among them.",
+  "release_date": "2006-10-04",
+  "year": 2006,
+  "runtime": 151,
+  "vote_average": 8.2,
+  "vote_count": null,
+  "popularity": null,
+  "adult": false,
+  "genres": [
+   "Drama",
+   "Thriller",
+   "Crime"
+  ],
+  "genre_ids": [
+   18,
+   53,
+   80
+  ],
+  "trailer_youtube_id": "r-MiSNsCdQ4",
+  "poster_path": "/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
+  "backdrop_path": "/6WRrGYalXXveItfpnipYdayFkQB.jpg",
+  "logo_path": "/hgwPIc6SntSABkOcVby7inDKRSw.png",
+  "images": {
+   "posters": [
+    "/nT97ifVT2J1yMQmeq20Qblg61T.jpg"
+   ],
+   "backdrops": [
+    "/6WRrGYalXXveItfpnipYdayFkQB.jpg"
+   ],
+   "logos": [
+    "/hgwPIc6SntSABkOcVby7inDKRSw.png"
+   ]
+  },
+  "keywords": [],
+  "review_count": 0,
+  "categories": [
+   "Top_Rated",
+   "Drama"
+  ],
+  "slug": "the-departed-2006",
+  "language": "English",
+  "runtime_text": "2h 31m",
+  "rating_percent": 82,
+  "imdb_url": "https://www.imdb.com/title/tt0407887/",
+  "trailer_url": "https://www.youtube.com/watch?v=r-MiSNsCdQ4",
+  "trailer_embed_url": "https://www.youtube.com/embed/r-MiSNsCdQ4",
+  "poster_url": "https://image.tmdb.org/t/p/original/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/original/6WRrGYalXXveItfpnipYdayFkQB.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/original/hgwPIc6SntSABkOcVby7inDKRSw.png"
+ },
+ {
+  "id": 429,
+  "imdb_id": "tt0060196",
+  "title": "The Good, the Bad and the Ugly",
+  "original_title": "Il buono, il brutto, il cattivo",
+  "original_language": "it",
+  "tagline": "For three men the Civil War wasn't hell. It was practice.",
+  "overview": "While the Civil War rages on between the Union and the Confederacy, three men – a quiet loner, a ruthless hitman, and a Mexican bandit – comb the American Southwest in search of a strongbox containing $200,000 in stolen gold.",
+  "release_date": "1966-12-23",
+  "year": 1966,
+  "runtime": 161,
+  "vote_average": 8.5,
+  "vote_count": null,
+  "popularity": null,
+  "adult": false,
+  "genres": [
+   "Action"
+  ],
+  "genre_ids": [
+   28
+  ],
+  "trailer_youtube_id": "IFNUGzCOQoI",
+  "poster_path": "/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg",
+  "backdrop_path": "/x4biAVdPVCghBlsVIzB6NmbghIz.jpg",
+  "logo_path": "/6iEwNuV5u4MorDlJbBniApcqGF1.png",
+  "images": {
+   "posters": [
+    "/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg"
+   ],
+   "backdrops": [
+    "/x4biAVdPVCghBlsVIzB6NmbghIz.jpg"
+   ],
+   "logos": [
+    "/6iEwNuV5u4MorDlJbBniApcqGF1.png"
+   ]
+  },
+  "keywords": [],
+  "review_count": 1,
+  "categories": [
+   "Top_Rated",
+   "Western"
+  ],
+  "slug": "the-good-the-bad-and-the-ugly-1966",
+  "language": "Italian",
+  "runtime_text": "2h 41m",
+  "rating_percent": 85,
+  "imdb_url": "https://www.imdb.com/title/tt0060196/",
+  "trailer_url": "https://www.youtube.com/watch?v=IFNUGzCOQoI",
+  "trailer_embed_url": "https://www.youtube.com/embed/IFNUGzCOQoI",
+  "poster_url": "https://image.tmdb.org/t/p/original/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/original/x4biAVdPVCghBlsVIzB6NmbghIz.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/original/6iEwNuV5u4MorDlJbBniApcqGF1.png"
+ },
+ {
+  "id": 122,
+  "imdb_id": "tt0167260",
+  "title": "The Lord of the Rings: The Return of the King",
+  "original_title": "The Lord of the Rings: The Return of the King",
+  "original_language": "en",
+  "tagline": "The journey ends.",
+  "overview": "As armies mass for a final battle that will decide the fate of the world--and powerful, ancient forces of Light and Dark compete to determine the outcome--one member of the Fellowship of the Ring is revealed as the noble heir to the throne of the Kings of Men. Yet, the sole hope for triumph over evil lies with a brave hobbit, Frodo, who, accompanied by his loyal friend Sam and the hideous, wretched Gollum, ventures deep into the very dark heart of Mordor on his seemingly impossible quest to destroy the Ring of Power.",
+  "release_date": "2003-12-17",
+  "year": 2003,
+  "runtime": 201,
+  "vote_average": 8.5,
+  "vote_count": null,
+  "popularity": null,
+  "adult": false,
+  "genres": [
+   "Adventure",
+   "Fantasy",
+   "Action"
+  ],
+  "genre_ids": [
+   12,
+   14,
+   28
+  ],
+  "trailer_youtube_id": "zckJCxYxn1g",
+  "poster_path": "/uV4NEAkYNASLRuoNm7hDheC6VlZ.jpg",
+  "backdrop_path": "/ctiw6FZK4N36LmkjSklWEbuvlq9.jpg",
+  "logo_path": "/mZtF6SOsVddoK3I3VLi2oTZ5BR2.png",
+  "images": {
+   "posters": [
+    "/uV4NEAkYNASLRuoNm7hDheC6VlZ.jpg"
+   ],
+   "backdrops": [
+    "/ctiw6FZK4N36LmkjSklWEbuvlq9.jpg"
+   ],
+   "logos": [
+    "/mZtF6SOsVddoK3I3VLi2oTZ5BR2.png"
+   ]
+  },
+  "keywords": [],
+  "review_count": 1,
+  "categories": [
+   "Top_Rated",
+   "Adventure"
+  ],
+  "slug": "the-lord-of-the-rings-the-return-of-the-king-2003",
+  "language": "English",
+  "runtime_text": "3h 21m",
+  "rating_percent": 85,
+  "imdb_url": "https://www.imdb.com/title/tt0167260/",
+  "trailer_url": "https://www.youtube.com/watch?v=zckJCxYxn1g",
+  "trailer_embed_url": "https://www.youtube.com/embed/zckJCxYxn1g",
+  "poster_url": "https://image.tmdb.org/t/p/original/uV4NEAkYNASLRuoNm7hDheC6VlZ.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/original/ctiw6FZK4N36LmkjSklWEbuvlq9.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/original/mZtF6SOsVddoK3I3VLi2oTZ5BR2.png"
+ },
+ {
+  "id": 565,
+  "imdb_id": "tt0298130",
+  "title": "The Ring",
+  "original_title": "The Ring",
+  "original_language": "en",
+  "tagline": "Before you die, you see.",
+  "overview": "Journalist Rachel Keller investigates a strange videotape that may be behind the untimely deaths of four teenagers. There is an urban legend about this tape: the viewer will die seven days after watching it. Rachel tracks down the video... and watches it. Now she has just seven days to unravel the mystery of the Ring in order to save herself and her son.",
+  "release_date": "2002-10-18",
+  "year": 2002,
+  "runtime": 115,
+  "vote_average": 6.7,
+  "vote_count": null,
+  "popularity": null,
+  "adult": false,
+  "genres": [
+   "Horror",
+   "Mystery"
+  ],
+  "genre_ids": [
+   27,
+   9648
+  ],
+  "trailer_youtube_id": "CG7BAY6_hsw",
+  "poster_path": "/AeRpUynJKDpJveklBJipOYrVxCS.jpg",
+  "backdrop_path": "/6tuNQ16hC4Qp7wjTweKzUnnLBkI.jpg",
+  "logo_path": "/5lBxPgkZqj7QaMkTew7yr5AkCHH.png",
+  "images": {
+   "posters": [
+    "/AeRpUynJKDpJveklBJipOYrVxCS.jpg"
+   ],
+   "backdrops": [
+    "/6tuNQ16hC4Qp7wjTweKzUnnLBkI.jpg"
+   ],
+   "logos": [
+    "/5lBxPgkZqj7QaMkTew7yr5AkCHH.png"
+   ]
+  },
+  "keywords": [],
+  "review_count": 0,
+  "categories": [
+   "Top_Rated",
+   "Horror"
+  ],
+  "slug": "the-ring-2002",
+  "language": "English",
+  "runtime_text": "1h 55m",
+  "rating_percent": 67,
+  "imdb_url": "https://www.imdb.com/title/tt0298130/",
+  "trailer_url": "https://www.youtube.com/watch?v=CG7BAY6_hsw",
+  "trailer_embed_url": "https://www.youtube.com/embed/CG7BAY6_hsw",
+  "poster_url": "https://image.tmdb.org/t/p/original/AeRpUynJKDpJveklBJipOYrVxCS.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/original/6tuNQ16hC4Qp7wjTweKzUnnLBkI.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/original/5lBxPgkZqj7QaMkTew7yr5AkCHH.png"
+ },
+ {
+  "id": 278,
+  "imdb_id": "tt0111161",
+  "title": "The Shawshank Redemption",
+  "original_title": "The Shawshank Redemption",
+  "original_language": "en",
+  "tagline": "Fear can hold you prisoner. Hope can set you free.",
+  "overview": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+  "release_date": "1994-09-23",
+  "year": 1994,
+  "runtime": 142,
+  "vote_average": 8.7,
+  "vote_count": null,
+  "popularity": null,
+  "adult": false,
+  "genres": [
+   "Drama",
+   "Crime"
+  ],
+  "genre_ids": [
+   18,
+   80
+  ],
+  "trailer_youtube_id": "PLl99DlL6b4",
+  "poster_path": "/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+  "backdrop_path": "/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
+  "logo_path": "/1K53E8WXQW76Scg8upBObXSrbgN.png",
+  "images": {
+   "posters": [
+    "/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg"
+   ],
+   "backdrops": [
+    "/pNjh59JSxChQktamG3LMp9ZoQzp.jpg"
+   ],
+   "logos": [
+    "/1K53E8WXQW76Scg8upBObXSrbgN.png"
+   ]
+  },
+  "keywords": [],
+  "review_count": 1,
+  "categories": [
+   "Top_Rated",
+   "Drama"
+  ],
+  "slug": "the-shawshank-redemption-1994",
+  "language": "English",
+  "runtime_text": "2h 22m",
+  "rating_percent": 87,
+  "imdb_url": "https://www.imdb.com/title/tt0111161/",
+  "trailer_url": "https://www.youtube.com/watch?v=PLl99DlL6b4",
+  "trailer_embed_url": "https://www.youtube.com/embed/PLl99DlL6b4",
+  "poster_url": "https://image.tmdb.org/t/p/original/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/original/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/original/1K53E8WXQW76Scg8upBObXSrbgN.png"
  }
 ]
